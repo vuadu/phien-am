@@ -133,6 +133,13 @@ _(LIST_1000)
     "cache",
     "situation",
     "yard",
+    "book",
+    "total",
+    "information",
+    "technology",
+    "volatile",
+    "international",
+    "consideration",
   ])
   .forEach((w) => {
     console.log(
@@ -142,14 +149,15 @@ _(LIST_1000)
         .value()
     );
   });
-const lyric = `But if you wanna cry
-Cry on my shoulder
-If you need someone
-Who cares for you
-If you're feeling sad
-Your heart gets colder
-Yes I show you what real love can do
+let lyric;
+lyric = `There ain't no gold in this river
+That I've been washing my hands in forever
+I know there is hope in these waters
+But I can't bring myself to swim
+When I am drowning in this silence
+Baby, let me in
 `;
+lyric = "information technology";
 
 _(lyric)
   .split(/\n/g)
@@ -164,7 +172,7 @@ _(lyric)
     );
   });
 
-_("Can you feel me")
+_("")
   .split(/\n/g)
   .forEach((line) => {
     // console.log(line);

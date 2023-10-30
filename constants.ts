@@ -122,7 +122,7 @@ export const LETTER_MAPPING: Record<string, string> = {
   b: "b",
   a: "a",
   ʊ: "u",
-  t: "t",
+  t: "th",
   k: "k",
   ə: "ơ",
   z: "d",
