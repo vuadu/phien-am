@@ -1,23 +1,28 @@
 {
-  "name": "phien-am",
-  "module": "index.ts",
-  "type": "module",
-  "devDependencies": {
-    "@types/lodash": "^4.14.199",
-    "bun-types": "latest",
-    "peggy": "^3.0.2",
-    "ts-pegjs": "^4.2.1"
-  },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
+  "name": "spelling",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
-    "ipa-parser": "^1.0.3",
-    "lodash": "^4.17.21"
+    "next": "14.0.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^4.11.0"
   },
-  "scripts": {
-    "run:watch": "bun run --watch index.ts",
-    "gen:parser": "peggy --plugin ./node_modules/ts-pegjs/dist/tspegjs -o parser.generated.ts --cache api.pegjs",
-    "postinstall": "bun gen:parser"
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.0",
+    "postcss": "^8",
+    "tailwindcss": "^3",
+    "typescript": "^5"
   }
 }
