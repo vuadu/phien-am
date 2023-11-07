@@ -4,12 +4,12 @@ import { ENDING_VOWEL_MAPPING, LETTER_MAPPING, NULL_MAPPING } from "./constants"
 import { Syllable, parse } from "./parser.generated";
 
 const ipaDict = _(await Bun.file("./en_US.txt").text())
-  .split("\n")
+  .split("\n") //Split a string into substrings when endline
   .filter(_.identity)
-  .map((w) => w.trim().split("\t"))
+  .map((w) => w.trim().split("\t")) // w.trim() is method removes whitespace from both sides of a string
   .fromPairs()
   .value();
-// console.log(ipaDict);
+
 const getLetters = () =>
   _(ipaDict)
     .values()
@@ -40,6 +40,7 @@ export const ipaSymbolExamples = () =>
         )
       )
     );
+
 
 const map = (w: string) => {
   const ipa = ipaDict[w] ?? ipaDict[w.toLowerCase()] ?? "";
@@ -110,39 +111,14 @@ export const getEndingVowels = () =>
 
 _(LIST_1000)
   .shuffle() // DevSkim: ignore DS148264
-  .take(20)
+  .take(2)
   .concat([
-    "messy",
-    "less",
-    "thought",
-    "good",
-    "generation",
-    "gun",
-    "girl",
-    "next",
-    "tech",
-    "position",
-    "you",
-    "huge",
-    "quickly",
-    "tree",
-    "executive",
-    "together",
-    "audience",
-    "community",
-    "cache",
-    "situation",
-    "yard",
-    "book",
-    "total",
-    "information",
-    "technology",
-    "volatile",
-    "international",
+    "idea",
     "consideration",
   ])
   .forEach((w) => {
     console.log(
+      "==>",
       w,
       ..._(map(w))
         .map((p) => [p.ipa, p.vi /* JSON.stringify(p.ast), */])
@@ -162,7 +138,7 @@ lyric = "information technology";
 _(lyric)
   .split(/\n/g)
   .forEach((line) => {
-    // console.log(line);
+    console.log(line);
     console.log(
       line
         .split(/\s/)
