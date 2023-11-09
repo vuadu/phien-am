@@ -8,7 +8,7 @@ const SearchDisplay = (props: SceneProps) => {
   const { clickResult } = props;
 
   return (
-    <div className="absolute top-1/3 -z-50">
+    <div className="absolute top-1/3 -z-50 px-4">
       <p className="text-[#1C2C39] text-[36px] font-medium">
         {clickResult.username}
       </p>

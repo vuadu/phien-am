@@ -22,7 +22,7 @@ export default function Home() {
   return (
     <div className="w-full h-screen items-center justify-between sm:p-0 px-4">
       <Header />
-      <div className="sm:w-[720px] mx-auto mt-10">
+      <div className="sm:w-[720px] mx-auto mt-20">
         <SearchBar
           setResults={setResults}
           setSreachResultWindow={setSreachResultWindow}
