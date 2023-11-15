@@ -111,52 +111,51 @@ export const getEndingVowels = () =>
 
 _(LIST_1000)
   .shuffle() // DevSkim: ignore DS148264
-  .take(2)
+  .take(100)
   .concat([
     "idea",
-    "consideration",
   ])
   .forEach((w) => {
     console.log(
-      "==>",
       w,
       ..._(map(w))
-        .map((p) => [p.ipa, p.vi /* JSON.stringify(p.ast), */])
+        .map((p) => [p.ipa, p.vi])
         .value()
     );
   });
-let lyric;
-lyric = `There ain't no gold in this river
-That I've been washing my hands in forever
-I know there is hope in these waters
-But I can't bring myself to swim
-When I am drowning in this silence
-Baby, let me in
-`;
-lyric = "information technology";
 
-_(lyric)
-  .split(/\n/g)
-  .forEach((line) => {
-    console.log(line);
-    console.log(
-      line
-        .split(/\s/)
-        .map(map)
-        .map((s) => s[0].vi)
-        .join(" ")
-    );
-  });
+// let lyric;
+// lyric = `There ain't no gold in this river
+// That I've been washing my hands in forever
+// I know there is hope in these waters
+// But I can't bring myself to swim
+// When I am drowning in this silence
+// Baby, let me in
+// `;
+// lyric = "information technology";
 
-_("")
-  .split(/\n/g)
-  .forEach((line) => {
-    // console.log(line);
-    console.log(
-      line
-        .split(/\s/)
-        .map(map)
-        .map((s) => s[0].vi)
-        .join(" ")
-    );
-  });
+// _(lyric)
+//   .split(/\n/g)
+//   .forEach((line) => {
+//     console.log(line);
+//     console.log(
+//       line
+//         .split(/\s/)
+//         .map(map)
+//         .map((s) => s[0].vi)
+//         .join(" ")
+//     );
+//   });
+
+// _("")
+//   .split(/\n/g)
+//   .forEach((line) => {
+//     // console.log(line);
+//     console.log(
+//       line
+//         .split(/\s/)
+//         .map(map)
+//         .map((s) => s[0].vi)
+//         .join(" ")
+//     );
+//   });

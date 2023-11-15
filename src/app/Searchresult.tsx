@@ -11,16 +11,15 @@ export type SceneProps = {
 const Searchresult = (props: SceneProps) => {
   const { results, sreachResultWindow, setSreachResultWindow, setClickResult } =
     props;
-  console.log(results);
 
   return (
-    <div className="text-black bg-[#EEEEEE]  rounded-[10px] mt-1">
+    <div className="text-black bg-[#EEEEEE] dark:bg-[#101729] dark:border-[1px] dark:border-[#364154] rounded-[10px] mt-1 absolute z-10 w-[720px]">
       {results.map((result, id) => {
         return (
           <div
             key={id}
             style={{ display: sreachResultWindow }}
-            className="w-full items-center cursor-pointer text-[#1C2C39]/80 px-5 py-3.5 text-[16px] hover:bg-[#B2B2B2]/20 hover:rounded-[10px]"
+            className="w-full items-center cursor-pointer text-[#1C2C39]/80 dark:text-[#B2B2B2] px-5 py-3.5 text-[16px] hover:bg-[#B2B2B2]/20 hover:rounded-[10px]"
             onClick={() => {
               setClickResult(result);
               setSreachResultWindow("none");

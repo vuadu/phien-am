@@ -1,5 +1,6 @@
 "use client";
-import React, { useState } from "react";
+import { Data } from "../app/api/data.json";
+import React, { useEffect, useState } from "react";
 import { BiSearch } from "react-icons/bi";
 
 export type SceneProps = {
@@ -11,28 +12,53 @@ const SearchBar = (props: SceneProps) => {
   const { setResults, setSreachResultWindow } = props;
   const [input, setInput] = useState("");
 
-  const fetchData = (value: any) => {
-    fetch("https://jsonplaceholder.typicode.com/users")
-      .then((response) => response.json())
-      .then((json) => {
-        const results = json.filter((user: any) => {
-          return (
-            value &&
-            user &&
-            user.name &&
-            user.name.toLowerCase().includes(value)
-          );
+  // const fetchData = (value: any) => {
+  //   fetch("/data.json")
+  //     .then((response) => response.json())
+  //     .then((json) => {
+  //       const results = json.filter((user: any) => {
+  //         return (
+  //           value &&
+  //           user &&
+  //           user.name &&
+  //           user.name.toLowerCase().includes(value)
+  //         );
+  //       });
+  //       setResults(results);
+  //     });
+  // };
+
+  // useEffect(() => {
+  const fetchData = async (value: any) => {
+    try {
+      const response = await fetch("/data.json")
+        .then((response) => response.json())
+        .then((json) => {
+          console.log(json);
+          const results = json.filter((user: any) => {
+            return (
+              value &&
+              user &&
+              user.name &&
+              user.name.toLowerCase().includes(value)
+            );
+          });
+          setResults(results);
         });
-        setResults(results);
-      });
+    } catch (error) {
+      console.error("Error fetching data:", error);
+    }
   };
 
+  // }, []);
+
   const handChange = (value: any) => {
+    console.log(value);
     setInput(value);
     fetchData(value);
   };
   return (
-    <div className="w-full flex items-center mt-4 h-[50px] bg-[#EEEEEE] text-[#B2B2B2] text-[20px] font-regular py-2 px-4 rounded-[10px]">
+    <div className="w-full flex items-center mt-4 h-[50px] bg-[#EEEEEE] dark:bg-transparent dark:border-[1px] dark:border-[#364154] text-[#B2B2B2] text-[20px] font-regular py-2 px-4 rounded-[10px]">
       <BiSearch size={24} className="text-[#B2B2B2]" />
       <div className="w-full">
         <form action="" className="">

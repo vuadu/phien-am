@@ -1,8 +1,14 @@
 import React from "react";
+import { BsFillMoonStarsFill } from "react-icons/bs";
+import { BsFillSunFill } from "react-icons/bs";
 
-export default function Header() {
+export type SceneProps = {
+  changeTheme: () => void;
+};
+export default function Header(props: SceneProps) {
+  const { changeTheme } = props;
   return (
-    <header className="h-[100px] sm:w-[1200px] flex mx-auto justify-between items-center  ">
+    <header className="h-[100px] w-[1024px] flex mx-auto justify-between items-center  ">
       <div className="flex items-center">
         <svg
           width="125"
@@ -30,6 +36,14 @@ export default function Header() {
         <p className="font-medium -ml-10   text-[24px] text-[#3662E3]">
           Vuadu Spelling
         </p>
+      </div>
+      <div
+        className="h-9 w-16 bg-[#B2B2B2]/20 rounded-full text-black flex items-center px-1 cursor-pointer"
+        onClick={changeTheme}
+      >
+        <div className="h-7 w-7 bg-white rounded-full text-black flex items-center justify-center">
+          <BsFillSunFill />
+        </div>
       </div>
     </header>
   );
