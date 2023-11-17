@@ -1,215 +1,6002 @@
 [
-    {
-      "id": 1,
-      "word": "apple",
-      "engspell": "Bret",
-      "viespell": "Sincere@april.biz"
-    },
-    {
-      "id": 2,
-      "name": "Ervin Howell",
-      "username": "Antonette",
-      "email": "Shanna@melissa.tv",
-      "address": {
-        "street": "Victor Plains",
-        "suite": "Suite 879",
-        "city": "Wisokyburgh",
-        "zipcode": "90566-7771",
-        "geo": {
-          "lat": "-43.9509",
-          "lng": "-34.4618"
-        }
-      },
-      "phone": "010-692-6593 x09125",
-      "website": "anastasia.net",
-      "company": {
-        "name": "Deckow-Crist",
-        "catchPhrase": "Proactive didactic contingency",
-        "bs": "synergize scalable supply-chains"
-      }
-    },
-    {
-      "id": 3,
-      "name": "Clementine Bauch",
-      "username": "Samantha",
-      "email": "Nathan@yesenia.net",
-      "address": {
-        "street": "Douglas Extension",
-        "suite": "Suite 847",
-        "city": "McKenziehaven",
-        "zipcode": "59590-4157",
-        "geo": {
-          "lat": "-68.6102",
-          "lng": "-47.0653"
-        }
-      },
-      "phone": "1-463-123-4447",
-      "website": "ramiro.info",
-      "company": {
-        "name": "Romaguera-Jacobson",
-        "catchPhrase": "Face to face bifurcated interface",
-        "bs": "e-enable strategic applications"
-      }
-    },
-    {
-      "id": 4,
-      "name": "Patricia Lebsack",
-      "username": "Karianne",
-      "email": "Julianne.OConner@kory.org",
-      "address": {
-        "street": "Hoeger Mall",
-        "suite": "Apt. 692",
-        "city": "South Elvis",
-        "zipcode": "53919-4257",
-        "geo": {
-          "lat": "29.4572",
-          "lng": "-164.2990"
-        }
-      },
-      "phone": "493-170-9623 x156",
-      "website": "kale.biz",
-      "company": {
-        "name": "Robel-Corkery",
-        "catchPhrase": "Multi-tiered zero tolerance productivity",
-        "bs": "transition cutting-edge web services"
-      }
-    },
-    {
-      "id": 5,
-      "name": "Chelsey Dietrich",
-      "username": "Kamren",
-      "email": "Lucio_Hettinger@annie.ca",
-      "address": {
-        "street": "Skiles Walks",
-        "suite": "Suite 351",
-        "city": "Roscoeview",
-        "zipcode": "33263",
-        "geo": {
-          "lat": "-31.8129",
-          "lng": "62.5342"
-        }
-      },
-      "phone": "(254)954-1289",
-      "website": "demarco.info",
-      "company": {
-        "name": "Keebler LLC",
-        "catchPhrase": "User-centric fault-tolerant solution",
-        "bs": "revolutionize end-to-end systems"
-      }
-    },
-    {
-      "id": 6,
-      "name": "Mrs. Dennis Schulist",
-      "username": "Leopoldo_Corkery",
-      "email": "Karley_Dach@jasper.info",
-      "address": {
-        "street": "Norberto Crossing",
-        "suite": "Apt. 950",
-        "city": "South Christy",
-        "zipcode": "23505-1337",
-        "geo": {
-          "lat": "-71.4197",
-          "lng": "71.7478"
-        }
-      },
-      "phone": "1-477-935-8478 x6430",
-      "website": "ola.org",
-      "company": {
-        "name": "Considine-Lockman",
-        "catchPhrase": "Synchronised bottom-line interface",
-        "bs": "e-enable innovative applications"
-      }
-    },
-    {
-      "id": 7,
-      "name": "Kurtis Weissnat",
-      "username": "Elwyn.Skiles",
-      "email": "Telly.Hoeger@billy.biz",
-      "address": {
-        "street": "Rex Trail",
-        "suite": "Suite 280",
-        "city": "Howemouth",
-        "zipcode": "58804-1099",
-        "geo": {
-          "lat": "24.8918",
-          "lng": "21.8984"
-        }
-      },
-      "phone": "210.067.6132",
-      "website": "elvis.io",
-      "company": {
-        "name": "Johns Group",
-        "catchPhrase": "Configurable multimedia task-force",
-        "bs": "generate enterprise e-tailers"
-      }
-    },
-    {
-      "id": 8,
-      "name": "Nicholas Runolfsdottir V",
-      "username": "Maxime_Nienow",
-      "email": "Sherwood@rosamond.me",
-      "address": {
-        "street": "Ellsworth Summit",
-        "suite": "Suite 729",
-        "city": "Aliyaview",
-        "zipcode": "45169",
-        "geo": {
-          "lat": "-14.3990",
-          "lng": "-120.7677"
-        }
-      },
-      "phone": "586.493.6943 x140",
-      "website": "jacynthe.com",
-      "company": {
-        "name": "Abernathy Group",
-        "catchPhrase": "Implemented secondary concept",
-        "bs": "e-enable extensible e-tailers"
-      }
-    },
-    {
-      "id": 9,
-      "name": "Glenna Reichert",
-      "username": "Delphine",
-      "email": "Chaim_McDermott@dana.io",
-      "address": {
-        "street": "Dayna Park",
-        "suite": "Suite 449",
-        "city": "Bartholomebury",
-        "zipcode": "76495-3109",
-        "geo": {
-          "lat": "24.6463",
-          "lng": "-168.8889"
-        }
-      },
-      "phone": "(775)976-6794 x41206",
-      "website": "conrad.com",
-      "company": {
-        "name": "Yost and Sons",
-        "catchPhrase": "Switchable contextually-based project",
-        "bs": "aggregate real-time technologies"
-      }
-    },
-    {
-      "id": 10,
-      "name": "Clementina DuBuque",
-      "username": "Moriah.Stanton",
-      "email": "Rey.Padberg@karina.biz",
-      "address": {
-        "street": "Kattie Turnpike",
-        "suite": "Suite 198",
-        "city": "Lebsackbury",
-        "zipcode": "31428-2261",
-        "geo": {
-          "lat": "-38.2386",
-          "lng": "57.2232"
-        }
-      },
-      "phone": "024-648-3804",
-      "website": "ambrose.net",
-      "company": {
-        "name": "Hoeger LLC",
-        "catchPhrase": "Centralized empowering task-force",
-        "bs": "target end-to-end models"
-      }
-    }
-  ]
+  {
+    "id": 1,
+    "word": "Democrat",
+    "engspell": "/ˈdɛməˌkɹæt/",
+    "viespell": "ĐE-mơc-ret"
+  },
+  {
+    "id": 2,
+    "word": "class",
+    "engspell": "/ˈkɫæs/",
+    "viespell": "K_-le-x_"
+  },
+  {
+    "id": 3,
+    "word": "pick",
+    "engspell": "/ˈpɪk/",
+    "viespell": "PICH"
+  },
+  {
+    "id": 4,
+    "word": "market",
+    "engspell": "/ˈmɑɹkət/, /ˈmɑɹkɪt/",
+    "viespell": "MA-r_-kơt,MA-r_-kit"
+  },
+  {
+    "id": 5,
+    "word": "dark",
+    "engspell": "/ˈdɑɹk/",
+    "viespell": "ĐA-r_-k_"
+  },
+  {
+    "id": 6,
+    "word": "on",
+    "engspell": "/ˈɑn/, /ˈɔn/",
+    "viespell": "AN,ON"
+  },
+  {
+    "id": 7,
+    "word": "law",
+    "engspell": "/ˈɫɑ/, /ˈɫɔ/",
+    "viespell": "LA,LO"
+  },
+  {
+    "id": 8,
+    "word": "current",
+    "engspell": "/ˈkɑɹənt/, /ˈkɝənt/, /ˈkɝnt/",
+    "viespell": "KA-rơn-th_,KƠ-rơn-th_,KƠ-r_-n_-th_"
+  },
+  {
+    "id": 9,
+    "word": "and",
+    "engspell": "/ˈænd/, /ənd/",
+    "viespell": "EN-đ_,ơn-đ_"
+  },
+  {
+    "id": 10,
+    "word": "happen",
+    "engspell": "/ˈhæpən/",
+    "viespell": "HE-pơn"
+  },
+  {
+    "id": 11,
+    "word": "game",
+    "engspell": "/ˈɡeɪm/",
+    "viespell": "GÂY-m_"
+  },
+  {
+    "id": 12,
+    "word": "join",
+    "engspell": "/ˈdʒɔɪn/",
+    "viespell": "DO-in"
+  },
+  {
+    "id": 13,
+    "word": "n't",
+    "engspell": "",
+    "viespell": ""
+  },
+  {
+    "id": 14,
+    "word": "can",
+    "engspell": "/ˈkæn/, /kən/",
+    "viespell": "KEN,kơn"
+  },
+  {
+    "id": 15,
+    "word": "anyone",
+    "engspell": "/ˈɛniˌwən/, /ˈɛniwən/",
+    "viespell": "E-ni-uơn,E-ni-uơn"
+  },
+  {
+    "id": 16,
+    "word": "feel",
+    "engspell": "/ˈfiɫ/",
+    "viespell": "PHY-l_"
+  },
+  {
+    "id": 17,
+    "word": "perform",
+    "engspell": "/pɝˈfɔɹm/",
+    "viespell": "pơ-R_-pho-r_-m_"
+  },
+  {
+    "id": 18,
+    "word": "whatever",
+    "engspell": "/ˌhwəˈtɛvɝ/, /ˌwəˈtɛvɝ/",
+    "viespell": "h_-uơ-THE-vơ-r_,uơ-THE-vơ-r_"
+  },
+  {
+    "id": 19,
+    "word": "among",
+    "engspell": "/əˈməŋ/",
+    "viespell": "ơ-MƠNG"
+  },
+  {
+    "id": 20,
+    "word": "candidate",
+    "engspell": "/ˈkændədeɪt/, /ˈkænədɪt/",
+    "viespell": "KEN-đơ-đây-th_,KE-nơ-đit"
+  },
+  {
+    "id": 21,
+    "word": "own",
+    "engspell": "/ˈoʊn/",
+    "viespell": "ÂU-n_"
+  },
+  {
+    "id": 22,
+    "word": "world",
+    "engspell": "/ˈwɝɫd/",
+    "viespell": "UƠ-r_-l_-đ_"
+  },
+  {
+    "id": 23,
+    "word": "hot",
+    "engspell": "/ˈhɑt/",
+    "viespell": "HAT"
+  },
+  {
+    "id": 24,
+    "word": "east",
+    "engspell": "/ˈist/",
+    "viespell": "I-x_-th_"
+  },
+  {
+    "id": 25,
+    "word": "operation",
+    "engspell": "/ˌɑpɝˈeɪʃən/",
+    "viespell": "a-pơ-RÂY-sơn"
+  },
+  {
+    "id": 26,
+    "word": "newspaper",
+    "engspell": "/ˈnuzˌpeɪpɝ/",
+    "viespell": "NU-d_-pây-pơ-r_"
+  },
+  {
+    "id": 27,
+    "word": "of",
+    "engspell": "/ˈəv/",
+    "viespell": "Ơ-v_"
+  },
+  {
+    "id": 28,
+    "word": "daughter",
+    "engspell": "/ˈdɔtɝ/",
+    "viespell": "ĐO-thơ-r_"
+  },
+  {
+    "id": 29,
+    "word": "body",
+    "engspell": "/ˈbɑdi/",
+    "viespell": "BA-đi"
+  },
+  {
+    "id": 30,
+    "word": "purpose",
+    "engspell": "/ˈpɝpəs/",
+    "viespell": "PƠ-r_-pơ-x_"
+  },
+  {
+    "id": 31,
+    "word": "I",
+    "engspell": "/ˈaɪ/",
+    "viespell": "AI"
+  },
+  {
+    "id": 32,
+    "word": "despite",
+    "engspell": "/dɪˈspaɪt/",
+    "viespell": "đi-X_-pai-th_"
+  },
+  {
+    "id": 33,
+    "word": "trial",
+    "engspell": "/ˈtɹaɪəɫ/, /ˈtɹaɪɫ/",
+    "viespell": "TRAI-ơ-l_,TRAI-l_"
+  },
+  {
+    "id": 34,
+    "word": "specific",
+    "engspell": "/spəˈsɪfɪk/, /spɪˈsɪfɪk/",
+    "viespell": "x_-pơ-XI-phich,x_-pi-XI-phich"
+  },
+  {
+    "id": 35,
+    "word": "just",
+    "engspell": "/ˈdʒəst/, /dʒɪst/",
+    "viespell": "DƠ-x_-th_,di-x_-th_"
+  },
+  {
+    "id": 36,
+    "word": "drive",
+    "engspell": "/ˈdɹaɪv/",
+    "viespell": "Đ_-rai-v_"
+  },
+  {
+    "id": 37,
+    "word": "only",
+    "engspell": "/ˈoʊnɫi/",
+    "viespell": "ÂU-n_-ly"
+  },
+  {
+    "id": 38,
+    "word": "civil",
+    "engspell": "/ˈsɪvəɫ/",
+    "viespell": "XI-vơ-l_"
+  },
+  {
+    "id": 39,
+    "word": "private",
+    "engspell": "/ˈpɹaɪvət/",
+    "viespell": "P_-rai-vơt"
+  },
+  {
+    "id": 40,
+    "word": "account",
+    "engspell": "/əˈkaʊnt/",
+    "viespell": "ơ-KAO-n_-th_"
+  },
+  {
+    "id": 41,
+    "word": "American",
+    "engspell": "/əˈmɛɹəkən/, /əˈmɛɹɪkən/",
+    "viespell": "ơ-ME-rơ-kơn,ơ-ME-ri-kơn"
+  },
+  {
+    "id": 42,
+    "word": "hand",
+    "engspell": "/ˈhænd/",
+    "viespell": "HEN-đ_"
+  },
+  {
+    "id": 43,
+    "word": "up",
+    "engspell": "/ˈəp/",
+    "viespell": "ƠP"
+  },
+  {
+    "id": 44,
+    "word": "professor",
+    "engspell": "/pɹəˈfɛsɝ/",
+    "viespell": "p_-rơ-PHE-xơ-r_"
+  },
+  {
+    "id": 45,
+    "word": "TV",
+    "engspell": "/ˈtiˈvi/, /ˌtɛɫəˈvɪʒən/",
+    "viespell": "THY-VI,the-lơ-VI-dơn"
+  },
+  {
+    "id": 46,
+    "word": "represent",
+    "engspell": "/ˌɹɛpɹɪˈzɛnt/",
+    "viespell": "rep-ri-DEN-th_"
+  },
+  {
+    "id": 47,
+    "word": "change",
+    "engspell": "/ˈtʃeɪndʒ/",
+    "viespell": "CHÂY-n_-d_"
+  },
+  {
+    "id": 48,
+    "word": "adult",
+    "engspell": "/ˈædəɫt/, /əˈdəɫt/",
+    "viespell": "E-đơ-l_-th_,ơ-ĐƠ-l_-th_"
+  },
+  {
+    "id": 49,
+    "word": "sometimes",
+    "engspell": "/ˈsəmˌtaɪmz/, /səmˈtaɪmz/",
+    "viespell": "XƠM-thai-m_-d_,xơm-THAI-m_-d_"
+  },
+  {
+    "id": 50,
+    "word": "friend",
+    "engspell": "/ˈfɹɛnd/",
+    "viespell": "PH_-ren-đ_"
+  },
+  {
+    "id": 51,
+    "word": "her",
+    "engspell": "/ˈhɝ/, /hɝ/",
+    "viespell": "HƠ-r_,hơ-r_"
+  },
+  {
+    "id": 52,
+    "word": "cover",
+    "engspell": "/ˈkəvɝ/",
+    "viespell": "KƠ-vơ-r_"
+  },
+  {
+    "id": 53,
+    "word": "moment",
+    "engspell": "/ˈmoʊmənt/",
+    "viespell": "MÂU-mơn-th_"
+  },
+  {
+    "id": 54,
+    "word": "trip",
+    "engspell": "/ˈtɹɪp/",
+    "viespell": "TRIP"
+  },
+  {
+    "id": 55,
+    "word": "college",
+    "engspell": "/ˈkɑɫɪdʒ/",
+    "viespell": "KA-ly-d_"
+  },
+  {
+    "id": 56,
+    "word": "Mrs",
+    "engspell": "/ˈmɪsɪz/",
+    "viespell": "MY-xi-d_"
+  },
+  {
+    "id": 57,
+    "word": "some",
+    "engspell": "/ˈsəm/",
+    "viespell": "XƠM"
+  },
+  {
+    "id": 58,
+    "word": "federal",
+    "engspell": "/ˈfɛdɝəɫ/, /ˈfɛdɹəɫ/",
+    "viespell": "PHE-đơ-rơ-l_,PHE-đ_-rơ-l_"
+  },
+  {
+    "id": 59,
+    "word": "who",
+    "engspell": "/ˈhu/",
+    "viespell": "HU"
+  },
+  {
+    "id": 60,
+    "word": "season",
+    "engspell": "/ˈsizən/",
+    "viespell": "XI-dơn"
+  },
+  {
+    "id": 61,
+    "word": "five",
+    "engspell": "/ˈfaɪv/",
+    "viespell": "PHAI-v_"
+  },
+  {
+    "id": 62,
+    "word": "thousand",
+    "engspell": "/ˈθaʊzən/, /ˈθaʊzənd/",
+    "viespell": "THAO-dơn,THAO-dơn-đ_"
+  },
+  {
+    "id": 63,
+    "word": "money",
+    "engspell": "/ˈməni/",
+    "viespell": "MƠ-ni"
+  },
+  {
+    "id": 64,
+    "word": "short",
+    "engspell": "/ˈʃɔɹt/",
+    "viespell": "SO-r_-th_"
+  },
+  {
+    "id": 65,
+    "word": "begin",
+    "engspell": "/bɪˈɡɪn/",
+    "viespell": "bi-GHIN"
+  },
+  {
+    "id": 66,
+    "word": "none",
+    "engspell": "/ˈnən/",
+    "viespell": "NƠN"
+  },
+  {
+    "id": 67,
+    "word": "contain",
+    "engspell": "/kənˈteɪn/",
+    "viespell": "kơn-THÂY-n_"
+  },
+  {
+    "id": 68,
+    "word": "maybe",
+    "engspell": "/ˈmeɪbi/",
+    "viespell": "MÂY-bi"
+  },
+  {
+    "id": 69,
+    "word": "someone",
+    "engspell": "/ˈsəmˌwən/",
+    "viespell": "XƠM-uơn"
+  },
+  {
+    "id": 70,
+    "word": "worker",
+    "engspell": "/ˈwɝkɝ/",
+    "viespell": "UƠ-r_-kơ-r_"
+  },
+  {
+    "id": 71,
+    "word": "identify",
+    "engspell": "/aɪˈdɛntəˌfaɪ/",
+    "viespell": "ai-ĐEN-thơ-phai"
+  },
+  {
+    "id": 72,
+    "word": "more",
+    "engspell": "/ˈmɔɹ/",
+    "viespell": "MO-r_"
+  },
+  {
+    "id": 73,
+    "word": "suggest",
+    "engspell": "/səˈdʒɛst/",
+    "viespell": "xơ-DE-x_-th_"
+  },
+  {
+    "id": 74,
+    "word": "come",
+    "engspell": "/ˈkəm/",
+    "viespell": "KƠM"
+  },
+  {
+    "id": 75,
+    "word": "fight",
+    "engspell": "/ˈfaɪt/",
+    "viespell": "PHAI-th_"
+  },
+  {
+    "id": 76,
+    "word": "particularly",
+    "engspell": "/ˌpɑɹˈtɪkjəɫɝɫi/, /pɝˈtɪkjəɫɝɫi/",
+    "viespell": "pa-r_-THY-kơ-lơ-r_-ly,pơ-R_-thy-kơ-lơ-r_-ly"
+  },
+  {
+    "id": 77,
+    "word": "period",
+    "engspell": "/ˈpɪɹiəd/",
+    "viespell": "PI-ri-ơ-đ_"
+  },
+  {
+    "id": 78,
+    "word": "finish",
+    "engspell": "/ˈfɪnɪʃ/",
+    "viespell": "PHY-ni-s_"
+  },
+  {
+    "id": 79,
+    "word": "plan",
+    "engspell": "/ˈpɫæn/",
+    "viespell": "P_-len"
+  },
+  {
+    "id": 80,
+    "word": "care",
+    "engspell": "/ˈkɛɹ/",
+    "viespell": "KE-r_"
+  },
+  {
+    "id": 81,
+    "word": "return",
+    "engspell": "/ɹiˈtɝn/, /ɹɪˈtɝn/",
+    "viespell": "ri-THƠ-r_-n_,ri-THƠ-r_-n_"
+  },
+  {
+    "id": 82,
+    "word": "tell",
+    "engspell": "/ˈtɛɫ/",
+    "viespell": "THE-l_"
+  },
+  {
+    "id": 83,
+    "word": "difference",
+    "engspell": "/ˈdɪfɝəns/, /ˈdɪfɹəns/",
+    "viespell": "ĐI-phơ-rơn-x_,ĐI-ph_-rơn-x_"
+  },
+  {
+    "id": 84,
+    "word": "model",
+    "engspell": "/ˈmɑdəɫ/",
+    "viespell": "MA-đơ-l_"
+  },
+  {
+    "id": 85,
+    "word": "down",
+    "engspell": "/ˈdaʊn/",
+    "viespell": "ĐAO-n_"
+  },
+  {
+    "id": 86,
+    "word": "chance",
+    "engspell": "/ˈtʃæns/",
+    "viespell": "CHEN-x_"
+  },
+  {
+    "id": 87,
+    "word": "conference",
+    "engspell": "/ˈkɑnfɝəns/, /ˈkɑnfɹəns/",
+    "viespell": "KAN-phơ-rơn-x_,KAN-ph_-rơn-x_"
+  },
+  {
+    "id": 88,
+    "word": "whose",
+    "engspell": "/ˈhuz/",
+    "viespell": "HU-d_"
+  },
+  {
+    "id": 89,
+    "word": "service",
+    "engspell": "/ˈsɝvəs/, /ˈsɝvɪs/",
+    "viespell": "XƠ-r_-vơ-x_,XƠ-r_-vi-x_"
+  },
+  {
+    "id": 90,
+    "word": "officer",
+    "engspell": "/ˈɔfəsɝ/, /ˈɔfɪsɝ/",
+    "viespell": "O-phơ-xơ-r_,O-phy-xơ-r_"
+  },
+  {
+    "id": 91,
+    "word": "area",
+    "engspell": "/ˈɛɹiə/",
+    "viespell": "E-ri-ơ"
+  },
+  {
+    "id": 92,
+    "word": "police",
+    "engspell": "/pəˈɫis/",
+    "viespell": "pơ-LY-x_"
+  },
+  {
+    "id": 93,
+    "word": "try",
+    "engspell": "/ˈtɹaɪ/",
+    "viespell": "TRAI"
+  },
+  {
+    "id": 94,
+    "word": "die",
+    "engspell": "/ˈdaɪ/",
+    "viespell": "ĐAI"
+  },
+  {
+    "id": 95,
+    "word": "husband",
+    "engspell": "/ˈhəzbənd/",
+    "viespell": "HƠ-d_-bơn-đ_"
+  },
+  {
+    "id": 96,
+    "word": "actually",
+    "engspell": "/ˈækˌtʃuəɫi/, /ˈækʃəɫi/, /ˈæktʃɫi/",
+    "viespell": "ECH-chu-ơ-ly,ECH-sơ-ly,ECH-ch_-ly"
+  },
+  {
+    "id": 97,
+    "word": "even",
+    "engspell": "/ˈivɪn/",
+    "viespell": "I-vin"
+  },
+  {
+    "id": 98,
+    "word": "dead",
+    "engspell": "/ˈdɛd/",
+    "viespell": "ĐE-đ_"
+  },
+  {
+    "id": 99,
+    "word": "magazine",
+    "engspell": "/ˈmæɡəˌzin/",
+    "viespell": "ME-gơ-din"
+  },
+  {
+    "id": 100,
+    "word": "violence",
+    "engspell": "/ˈvaɪəɫəns/",
+    "viespell": "VAI-ơ-lơn-x_"
+  },
+  {
+    "id": 101,
+    "word": "stay",
+    "engspell": "/ˈsteɪ/",
+    "viespell": "X_-thây"
+  },
+  {
+    "id": 102,
+    "word": "court",
+    "engspell": "/ˈkɔɹt/",
+    "viespell": "KO-r_-th_"
+  },
+  {
+    "id": 103,
+    "word": "say",
+    "engspell": "/ˈseɪ/",
+    "viespell": "XÂY"
+  },
+  {
+    "id": 104,
+    "word": "eye",
+    "engspell": "/ˈaɪ/",
+    "viespell": "AI"
+  },
+  {
+    "id": 105,
+    "word": "impact",
+    "engspell": "/ˈɪmpækt/, /ˌɪmˈpækt/",
+    "viespell": "IM-pech-th_,im-PECH-th_"
+  },
+  {
+    "id": 106,
+    "word": "which",
+    "engspell": "/ˈhwɪtʃ/, /ˈwɪtʃ/",
+    "viespell": "H_-uy-ch_,UY-ch_"
+  },
+  {
+    "id": 107,
+    "word": "small",
+    "engspell": "/ˈsmɔɫ/",
+    "viespell": "X_-mo-l_"
+  },
+  {
+    "id": 108,
+    "word": "sort",
+    "engspell": "/ˈsɔɹt/",
+    "viespell": "XO-r_-th_"
+  },
+  {
+    "id": 109,
+    "word": "site",
+    "engspell": "/ˈsaɪt/",
+    "viespell": "XAI-th_"
+  },
+  {
+    "id": 110,
+    "word": "rather",
+    "engspell": "/ˈɹæðɝ/, /ˈɹəðɝ/",
+    "viespell": "RE-đơ-r_,RƠ-đơ-r_"
+  },
+  {
+    "id": 111,
+    "word": "majority",
+    "engspell": "/məˈdʒɔɹəti/",
+    "viespell": "mơ-DO-rơ-thy"
+  },
+  {
+    "id": 112,
+    "word": "garden",
+    "engspell": "/ˈɡɑɹdən/",
+    "viespell": "GA-r_-đơn"
+  },
+  {
+    "id": 113,
+    "word": "fast",
+    "engspell": "/ˈfæst/",
+    "viespell": "PHE-x_-th_"
+  },
+  {
+    "id": 114,
+    "word": "half",
+    "engspell": "/ˈhæf/",
+    "viespell": "HE-ph_"
+  },
+  {
+    "id": 115,
+    "word": "seven",
+    "engspell": "/ˈsɛvən/",
+    "viespell": "XE-vơn"
+  },
+  {
+    "id": 116,
+    "word": "share",
+    "engspell": "/ˈʃɛɹ/",
+    "viespell": "SE-r_"
+  },
+  {
+    "id": 117,
+    "word": "defense",
+    "engspell": "/dɪˈfɛns/",
+    "viespell": "đi-PHEN-x_"
+  },
+  {
+    "id": 118,
+    "word": "message",
+    "engspell": "/ˈmɛsədʒ/, /ˈmɛsɪdʒ/",
+    "viespell": "ME-xơ-d_,ME-xi-d_"
+  },
+  {
+    "id": 119,
+    "word": "note",
+    "engspell": "/ˈnoʊt/",
+    "viespell": "NÂU-th_"
+  },
+  {
+    "id": 120,
+    "word": "with",
+    "engspell": "/ˈwɪð/, /ˈwɪθ/, /wɪð/, /wɪθ/",
+    "viespell": "UY-đ_,UY-th_,uy-đ_,uy-th_"
+  },
+  {
+    "id": 121,
+    "word": "bank",
+    "engspell": "/ˈbæŋk/",
+    "viespell": "BENG-k_"
+  },
+  {
+    "id": 122,
+    "word": "fund",
+    "engspell": "/ˈfənd/",
+    "viespell": "PHƠN-đ_"
+  },
+  {
+    "id": 123,
+    "word": "growth",
+    "engspell": "/ˈɡɹoʊθ/",
+    "viespell": "G_-râu-th_"
+  },
+  {
+    "id": 124,
+    "word": "find",
+    "engspell": "/ˈfaɪnd/",
+    "viespell": "PHAI-n_-đ_"
+  },
+  {
+    "id": 125,
+    "word": "prepare",
+    "engspell": "/pɹiˈpɛɹ/",
+    "viespell": "p_-ri-PE-r_"
+  },
+  {
+    "id": 126,
+    "word": "lot",
+    "engspell": "/ˈɫɑt/, /ˈɫɔt/",
+    "viespell": "LAT,LOT"
+  },
+  {
+    "id": 127,
+    "word": "star",
+    "engspell": "/ˈstɑɹ/",
+    "viespell": "X_-tha-r_"
+  },
+  {
+    "id": 128,
+    "word": "pass",
+    "engspell": "/ˈpæs/",
+    "viespell": "PE-x_"
+  },
+  {
+    "id": 129,
+    "word": "assume",
+    "engspell": "/əˈsum/",
+    "viespell": "ơ-XUM"
+  },
+  {
+    "id": 130,
+    "word": "rock",
+    "engspell": "/ˈɹɑk/",
+    "viespell": "RAC"
+  },
+  {
+    "id": 131,
+    "word": "add",
+    "engspell": "/ˈæd/",
+    "viespell": "E-đ_"
+  },
+  {
+    "id": 132,
+    "word": "situation",
+    "engspell": "/ˌsɪtʃuˈeɪʃən/",
+    "viespell": "xi-chu-ÂY-sơn"
+  },
+  {
+    "id": 133,
+    "word": "let",
+    "engspell": "/ˈɫɛt/",
+    "viespell": "LET"
+  },
+  {
+    "id": 134,
+    "word": "back",
+    "engspell": "/ˈbæk/",
+    "viespell": "BECH"
+  },
+  {
+    "id": 135,
+    "word": "decide",
+    "engspell": "/ˌdɪˈsaɪd/",
+    "viespell": "đi-XAI-đ_"
+  },
+  {
+    "id": 136,
+    "word": "certainly",
+    "engspell": "/ˈsɝtənɫi/",
+    "viespell": "XƠ-r_-thơn-ly"
+  },
+  {
+    "id": 137,
+    "word": "artist",
+    "engspell": "/ˈɑɹtəst/, /ˈɑɹtɪst/",
+    "viespell": "A-r_-thơ-x_-th_,A-r_-thy-x_-th_"
+  },
+  {
+    "id": 138,
+    "word": "turn",
+    "engspell": "/ˈtɝn/",
+    "viespell": "THƠ-r_-n_"
+  },
+  {
+    "id": 139,
+    "word": "admit",
+    "engspell": "/ədˈmɪt/",
+    "viespell": "ơ-đ_-MIT"
+  },
+  {
+    "id": 140,
+    "word": "travel",
+    "engspell": "/ˈtɹævəɫ/",
+    "viespell": "TRE-vơ-l_"
+  },
+  {
+    "id": 141,
+    "word": "relationship",
+    "engspell": "/ɹiˈɫeɪʃənˌʃɪp/",
+    "viespell": "ri-LÂY-sơn-sip"
+  },
+  {
+    "id": 142,
+    "word": "road",
+    "engspell": "/ˈɹoʊd/",
+    "viespell": "RÂU-đ_"
+  },
+  {
+    "id": 143,
+    "word": "could",
+    "engspell": "/ˈkʊd/",
+    "viespell": "KU-đ_"
+  },
+  {
+    "id": 144,
+    "word": "woman",
+    "engspell": "/ˈwʊmən/",
+    "viespell": "WU-mơn"
+  },
+  {
+    "id": 145,
+    "word": "either",
+    "engspell": "/ˈaɪðɝ/, /ˈiðɝ/",
+    "viespell": "AI-đơ-r_,I-đơ-r_"
+  },
+  {
+    "id": 146,
+    "word": "task",
+    "engspell": "/ˈtæsk/",
+    "viespell": "THE-x_-k_"
+  },
+  {
+    "id": 147,
+    "word": "morning",
+    "engspell": "/ˈmɔɹnɪŋ/",
+    "viespell": "MO-r_-ninh"
+  },
+  {
+    "id": 148,
+    "word": "single",
+    "engspell": "/ˈsɪŋɡəɫ/",
+    "viespell": "XINH-gơ-l_"
+  },
+  {
+    "id": 149,
+    "word": "man",
+    "engspell": "/ˈmæn/",
+    "viespell": "MEN"
+  },
+  {
+    "id": 150,
+    "word": "year",
+    "engspell": "/ˈjɪɹ/",
+    "viespell": "Y-r_"
+  },
+  {
+    "id": 151,
+    "word": "as",
+    "engspell": "/ˈæz/, /ˈɛz/",
+    "viespell": "E-d_,E-d_"
+  },
+  {
+    "id": 152,
+    "word": "student",
+    "engspell": "/ˈstudənt/",
+    "viespell": "X_-thu-đơn-th_"
+  },
+  {
+    "id": 153,
+    "word": "day",
+    "engspell": "/ˈdeɪ/",
+    "viespell": "ĐÂY"
+  },
+  {
+    "id": 154,
+    "word": "my",
+    "engspell": "/ˈmaɪ/",
+    "viespell": "MAI"
+  },
+  {
+    "id": 155,
+    "word": "ok",
+    "engspell": "/ˈoʊˈkeɪ/",
+    "viespell": "ÂU-KÂY"
+  },
+  {
+    "id": 156,
+    "word": "here",
+    "engspell": "/ˈhiɹ/",
+    "viespell": "HY-r_"
+  },
+  {
+    "id": 157,
+    "word": "best",
+    "engspell": "/ˈbɛst/",
+    "viespell": "BE-x_-th_"
+  },
+  {
+    "id": 158,
+    "word": "low",
+    "engspell": "/ˈɫoʊ/",
+    "viespell": "LÂU"
+  },
+  {
+    "id": 159,
+    "word": "concern",
+    "engspell": "/kənˈsɝn/",
+    "viespell": "kơn-XƠ-r_-n_"
+  },
+  {
+    "id": 160,
+    "word": "soldier",
+    "engspell": "/ˈsoʊɫdʒɝ/",
+    "viespell": "XÂU-l_-dơ-r_"
+  },
+  {
+    "id": 161,
+    "word": "performance",
+    "engspell": "/pɝˈfɔɹməns/",
+    "viespell": "pơ-R_-pho-r_-mơn-x_"
+  },
+  {
+    "id": 162,
+    "word": "beyond",
+    "engspell": "/ˌbiˈɔnd/, /bɪˈɑnd/, /bɪˈɔnd/",
+    "viespell": "bi-ON-đ_,bi-AN-đ_,bi-ON-đ_"
+  },
+  {
+    "id": 163,
+    "word": "structure",
+    "engspell": "/ˈstɹəktʃɝ/",
+    "viespell": "X_-trơc-chơ-r_"
+  },
+  {
+    "id": 164,
+    "word": "executive",
+    "engspell": "/ɪɡˈzɛkjətɪv/",
+    "viespell": "ich-DE-kơ-thy-v_"
+  },
+  {
+    "id": 165,
+    "word": "collection",
+    "engspell": "/kəˈɫɛkʃən/",
+    "viespell": "kơ-LÊCH-sơn"
+  },
+  {
+    "id": 166,
+    "word": "old",
+    "engspell": "/ˈoʊɫd/",
+    "viespell": "ÂU-l_-đ_"
+  },
+  {
+    "id": 167,
+    "word": "teach",
+    "engspell": "/ˈtitʃ/",
+    "viespell": "THY-ch_"
+  },
+  {
+    "id": 168,
+    "word": "film",
+    "engspell": "/ˈfɪɫm/",
+    "viespell": "PHY-l_-m_"
+  },
+  {
+    "id": 169,
+    "word": "wish",
+    "engspell": "/ˈwɪʃ/",
+    "viespell": "UY-s_"
+  },
+  {
+    "id": 170,
+    "word": "hair",
+    "engspell": "/ˈhɛɹ/",
+    "viespell": "HE-r_"
+  },
+  {
+    "id": 171,
+    "word": "risk",
+    "engspell": "/ˈɹɪsk/",
+    "viespell": "RI-x_-k_"
+  },
+  {
+    "id": 172,
+    "word": "brother",
+    "engspell": "/ˈbɹəðɝ/",
+    "viespell": "B_-rơ-đơ-r_"
+  },
+  {
+    "id": 173,
+    "word": "choice",
+    "engspell": "/ˈtʃɔɪs/",
+    "viespell": "CHO-i-x_"
+  },
+  {
+    "id": 174,
+    "word": "value",
+    "engspell": "/ˈvæɫju/",
+    "viespell": "VE-liu"
+  },
+  {
+    "id": 175,
+    "word": "story",
+    "engspell": "/ˈstɔɹi/",
+    "viespell": "X_-tho-ri"
+  },
+  {
+    "id": 176,
+    "word": "coach",
+    "engspell": "/ˈkoʊtʃ/",
+    "viespell": "KÂU-ch_"
+  },
+  {
+    "id": 177,
+    "word": "include",
+    "engspell": "/ˌɪnˈkɫud/",
+    "viespell": "in-K_-lu-đ_"
+  },
+  {
+    "id": 178,
+    "word": "option",
+    "engspell": "/ˈɑpʃən/, /ˈɔpʃən/",
+    "viespell": "AP-sơn,OP-sơn"
+  },
+  {
+    "id": 179,
+    "word": "hundred",
+    "engspell": "/ˈhəndɝd/, /ˈhəndɹəd/, /ˈhəndɹɪd/, /ˈhənɝd/",
+    "viespell": "HƠN-đơ-r_-đ_,HƠN-đ_-rơ-đ_,HƠN-đ_-ri-đ_,HƠ-nơ-r_-đ_"
+  },
+  {
+    "id": 180,
+    "word": "poor",
+    "engspell": "/ˈpuɹ/",
+    "viespell": "PU-r_"
+  },
+  {
+    "id": 181,
+    "word": "fill",
+    "engspell": "/ˈfɪɫ/",
+    "viespell": "PHY-l_"
+  },
+  {
+    "id": 182,
+    "word": "certain",
+    "engspell": "/ˈsɝtən/",
+    "viespell": "XƠ-r_-thơn"
+  },
+  {
+    "id": 183,
+    "word": "animal",
+    "engspell": "/ˈænəməɫ/",
+    "viespell": "E-nơ-mơ-l_"
+  },
+  {
+    "id": 184,
+    "word": "tough",
+    "engspell": "/ˈtəf/",
+    "viespell": "THƠ-ph_"
+  },
+  {
+    "id": 185,
+    "word": "discover",
+    "engspell": "/dɪˈskəvɝ/",
+    "viespell": "đi-X_-kơ-vơ-r_"
+  },
+  {
+    "id": 186,
+    "word": "much",
+    "engspell": "/ˈmətʃ/",
+    "viespell": "MƠ-ch_"
+  },
+  {
+    "id": 187,
+    "word": "fish",
+    "engspell": "/ˈfɪʃ/",
+    "viespell": "PHY-s_"
+  },
+  {
+    "id": 188,
+    "word": "successful",
+    "engspell": "/səkˈsɛsfəɫ/",
+    "viespell": "xơc-XE-x_-phơ-l_"
+  },
+  {
+    "id": 189,
+    "word": "break",
+    "engspell": "/ˈbɹeɪk/",
+    "viespell": "B_-rây-k_"
+  },
+  {
+    "id": 190,
+    "word": "sense",
+    "engspell": "/ˈsɛns/",
+    "viespell": "XEN-x_"
+  },
+  {
+    "id": 191,
+    "word": "lawyer",
+    "engspell": "/ˈɫɔɪɝ/, /ˈɫɔjɝ/",
+    "viespell": "LO-i-ơ-r_,LO-ơ-r_"
+  },
+  {
+    "id": 192,
+    "word": "according",
+    "engspell": "/əˈkɔɹdɪŋ/",
+    "viespell": "ơ-KO-r_-đinh"
+  },
+  {
+    "id": 193,
+    "word": "human",
+    "engspell": "/ˈhjumən/, /ˈjumən/",
+    "viespell": "HIU-mơn,IU-mơn"
+  },
+  {
+    "id": 194,
+    "word": "sister",
+    "engspell": "/ˈsɪstɝ/",
+    "viespell": "XI-x_-thơ-r_"
+  },
+  {
+    "id": 195,
+    "word": "authority",
+    "engspell": "/əˈθɔɹəti/",
+    "viespell": "ơ-THO-rơ-thy"
+  },
+  {
+    "id": 196,
+    "word": "nice",
+    "engspell": "/ˈnaɪs/, /ˈnis/",
+    "viespell": "NAI-x_,NI-x_"
+  },
+  {
+    "id": 197,
+    "word": "cancer",
+    "engspell": "/ˈkænsɝ/",
+    "viespell": "KEN-xơ-r_"
+  },
+  {
+    "id": 198,
+    "word": "cell",
+    "engspell": "/ˈsɛɫ/",
+    "viespell": "XE-l_"
+  },
+  {
+    "id": 199,
+    "word": "home",
+    "engspell": "/ˈhoʊm/",
+    "viespell": "HÂU-m_"
+  },
+  {
+    "id": 200,
+    "word": "your",
+    "engspell": "/ˈjɔɹ/, /ˈjʊɹ/",
+    "viespell": "YO-r_,IU-r_"
+  },
+  {
+    "id": 201,
+    "word": "month",
+    "engspell": "/ˈmənθ/",
+    "viespell": "MƠN-th_"
+  },
+  {
+    "id": 202,
+    "word": "process",
+    "engspell": "/ˈpɹɑˌsɛs/, /ˈpɹɔˌsɛs/",
+    "viespell": "P_-ra-xe-x_,P_-ro-xe-x_"
+  },
+  {
+    "id": 203,
+    "word": "reason",
+    "engspell": "/ˈɹizən/",
+    "viespell": "RI-dơn"
+  },
+  {
+    "id": 204,
+    "word": "its",
+    "engspell": "/ˈɪts/, /ɪts/",
+    "viespell": "IT-x_,it-x_"
+  },
+  {
+    "id": 205,
+    "word": "around",
+    "engspell": "/ɝˈaʊn/, /ɝˈaʊnd/",
+    "viespell": "ơ-RAO-n_,ơ-RAO-n_-đ_"
+  },
+  {
+    "id": 206,
+    "word": "dinner",
+    "engspell": "/ˈdɪnɝ/",
+    "viespell": "ĐI-nơ-r_"
+  },
+  {
+    "id": 207,
+    "word": "quickly",
+    "engspell": "/ˈkwɪkɫi/",
+    "viespell": "QUYCH-ly"
+  },
+  {
+    "id": 208,
+    "word": "wall",
+    "engspell": "/ˈwɔɫ/",
+    "viespell": "WO-l_"
+  },
+  {
+    "id": 209,
+    "word": "but",
+    "engspell": "/ˈbət/",
+    "viespell": "BƠT"
+  },
+  {
+    "id": 210,
+    "word": "information",
+    "engspell": "/ˌɪnfɝˈmeɪʃən/, /ɪnˈfɔɹˈmeɪʃən/",
+    "viespell": "in-phơ-R_-mây-sơn,in-PHO-r_-MÂY-sơn"
+  },
+  {
+    "id": 211,
+    "word": "hard",
+    "engspell": "/ˈhɑɹd/",
+    "viespell": "HA-r_-đ_"
+  },
+  {
+    "id": 212,
+    "word": "available",
+    "engspell": "/əˈveɪɫəbəɫ/",
+    "viespell": "ơ-VÂY-lơ-bơ-l_"
+  },
+  {
+    "id": 213,
+    "word": "throughout",
+    "engspell": "/θɹuˈaʊt/",
+    "viespell": "th_-ru-AO-th_"
+  },
+  {
+    "id": 214,
+    "word": "various",
+    "engspell": "/ˈvɛɹiəs/",
+    "viespell": "VE-ri-ơ-x_"
+  },
+  {
+    "id": 215,
+    "word": "time",
+    "engspell": "/ˈtaɪm/",
+    "viespell": "THAI-m_"
+  },
+  {
+    "id": 216,
+    "word": "life",
+    "engspell": "/ˈɫaɪf/",
+    "viespell": "LAI-ph_"
+  },
+  {
+    "id": 217,
+    "word": "town",
+    "engspell": "/ˈtaʊn/",
+    "viespell": "THAO-n_"
+  },
+  {
+    "id": 218,
+    "word": "positive",
+    "engspell": "/ˈpɑzətɪv/",
+    "viespell": "PA-dơ-thy-v_"
+  },
+  {
+    "id": 219,
+    "word": "however",
+    "engspell": "/ˌhaʊˈɛvɝ/",
+    "viespell": "hao-E-vơ-r_"
+  },
+  {
+    "id": 220,
+    "word": "mouth",
+    "engspell": "/ˈmaʊθ/",
+    "viespell": "MAO-th_"
+  },
+  {
+    "id": 221,
+    "word": "finally",
+    "engspell": "/ˈfaɪnəɫi/",
+    "viespell": "PHAI-nơ-ly"
+  },
+  {
+    "id": 222,
+    "word": "forget",
+    "engspell": "/fɝˈɡɛt/, /fɔɹˈɡɛt/",
+    "viespell": "phơ-R_-ghet,pho-r_-GHET"
+  },
+  {
+    "id": 223,
+    "word": "after",
+    "engspell": "/ˈæftɝ/",
+    "viespell": "E-ph_-thơ-r_"
+  },
+  {
+    "id": 224,
+    "word": "continue",
+    "engspell": "/kənˈtɪnju/",
+    "viespell": "kơn-THY-niu"
+  },
+  {
+    "id": 225,
+    "word": "pull",
+    "engspell": "/ˈpʊɫ/",
+    "viespell": "PU-l_"
+  },
+  {
+    "id": 226,
+    "word": "itself",
+    "engspell": "/ˌɪtˈsɛɫf/",
+    "viespell": "it-XE-l_-ph_"
+  },
+  {
+    "id": 227,
+    "word": "usually",
+    "engspell": "/ˈjuʒəɫi/, /ˈjuʒəwəɫi/",
+    "viespell": "IU-dơ-ly,IU-dơ-uơ-ly"
+  },
+  {
+    "id": 228,
+    "word": "unit",
+    "engspell": "/ˈjunət/, /ˈjunɪt/",
+    "viespell": "IU-nơt,IU-nit"
+  },
+  {
+    "id": 229,
+    "word": "main",
+    "engspell": "/ˈmeɪn/",
+    "viespell": "MÂY-n_"
+  },
+  {
+    "id": 230,
+    "word": "energy",
+    "engspell": "/ˈɛnɝdʒi/",
+    "viespell": "E-nơ-r_-di"
+  },
+  {
+    "id": 231,
+    "word": "choose",
+    "engspell": "/ˈtʃuz/",
+    "viespell": "CHU-d_"
+  },
+  {
+    "id": 232,
+    "word": "land",
+    "engspell": "/ˈɫænd/",
+    "viespell": "LEN-đ_"
+  },
+  {
+    "id": 233,
+    "word": "enough",
+    "engspell": "/iˈnəf/, /ɪˈnəf/",
+    "viespell": "i-NƠ-ph_,i-NƠ-ph_"
+  },
+  {
+    "id": 234,
+    "word": "describe",
+    "engspell": "/dɪsˈkɹaɪb/",
+    "viespell": "đi-x_-K_-rai-b_"
+  },
+  {
+    "id": 235,
+    "word": "against",
+    "engspell": "/əˈɡeɪnst/, /əˈɡɛnst/",
+    "viespell": "ơ-GÂY-n_-x_-th_,ơ-GHEN-x_-th_"
+  },
+  {
+    "id": 236,
+    "word": "our",
+    "engspell": "/ˈaʊɝ/, /ˈaʊɹ/, /ˈɑɹ/",
+    "viespell": "AO-ơ-r_,AO-r_,A-r_"
+  },
+  {
+    "id": 237,
+    "word": "knowledge",
+    "engspell": "/ˈnɑɫədʒ/, /ˈnɑɫɪdʒ/",
+    "viespell": "NA-lơ-d_,NA-ly-d_"
+  },
+  {
+    "id": 238,
+    "word": "agent",
+    "engspell": "/ˈeɪdʒənt/",
+    "viespell": "ÂY-dơn-th_"
+  },
+  {
+    "id": 239,
+    "word": "matter",
+    "engspell": "/ˈmætɝ/",
+    "viespell": "ME-thơ-r_"
+  },
+  {
+    "id": 240,
+    "word": "air",
+    "engspell": "/ˈɛɹ/",
+    "viespell": "E-r_"
+  },
+  {
+    "id": 241,
+    "word": "church",
+    "engspell": "/ˈtʃɝtʃ/",
+    "viespell": "CHƠ-r_-ch_"
+  },
+  {
+    "id": 242,
+    "word": "mind",
+    "engspell": "/ˈmaɪnd/",
+    "viespell": "MAI-n_-đ_"
+  },
+  {
+    "id": 243,
+    "word": "official",
+    "engspell": "/əˈfɪʃəɫ/",
+    "viespell": "ơ-PHY-sơ-l_"
+  },
+  {
+    "id": 244,
+    "word": "any",
+    "engspell": "/ˈɛni/",
+    "viespell": "E-ni"
+  },
+  {
+    "id": 245,
+    "word": "create",
+    "engspell": "/kɹiˈeɪt/",
+    "viespell": "k_-ri-ÂY-th_"
+  },
+  {
+    "id": 246,
+    "word": "southern",
+    "engspell": "/ˈsəðɝn/",
+    "viespell": "XƠ-đơ-r_-n_"
+  },
+  {
+    "id": 247,
+    "word": "use",
+    "engspell": "/ˈjus/, /ˈjuz/",
+    "viespell": "IU-x_,IU-d_"
+  },
+  {
+    "id": 248,
+    "word": "nation",
+    "engspell": "/ˈneɪʃən/",
+    "viespell": "NÂY-sơn"
+  },
+  {
+    "id": 249,
+    "word": "yard",
+    "engspell": "/ˈjɑɹd/",
+    "viespell": "YA-r_-đ_"
+  },
+  {
+    "id": 250,
+    "word": "love",
+    "engspell": "/ˈɫəv/",
+    "viespell": "LƠ-v_"
+  },
+  {
+    "id": 251,
+    "word": "often",
+    "engspell": "/ˈɔfən/, /ˈɔftən/",
+    "viespell": "O-phơn,O-ph_-thơn"
+  },
+  {
+    "id": 252,
+    "word": "company",
+    "engspell": "/ˈkəmpəˌni/",
+    "viespell": "KƠM-pơ-ni"
+  },
+  {
+    "id": 253,
+    "word": "professional",
+    "engspell": "/pɹəˈfɛʃənəɫ/",
+    "viespell": "p_-rơ-PHE-sơ-nơ-l_"
+  },
+  {
+    "id": 254,
+    "word": "art",
+    "engspell": "/ˈɑɹt/",
+    "viespell": "A-r_-th_"
+  },
+  {
+    "id": 255,
+    "word": "top",
+    "engspell": "/ˈtɑp/, /ˈtɔp/",
+    "viespell": "THAP,THOP"
+  },
+  {
+    "id": 256,
+    "word": "simple",
+    "engspell": "/ˈsɪmpəɫ/",
+    "viespell": "XIM-pơ-l_"
+  },
+  {
+    "id": 257,
+    "word": "show",
+    "engspell": "/ˈʃoʊ/",
+    "viespell": "SÂU"
+  },
+  {
+    "id": 258,
+    "word": "debate",
+    "engspell": "/dəˈbeɪt/",
+    "viespell": "đơ-BÂY-th_"
+  },
+  {
+    "id": 259,
+    "word": "business",
+    "engspell": "/ˈbɪznəs/, /ˈbɪznɪs/",
+    "viespell": "BI-d_-nơ-x_,BI-d_-ni-x_"
+  },
+  {
+    "id": 260,
+    "word": "ask",
+    "engspell": "/ˈæsk/",
+    "viespell": "E-x_-k_"
+  },
+  {
+    "id": 261,
+    "word": "push",
+    "engspell": "/ˈpʊʃ/",
+    "viespell": "PU-s_"
+  },
+  {
+    "id": 262,
+    "word": "serious",
+    "engspell": "/ˈsɪɹiəs/",
+    "viespell": "XI-ri-ơ-x_"
+  },
+  {
+    "id": 263,
+    "word": "or",
+    "engspell": "/ˈɔɹ/, /ɝ/",
+    "viespell": "O-r_,ơ-r_"
+  },
+  {
+    "id": 264,
+    "word": "hope",
+    "engspell": "/ˈhoʊp/",
+    "viespell": "HÂU-p_"
+  },
+  {
+    "id": 265,
+    "word": "large",
+    "engspell": "/ˈɫɑɹdʒ/",
+    "viespell": "LA-r_-d_"
+  },
+  {
+    "id": 266,
+    "word": "maintain",
+    "engspell": "/meɪnˈteɪn/",
+    "viespell": "mây-n_-THÂY-n_"
+  },
+  {
+    "id": 267,
+    "word": "drug",
+    "engspell": "/ˈdɹəɡ/",
+    "viespell": "Đ_-rơc"
+  },
+  {
+    "id": 268,
+    "word": "clearly",
+    "engspell": "/ˈkɫɪɹɫi/",
+    "viespell": "K_-ly-r_-ly"
+  },
+  {
+    "id": 269,
+    "word": "support",
+    "engspell": "/səˈpɔɹt/",
+    "viespell": "xơ-PO-r_-th_"
+  },
+  {
+    "id": 270,
+    "word": "second",
+    "engspell": "/ˈsɛkənd/",
+    "viespell": "XE-kơn-đ_"
+  },
+  {
+    "id": 271,
+    "word": "tree",
+    "engspell": "/ˈtɹi/",
+    "viespell": "TRI"
+  },
+  {
+    "id": 272,
+    "word": "reveal",
+    "engspell": "/ɹiˈviɫ/, /ɹɪˈviɫ/",
+    "viespell": "ri-VI-l_,ri-VI-l_"
+  },
+  {
+    "id": 273,
+    "word": "before",
+    "engspell": "/ˌbiˈfɔɹ/, /bɪˈfɔɹ/",
+    "viespell": "bi-PHO-r_,bi-PHO-r_"
+  },
+  {
+    "id": 274,
+    "word": "determine",
+    "engspell": "/dəˈtɝmən/, /dɪˈtɝmən/",
+    "viespell": "đơ-THƠ-r_-mơn,đi-THƠ-r_-mơn"
+  },
+  {
+    "id": 275,
+    "word": "agreement",
+    "engspell": "/əˈɡɹimənt/",
+    "viespell": "ơ-G_-ri-mơn-th_"
+  },
+  {
+    "id": 276,
+    "word": "character",
+    "engspell": "/ˈkɛɹɪktɝ/",
+    "viespell": "KE-rich-thơ-r_"
+  },
+  {
+    "id": 277,
+    "word": "rich",
+    "engspell": "/ˈɹɪtʃ/",
+    "viespell": "RI-ch_"
+  },
+  {
+    "id": 278,
+    "word": "child",
+    "engspell": "/ˈtʃaɪɫd/",
+    "viespell": "CHAI-l_-đ_"
+  },
+  {
+    "id": 279,
+    "word": "thank",
+    "engspell": "/ˈθæŋk/",
+    "viespell": "THENG-k_"
+  },
+  {
+    "id": 280,
+    "word": "city",
+    "engspell": "/ˈsɪti/",
+    "viespell": "XI-thy"
+  },
+  {
+    "id": 281,
+    "word": "political",
+    "engspell": "/pəˈɫɪtəkəɫ/, /pəˈɫɪtɪkəɫ/",
+    "viespell": "pơ-LY-thơ-kơ-l_,pơ-LY-thy-kơ-l_"
+  },
+  {
+    "id": 282,
+    "word": "role",
+    "engspell": "/ˈɹoʊɫ/",
+    "viespell": "RÂU-l_"
+  },
+  {
+    "id": 283,
+    "word": "they",
+    "engspell": "/ˈðeɪ/",
+    "viespell": "ĐÂY"
+  },
+  {
+    "id": 284,
+    "word": "you",
+    "engspell": "/ˈju/",
+    "viespell": "IU"
+  },
+  {
+    "id": 285,
+    "word": "fire",
+    "engspell": "/ˈfaɪɝ/, /ˈfaɪɹ/",
+    "viespell": "PHAI-ơ-r_,PHAI-r_"
+  },
+  {
+    "id": 286,
+    "word": "staff",
+    "engspell": "/ˈstæf/",
+    "viespell": "X_-the-ph_"
+  },
+  {
+    "id": 287,
+    "word": "remove",
+    "engspell": "/ɹiˈmuv/",
+    "viespell": "ri-MU-v_"
+  },
+  {
+    "id": 288,
+    "word": "focus",
+    "engspell": "/ˈfoʊkəs/, /ˈfoʊkɪs/",
+    "viespell": "PHÂU-kơ-x_,PHÂU-ky-x_"
+  },
+  {
+    "id": 289,
+    "word": "make",
+    "engspell": "/ˈmeɪk/",
+    "viespell": "MÂY-k_"
+  },
+  {
+    "id": 290,
+    "word": "sing",
+    "engspell": "/ˈsɪŋ/",
+    "viespell": "XINH"
+  },
+  {
+    "id": 291,
+    "word": "if",
+    "engspell": "/ˈɪf/, /ɪf/",
+    "viespell": "I-ph_,i-ph_"
+  },
+  {
+    "id": 292,
+    "word": "skill",
+    "engspell": "/ˈskɪɫ/",
+    "viespell": "X_-ky-l_"
+  },
+  {
+    "id": 293,
+    "word": "blood",
+    "engspell": "/ˈbɫəd/",
+    "viespell": "B_-lơ-đ_"
+  },
+  {
+    "id": 294,
+    "word": "every",
+    "engspell": "/ˈɛvɝi/, /ˈɛvɹi/",
+    "viespell": "E-vơ-ri,E-v_-ri"
+  },
+  {
+    "id": 295,
+    "word": "like",
+    "engspell": "/ˈɫaɪk/",
+    "viespell": "LAI-k_"
+  },
+  {
+    "id": 296,
+    "word": "way",
+    "engspell": "/ˈweɪ/",
+    "viespell": "UÂY"
+  },
+  {
+    "id": 297,
+    "word": "suddenly",
+    "engspell": "/ˈsədənɫi/",
+    "viespell": "XƠ-đơn-ly"
+  },
+  {
+    "id": 298,
+    "word": "start",
+    "engspell": "/ˈstɑɹt/",
+    "viespell": "X_-tha-r_-th_"
+  },
+  {
+    "id": 299,
+    "word": "house",
+    "engspell": "/ˈhaʊs/",
+    "viespell": "HAO-x_"
+  },
+  {
+    "id": 300,
+    "word": "everything",
+    "engspell": "/ˈɛvɹiˌθɪŋ/",
+    "viespell": "E-v_-ri-thinh"
+  },
+  {
+    "id": 301,
+    "word": "grow",
+    "engspell": "/ˈɡɹoʊ/",
+    "viespell": "G_-râu"
+  },
+  {
+    "id": 302,
+    "word": "throw",
+    "engspell": "/ˈθɹoʊ/",
+    "viespell": "TH_-râu"
+  },
+  {
+    "id": 303,
+    "word": "employee",
+    "engspell": "/ɛmˈpɫɔɪi/, /ɪmˈpɫɔɪi/",
+    "viespell": "em-P_-lo-i-i,im-P_-lo-i-i"
+  },
+  {
+    "id": 304,
+    "word": "allow",
+    "engspell": "/əˈɫaʊ/",
+    "viespell": "ơ-LAO"
+  },
+  {
+    "id": 305,
+    "word": "culture",
+    "engspell": "/ˈkəɫtʃɝ/",
+    "viespell": "KƠ-l_-chơ-r_"
+  },
+  {
+    "id": 306,
+    "word": "audience",
+    "engspell": "/ˈɑdiəns/, /ˈɔdiəns/",
+    "viespell": "A-đi-ơn-x_,O-đi-ơn-x_"
+  },
+  {
+    "id": 307,
+    "word": "pain",
+    "engspell": "/ˈpeɪn/",
+    "viespell": "PÂY-n_"
+  },
+  {
+    "id": 308,
+    "word": "problem",
+    "engspell": "/ˈpɹɑbɫəm/",
+    "viespell": "P_-rap-lơm"
+  },
+  {
+    "id": 309,
+    "word": "over",
+    "engspell": "/ˈoʊvɝ/",
+    "viespell": "ÂU-vơ-r_"
+  },
+  {
+    "id": 310,
+    "word": "next",
+    "engspell": "/ˈnɛks/, /ˈnɛkst/",
+    "viespell": "NÊCH-x_,NÊCH-x_-th_"
+  },
+  {
+    "id": 311,
+    "word": "base",
+    "engspell": "/ˈbeɪs/",
+    "viespell": "BÂY-x_"
+  },
+  {
+    "id": 312,
+    "word": "western",
+    "engspell": "/ˈhwɛstɝn/, /ˈwɛstɝn/",
+    "viespell": "H_-oe-x_-thơ-r_-n_,OE-x_-thơ-r_-n_"
+  },
+  {
+    "id": 313,
+    "word": "recently",
+    "engspell": "/ˈɹisənɫi/, /ˈɹisəntɫi/",
+    "viespell": "RI-xơn-ly,RI-xơn-th_-ly"
+  },
+  {
+    "id": 314,
+    "word": "already",
+    "engspell": "/ɔˈɹɛdi/, /ɔɫˈɹɛdi/",
+    "viespell": "o-RE-đi,o-l_-RE-đi"
+  },
+  {
+    "id": 315,
+    "word": "kill",
+    "engspell": "/ˈkɪɫ/",
+    "viespell": "KY-l_"
+  },
+  {
+    "id": 316,
+    "word": "war",
+    "engspell": "/ˈwɔɹ/",
+    "viespell": "WO-r_"
+  },
+  {
+    "id": 317,
+    "word": "senior",
+    "engspell": "/ˈsinjɝ/",
+    "viespell": "XI-nơ-r_"
+  },
+  {
+    "id": 318,
+    "word": "PM",
+    "engspell": "/ˈpiˈɛm/",
+    "viespell": "PI-EM"
+  },
+  {
+    "id": 319,
+    "word": "walk",
+    "engspell": "/ˈwɑk/, /ˈwɔk/",
+    "viespell": "OAC,WOOC"
+  },
+  {
+    "id": 320,
+    "word": "end",
+    "engspell": "/ˈɛnd/",
+    "viespell": "EN-đ_"
+  },
+  {
+    "id": 321,
+    "word": "face",
+    "engspell": "/ˈfeɪs/",
+    "viespell": "PHÂY-x_"
+  },
+  {
+    "id": 322,
+    "word": "recognize",
+    "engspell": "/ˈɹɛkəɡˌnaɪz/",
+    "viespell": "RE-kơc-nai-d_"
+  },
+  {
+    "id": 323,
+    "word": "tend",
+    "engspell": "/ˈtɛnd/",
+    "viespell": "THEN-đ_"
+  },
+  {
+    "id": 324,
+    "word": "play",
+    "engspell": "/ˈpɫeɪ/",
+    "viespell": "P_-lây"
+  },
+  {
+    "id": 325,
+    "word": "different",
+    "engspell": "/ˈdɪfɝənt/, /ˈdɪfɹənt/",
+    "viespell": "ĐI-phơ-rơn-th_,ĐI-ph_-rơn-th_"
+  },
+  {
+    "id": 326,
+    "word": "partner",
+    "engspell": "/ˈpɑɹtnɝ/",
+    "viespell": "PA-r_-th_-nơ-r_"
+  },
+  {
+    "id": 327,
+    "word": "practice",
+    "engspell": "/ˈpɹæktəs/, /ˈpɹæktɪs/",
+    "viespell": "P_-rech-thơ-x_,P_-rech-thy-x_"
+  },
+  {
+    "id": 328,
+    "word": "avoid",
+    "engspell": "/əˈvɔɪd/",
+    "viespell": "ơ-VO-i-đ_"
+  },
+  {
+    "id": 329,
+    "word": "call",
+    "engspell": "/ˈkɔɫ/",
+    "viespell": "KO-l_"
+  },
+  {
+    "id": 330,
+    "word": "sex",
+    "engspell": "/ˈsɛks/",
+    "viespell": "XÊCH-x_"
+  },
+  {
+    "id": 331,
+    "word": "training",
+    "engspell": "/ˈtɹeɪnɪŋ/",
+    "viespell": "TRÂY-ninh"
+  },
+  {
+    "id": 332,
+    "word": "will",
+    "engspell": "/ˈwɪɫ/, /wəɫ/",
+    "viespell": "UY-l_,uơ-l_"
+  },
+  {
+    "id": 333,
+    "word": "politics",
+    "engspell": "/ˈpɑɫəˌtɪks/",
+    "viespell": "PA-lơ-thich-x_"
+  },
+  {
+    "id": 334,
+    "word": "light",
+    "engspell": "/ˈɫaɪt/",
+    "viespell": "LAI-th_"
+  },
+  {
+    "id": 335,
+    "word": "final",
+    "engspell": "/ˈfaɪnəɫ/",
+    "viespell": "PHAI-nơ-l_"
+  },
+  {
+    "id": 336,
+    "word": "table",
+    "engspell": "/ˈteɪbəɫ/",
+    "viespell": "THÂY-bơ-l_"
+  },
+  {
+    "id": 337,
+    "word": "near",
+    "engspell": "/ˈnɪɹ/",
+    "viespell": "NI-r_"
+  },
+  {
+    "id": 338,
+    "word": "field",
+    "engspell": "/ˈfiɫd/",
+    "viespell": "PHY-l_-đ_"
+  },
+  {
+    "id": 339,
+    "word": "vote",
+    "engspell": "/ˈvoʊt/",
+    "viespell": "VÂU-th_"
+  },
+  {
+    "id": 340,
+    "word": "Congress",
+    "engspell": "/ˈkɑŋɡɹəs/",
+    "viespell": "KANG-g_-rơ-x_"
+  },
+  {
+    "id": 341,
+    "word": "indeed",
+    "engspell": "/ˌɪnˈdid/",
+    "viespell": "in-ĐI-đ_"
+  },
+  {
+    "id": 342,
+    "word": "local",
+    "engspell": "/ˈɫoʊkəɫ/",
+    "viespell": "LÂU-kơ-l_"
+  },
+  {
+    "id": 343,
+    "word": "see",
+    "engspell": "/ˈsi/",
+    "viespell": "XI"
+  },
+  {
+    "id": 344,
+    "word": "buy",
+    "engspell": "/ˈbaɪ/",
+    "viespell": "BAI"
+  },
+  {
+    "id": 345,
+    "word": "shoulder",
+    "engspell": "/ˈʃoʊɫdɝ/",
+    "viespell": "SÂU-l_-đơ-r_"
+  },
+  {
+    "id": 346,
+    "word": "may",
+    "engspell": "/ˈmeɪ/",
+    "viespell": "MÂY"
+  },
+  {
+    "id": 347,
+    "word": "charge",
+    "engspell": "/ˈtʃɑɹdʒ/",
+    "viespell": "CHA-r_-d_"
+  },
+  {
+    "id": 348,
+    "word": "black",
+    "engspell": "/ˈbɫæk/",
+    "viespell": "B_-lech"
+  },
+  {
+    "id": 349,
+    "word": "tax",
+    "engspell": "/ˈtæks/",
+    "viespell": "THECH-x_"
+  },
+  {
+    "id": 350,
+    "word": "list",
+    "engspell": "/ˈɫɪst/",
+    "viespell": "LY-x_-th_"
+  },
+  {
+    "id": 351,
+    "word": "box",
+    "engspell": "/ˈbɑks/",
+    "viespell": "BAC-x_"
+  },
+  {
+    "id": 352,
+    "word": "group",
+    "engspell": "/ˈɡɹup/",
+    "viespell": "G_-rup"
+  },
+  {
+    "id": 353,
+    "word": "control",
+    "engspell": "/kənˈtɹoʊɫ/",
+    "viespell": "kơn-TRÂU-l_"
+  },
+  {
+    "id": 354,
+    "word": "themselves",
+    "engspell": "/ðəmˈsɛɫvz/, /ðɛmˈsɛɫvz/",
+    "viespell": "đơm-XE-l_-v_-d_,đem-XE-l_-v_-d_"
+  },
+  {
+    "id": 355,
+    "word": "former",
+    "engspell": "/ˈfɔɹmɝ/",
+    "viespell": "PHO-r_-mơ-r_"
+  },
+  {
+    "id": 356,
+    "word": "page",
+    "engspell": "/ˈpeɪdʒ/",
+    "viespell": "PÂY-d_"
+  },
+  {
+    "id": 357,
+    "word": "picture",
+    "engspell": "/ˈpɪktʃɝ/",
+    "viespell": "PICH-chơ-r_"
+  },
+  {
+    "id": 358,
+    "word": "effort",
+    "engspell": "/ˈɛfɝt/",
+    "viespell": "E-phơ-r_-th_"
+  },
+  {
+    "id": 359,
+    "word": "central",
+    "engspell": "/ˈsɛntɹəɫ/",
+    "viespell": "XEN-trơ-l_"
+  },
+  {
+    "id": 360,
+    "word": "level",
+    "engspell": "/ˈɫɛvəɫ/",
+    "viespell": "LE-vơ-l_"
+  },
+  {
+    "id": 361,
+    "word": "treatment",
+    "engspell": "/ˈtɹitmənt/",
+    "viespell": "TRIT-mơn-th_"
+  },
+  {
+    "id": 362,
+    "word": "them",
+    "engspell": "/ˈðɛm/, /ðəm/",
+    "viespell": "ĐEM,đơm"
+  },
+  {
+    "id": 363,
+    "word": "evidence",
+    "engspell": "/ˈɛvədəns/",
+    "viespell": "E-vơ-đơn-x_"
+  },
+  {
+    "id": 364,
+    "word": "three",
+    "engspell": "/ˈθɹi/",
+    "viespell": "TH_-ri"
+  },
+  {
+    "id": 365,
+    "word": "rate",
+    "engspell": "/ˈɹeɪt/",
+    "viespell": "RÂY-th_"
+  },
+  {
+    "id": 366,
+    "word": "shoot",
+    "engspell": "/ˈʃut/",
+    "viespell": "SUT"
+  },
+  {
+    "id": 367,
+    "word": "strong",
+    "engspell": "/ˈstɹɔŋ/",
+    "viespell": "X_-troong"
+  },
+  {
+    "id": 368,
+    "word": "sure",
+    "engspell": "/ˈʃʊɹ/",
+    "viespell": "SU-r_"
+  },
+  {
+    "id": 369,
+    "word": "raise",
+    "engspell": "/ˈɹeɪz/",
+    "viespell": "RÂY-d_"
+  },
+  {
+    "id": 370,
+    "word": "threat",
+    "engspell": "/ˈθɹɛt/",
+    "viespell": "TH_-ret"
+  },
+  {
+    "id": 371,
+    "word": "address",
+    "engspell": "/ˈæˌdɹɛs/, /əˈdɹɛs/",
+    "viespell": "E-đ_-re-x_,ơ-Đ_-re-x_"
+  },
+  {
+    "id": 372,
+    "word": "several",
+    "engspell": "/ˈsɛvɝəɫ/, /ˈsɛvɹəɫ/",
+    "viespell": "XE-vơ-rơ-l_,XE-v_-rơ-l_"
+  },
+  {
+    "id": 373,
+    "word": "blue",
+    "engspell": "/ˈbɫu/",
+    "viespell": "B_-lu"
+  },
+  {
+    "id": 374,
+    "word": "when",
+    "engspell": "/ˈhwɛn/, /ˈhwɪn/, /ˈwɛn/, /ˈwɪn/",
+    "viespell": "H_-oen,H_-uyn,OEN,UYN"
+  },
+  {
+    "id": 375,
+    "word": "force",
+    "engspell": "/ˈfɔɹs/",
+    "viespell": "PHO-r_-x_"
+  },
+  {
+    "id": 376,
+    "word": "series",
+    "engspell": "/ˈsɪɹiz/",
+    "viespell": "XI-ri-d_"
+  },
+  {
+    "id": 377,
+    "word": "guess",
+    "engspell": "/ˈɡɛs/",
+    "viespell": "GHE-x_"
+  },
+  {
+    "id": 378,
+    "word": "computer",
+    "engspell": "/kəmˈpjutɝ/",
+    "viespell": "kơm-PIU-thơ-r_"
+  },
+  {
+    "id": 379,
+    "word": "job",
+    "engspell": "/ˈdʒɑb/, /ˈdʒoʊb/",
+    "viespell": "DAP,DÂU-b_"
+  },
+  {
+    "id": 380,
+    "word": "ahead",
+    "engspell": "/əˈhɛd/",
+    "viespell": "ơ-HE-đ_"
+  },
+  {
+    "id": 381,
+    "word": "organization",
+    "engspell": "/ˌɔɹɡənəˈzeɪʃən/",
+    "viespell": "o-r_-gơ-nơ-DÂY-sơn"
+  },
+  {
+    "id": 382,
+    "word": "including",
+    "engspell": "/ˌɪnˈkɫudɪŋ/",
+    "viespell": "in-K_-lu-đinh"
+  },
+  {
+    "id": 383,
+    "word": "meet",
+    "engspell": "/ˈmit/",
+    "viespell": "MIT"
+  },
+  {
+    "id": 384,
+    "word": "board",
+    "engspell": "/ˈbɔɹd/",
+    "viespell": "BO-r_-đ_"
+  },
+  {
+    "id": 385,
+    "word": "million",
+    "engspell": "/ˈmɪɫjən/",
+    "viespell": "MY-lơ-n_"
+  },
+  {
+    "id": 386,
+    "word": "son",
+    "engspell": "/ˈsən/",
+    "viespell": "XƠN"
+  },
+  {
+    "id": 387,
+    "word": "item",
+    "engspell": "/ˈaɪtəm/",
+    "viespell": "AI-thơm"
+  },
+  {
+    "id": 388,
+    "word": "at",
+    "engspell": "/ˈæt/",
+    "viespell": "ET"
+  },
+  {
+    "id": 389,
+    "word": "term",
+    "engspell": "/ˈtɝm/",
+    "viespell": "THƠ-r_-m_"
+  },
+  {
+    "id": 390,
+    "word": "night",
+    "engspell": "/ˈnaɪt/",
+    "viespell": "NAI-th_"
+  },
+  {
+    "id": 391,
+    "word": "eight",
+    "engspell": "/ˈeɪt/",
+    "viespell": "ÂY-th_"
+  },
+  {
+    "id": 392,
+    "word": "social",
+    "engspell": "/ˈsoʊʃəɫ/",
+    "viespell": "XÂU-sơ-l_"
+  },
+  {
+    "id": 393,
+    "word": "same",
+    "engspell": "/ˈseɪm/",
+    "viespell": "XÂY-m_"
+  },
+  {
+    "id": 394,
+    "word": "piece",
+    "engspell": "/ˈpis/",
+    "viespell": "PI-x_"
+  },
+  {
+    "id": 395,
+    "word": "away",
+    "engspell": "/əˈweɪ/",
+    "viespell": "ơ-UÂY"
+  },
+  {
+    "id": 396,
+    "word": "hospital",
+    "engspell": "/ˈhɑˌspɪtəɫ/",
+    "viespell": "HA-x_-pi-thơ-l_"
+  },
+  {
+    "id": 397,
+    "word": "cultural",
+    "engspell": "/ˈkəɫtʃɝəɫ/",
+    "viespell": "KƠ-l_-chơ-rơ-l_"
+  },
+  {
+    "id": 398,
+    "word": "card",
+    "engspell": "/ˈkɑɹd/",
+    "viespell": "KA-r_-đ_"
+  },
+  {
+    "id": 399,
+    "word": "smile",
+    "engspell": "/ˈsmaɪɫ/",
+    "viespell": "X_-mai-l_"
+  },
+  {
+    "id": 400,
+    "word": "cut",
+    "engspell": "/ˈkət/",
+    "viespell": "KƠT"
+  },
+  {
+    "id": 401,
+    "word": "four",
+    "engspell": "/ˈfɔɹ/",
+    "viespell": "PHO-r_"
+  },
+  {
+    "id": 402,
+    "word": "left",
+    "engspell": "/ˈɫɛft/",
+    "viespell": "LE-ph_-th_"
+  },
+  {
+    "id": 403,
+    "word": "member",
+    "engspell": "/ˈmɛmbɝ/",
+    "viespell": "MEM-bơ-r_"
+  },
+  {
+    "id": 404,
+    "word": "in",
+    "engspell": "/ˈɪn/, /ɪn/",
+    "viespell": "IN,in"
+  },
+  {
+    "id": 405,
+    "word": "owner",
+    "engspell": "/ˈoʊnɝ/",
+    "viespell": "ÂU-nơ-r_"
+  },
+  {
+    "id": 406,
+    "word": "decision",
+    "engspell": "/dɪˈsɪʒən/",
+    "viespell": "đi-XI-dơn"
+  },
+  {
+    "id": 407,
+    "word": "disease",
+    "engspell": "/dɪˈziz/",
+    "viespell": "đi-DI-d_"
+  },
+  {
+    "id": 408,
+    "word": "water",
+    "engspell": "/ˈwɔtɝ/",
+    "viespell": "WO-thơ-r_"
+  },
+  {
+    "id": 409,
+    "word": "particular",
+    "engspell": "/ˌpɑˈtɪkjəɫɝ/, /pɝˈtɪkjəɫɝ/",
+    "viespell": "pa-THY-kơ-lơ-r_,pơ-R_-thy-kơ-lơ-r_"
+  },
+  {
+    "id": 410,
+    "word": "leader",
+    "engspell": "/ˈɫidɝ/",
+    "viespell": "LY-đơ-r_"
+  },
+  {
+    "id": 411,
+    "word": "detail",
+    "engspell": "/ˈditeɪɫ/, /dɪˈteɪɫ/",
+    "viespell": "ĐI-thây-l_,đi-THÂY-l_"
+  },
+  {
+    "id": 412,
+    "word": "while",
+    "engspell": "/ˈhwaɪɫ/, /ˈwaɪɫ/",
+    "viespell": "H_-oai-l_,OAI-l_"
+  },
+  {
+    "id": 413,
+    "word": "billion",
+    "engspell": "/ˈbɪɫjən/",
+    "viespell": "BI-lơ-n_"
+  },
+  {
+    "id": 414,
+    "word": "room",
+    "engspell": "/ˈɹum/",
+    "viespell": "RUM"
+  },
+  {
+    "id": 415,
+    "word": "him",
+    "engspell": "/ˈhɪm/, /ɪm/",
+    "viespell": "HIM,im"
+  },
+  {
+    "id": 416,
+    "word": "huge",
+    "engspell": "/ˈhjudʒ/, /ˈjudʒ/",
+    "viespell": "HIU-d_,IU-d_"
+  },
+  {
+    "id": 417,
+    "word": "most",
+    "engspell": "/ˈmoʊs/, /ˈmoʊst/",
+    "viespell": "MÂU-x_,MÂU-x_-th_"
+  },
+  {
+    "id": 418,
+    "word": "too",
+    "engspell": "/ˈtu/",
+    "viespell": "THU"
+  },
+  {
+    "id": 419,
+    "word": "memory",
+    "engspell": "/ˈmɛmɝi/",
+    "viespell": "ME-mơ-ri"
+  },
+  {
+    "id": 420,
+    "word": "consumer",
+    "engspell": "/kənˈsumɝ/",
+    "viespell": "kơn-XU-mơ-r_"
+  },
+  {
+    "id": 421,
+    "word": "beautiful",
+    "engspell": "/ˈbjutəfəɫ/",
+    "viespell": "BIU-thơ-phơ-l_"
+  },
+  {
+    "id": 422,
+    "word": "factor",
+    "engspell": "/ˈfæktɝ/",
+    "viespell": "PHECH-thơ-r_"
+  },
+  {
+    "id": 423,
+    "word": "resource",
+    "engspell": "/ˈɹisɔɹs/",
+    "viespell": "RI-xo-r_-x_"
+  },
+  {
+    "id": 424,
+    "word": "age",
+    "engspell": "/ˈeɪdʒ/",
+    "viespell": "ÂY-d_"
+  },
+  {
+    "id": 425,
+    "word": "enter",
+    "engspell": "/ˈɛnɝ/, /ˈɛntɝ/",
+    "viespell": "E-nơ-r_,EN-thơ-r_"
+  },
+  {
+    "id": 426,
+    "word": "well",
+    "engspell": "/ˈwɛɫ/",
+    "viespell": "OE-l_"
+  },
+  {
+    "id": 427,
+    "word": "baby",
+    "engspell": "/ˈbeɪbi/",
+    "viespell": "BÂY-bi"
+  },
+  {
+    "id": 428,
+    "word": "painting",
+    "engspell": "/ˈpeɪntɪŋ/",
+    "viespell": "PÂY-n_-thinh"
+  },
+  {
+    "id": 429,
+    "word": "about",
+    "engspell": "/əˈbaʊt/",
+    "viespell": "ơ-BAO-th_"
+  },
+  {
+    "id": 430,
+    "word": "writer",
+    "engspell": "/ˈɹaɪtɝ/",
+    "viespell": "RAI-thơ-r_"
+  },
+  {
+    "id": 431,
+    "word": "system",
+    "engspell": "/ˈsɪstəm/",
+    "viespell": "XI-x_-thơm"
+  },
+  {
+    "id": 432,
+    "word": "couple",
+    "engspell": "/ˈkəpəɫ/",
+    "viespell": "KƠ-pơ-l_"
+  },
+  {
+    "id": 433,
+    "word": "ago",
+    "engspell": "/əˈɡoʊ/",
+    "viespell": "ơ-GÂU"
+  },
+  {
+    "id": 434,
+    "word": "ground",
+    "engspell": "/ˈɡɹaʊnd/",
+    "viespell": "G_-rao-n_-đ_"
+  },
+  {
+    "id": 435,
+    "word": "write",
+    "engspell": "/ˈɹaɪt/",
+    "viespell": "RAI-th_"
+  },
+  {
+    "id": 436,
+    "word": "shot",
+    "engspell": "/ˈʃɑt/",
+    "viespell": "SAT"
+  },
+  {
+    "id": 437,
+    "word": "new",
+    "engspell": "/ˈnju/, /ˈnu/",
+    "viespell": "NIU,NU"
+  },
+  {
+    "id": 438,
+    "word": "free",
+    "engspell": "/ˈfɹi/",
+    "viespell": "PH_-ri"
+  },
+  {
+    "id": 439,
+    "word": "approach",
+    "engspell": "/əˈpɹoʊtʃ/",
+    "viespell": "ơ-P_-râu-ch_"
+  },
+  {
+    "id": 440,
+    "word": "each",
+    "engspell": "/ˈitʃ/",
+    "viespell": "I-ch_"
+  },
+  {
+    "id": 441,
+    "word": "product",
+    "engspell": "/ˈpɹɑdəkt/",
+    "viespell": "P_-ra-đơc-th_"
+  },
+  {
+    "id": 442,
+    "word": "deep",
+    "engspell": "/ˈdip/",
+    "viespell": "ĐIP"
+  },
+  {
+    "id": 443,
+    "word": "catch",
+    "engspell": "/ˈkætʃ/",
+    "viespell": "KE-ch_"
+  },
+  {
+    "id": 444,
+    "word": "industry",
+    "engspell": "/ˈɪndəstɹi/",
+    "viespell": "IN-đơ-x_-tri"
+  },
+  {
+    "id": 445,
+    "word": "others",
+    "engspell": "/ˈəðɝz/",
+    "viespell": "Ơ-đơ-r_-d_"
+  },
+  {
+    "id": 446,
+    "word": "speak",
+    "engspell": "/ˈspik/",
+    "viespell": "X_-pich"
+  },
+  {
+    "id": 447,
+    "word": "institution",
+    "engspell": "/ˌɪnstɪˈtuʃən/",
+    "viespell": "in-x_-thy-THU-sơn"
+  },
+  {
+    "id": 448,
+    "word": "have",
+    "engspell": "/ˈhæv/",
+    "viespell": "HE-v_"
+  },
+  {
+    "id": 449,
+    "word": "state",
+    "engspell": "/ˈsteɪt/",
+    "viespell": "X_-thây-th_"
+  },
+  {
+    "id": 450,
+    "word": "interest",
+    "engspell": "/ˈɪntɝəst/, /ˈɪntɝɪst/, /ˈɪntɹəst/, /ˈɪntɹɪst/",
+    "viespell": "IN-thơ-rơ-x_-th_,IN-thơ-ri-x_-th_,IN-trơ-x_-th_,IN-tri-x_-th_"
+  },
+  {
+    "id": 451,
+    "word": "offer",
+    "engspell": "/ˈɔfɝ/",
+    "viespell": "O-phơ-r_"
+  },
+  {
+    "id": 452,
+    "word": "open",
+    "engspell": "/ˈoʊpən/",
+    "viespell": "ÂU-pơn"
+  },
+  {
+    "id": 453,
+    "word": "exist",
+    "engspell": "/ɪɡˈzɪst/",
+    "viespell": "ich-DI-x_-th_"
+  },
+  {
+    "id": 454,
+    "word": "very",
+    "engspell": "/ˈvɛɹi/",
+    "viespell": "VE-ri"
+  },
+  {
+    "id": 455,
+    "word": "expect",
+    "engspell": "/ɪkˈspɛkt/",
+    "viespell": "ich-X_-pêch-th_"
+  },
+  {
+    "id": 456,
+    "word": "west",
+    "engspell": "/ˈwɛst/",
+    "viespell": "OE-x_-th_"
+  },
+  {
+    "id": 457,
+    "word": "amount",
+    "engspell": "/əˈmaʊnt/",
+    "viespell": "ơ-MAO-n_-th_"
+  },
+  {
+    "id": 458,
+    "word": "all",
+    "engspell": "/ˈɔɫ/",
+    "viespell": "O-l_"
+  },
+  {
+    "id": 459,
+    "word": "subject",
+    "engspell": "/ˈsəbdʒɪkt/, /səbˈdʒɛkt/",
+    "viespell": "XƠP-dich-th_,xơp-DÊCH-th_"
+  },
+  {
+    "id": 460,
+    "word": "receive",
+    "engspell": "/ɹəˈsiv/, /ɹiˈsiv/, /ɹɪˈsiv/",
+    "viespell": "rơ-XI-v_,ri-XI-v_,ri-XI-v_"
+  },
+  {
+    "id": 461,
+    "word": "simply",
+    "engspell": "/ˈsɪmpɫi/",
+    "viespell": "XIM-p_-ly"
+  },
+  {
+    "id": 462,
+    "word": "author",
+    "engspell": "/ˈɔθɝ/",
+    "viespell": "O-thơ-r_"
+  },
+  {
+    "id": 463,
+    "word": "south",
+    "engspell": "/ˈsaʊθ/",
+    "viespell": "XAO-th_"
+  },
+  {
+    "id": 464,
+    "word": "thing",
+    "engspell": "/ˈθɪŋ/",
+    "viespell": "THINH"
+  },
+  {
+    "id": 465,
+    "word": "herself",
+    "engspell": "/hɝˈsɛɫf/",
+    "viespell": "hơ-R_-xe-l_-ph_"
+  },
+  {
+    "id": 466,
+    "word": "victim",
+    "engspell": "/ˈvɪktəm/, /ˈvɪktɪm/",
+    "viespell": "VICH-thơm,VICH-thim"
+  },
+  {
+    "id": 467,
+    "word": "voice",
+    "engspell": "/ˈvɔɪs/",
+    "viespell": "VO-i-x_"
+  },
+  {
+    "id": 468,
+    "word": "alone",
+    "engspell": "/əˈɫoʊn/",
+    "viespell": "ơ-LÂU-n_"
+  },
+  {
+    "id": 469,
+    "word": "oil",
+    "engspell": "/ˈɔɪɫ/",
+    "viespell": "O-i-l_"
+  },
+  {
+    "id": 470,
+    "word": "surface",
+    "engspell": "/ˈsɝfəs/",
+    "viespell": "XƠ-r_-phơ-x_"
+  },
+  {
+    "id": 471,
+    "word": "so",
+    "engspell": "/ˈsoʊ/",
+    "viespell": "XÂU"
+  },
+  {
+    "id": 472,
+    "word": "gun",
+    "engspell": "/ˈɡən/",
+    "viespell": "GƠN"
+  },
+  {
+    "id": 473,
+    "word": "eat",
+    "engspell": "/ˈit/",
+    "viespell": "IT"
+  },
+  {
+    "id": 474,
+    "word": "movement",
+    "engspell": "/ˈmuvmənt/",
+    "viespell": "MU-v_-mơn-th_"
+  },
+  {
+    "id": 475,
+    "word": "tonight",
+    "engspell": "/təˈnaɪt/, /tʊˈnaɪt/",
+    "viespell": "thơ-NAI-th_,thu-NAI-th_"
+  },
+  {
+    "id": 476,
+    "word": "power",
+    "engspell": "/ˈpaʊɝ/",
+    "viespell": "PAO-ơ-r_"
+  },
+  {
+    "id": 477,
+    "word": "everybody",
+    "engspell": "/ˈɛvɹiˌbɑdi/",
+    "viespell": "E-v_-ri-ba-đi"
+  },
+  {
+    "id": 478,
+    "word": "agency",
+    "engspell": "/ˈeɪdʒənsi/",
+    "viespell": "ÂY-dơn-xi"
+  },
+  {
+    "id": 479,
+    "word": "agree",
+    "engspell": "/əˈɡɹi/",
+    "viespell": "ơ-G_-ri"
+  },
+  {
+    "id": 480,
+    "word": "inside",
+    "engspell": "/ˈɪnˌsaɪd/, /ˌɪnˈsaɪd/",
+    "viespell": "IN-xai-đ_,in-XAI-đ_"
+  },
+  {
+    "id": 481,
+    "word": "be",
+    "engspell": "/ˈbi/, /bi/",
+    "viespell": "BI,bi"
+  },
+  {
+    "id": 482,
+    "word": "interview",
+    "engspell": "/ˈɪntɝvˌju/",
+    "viespell": "IN-thơ-r_-viu"
+  },
+  {
+    "id": 483,
+    "word": "sell",
+    "engspell": "/ˈsɛɫ/",
+    "viespell": "XE-l_"
+  },
+  {
+    "id": 484,
+    "word": "region",
+    "engspell": "/ˈɹidʒən/",
+    "viespell": "RI-dơn"
+  },
+  {
+    "id": 485,
+    "word": "how",
+    "engspell": "/ˈhaʊ/",
+    "viespell": "HAO"
+  },
+  {
+    "id": 486,
+    "word": "network",
+    "engspell": "/ˈnɛtˌwɝk/",
+    "viespell": "NET-uơ-r_-k_"
+  },
+  {
+    "id": 487,
+    "word": "lay",
+    "engspell": "/ˈɫeɪ/",
+    "viespell": "LÂY"
+  },
+  {
+    "id": 488,
+    "word": "arrive",
+    "engspell": "/ɝˈaɪv/",
+    "viespell": "ơ-RAI-v_"
+  },
+  {
+    "id": 489,
+    "word": "per",
+    "engspell": "/ˈpɝ/",
+    "viespell": "PƠ-r_"
+  },
+  {
+    "id": 490,
+    "word": "miss",
+    "engspell": "/ˈmɪs/",
+    "viespell": "MY-x_"
+  },
+  {
+    "id": 491,
+    "word": "whole",
+    "engspell": "/ˈhoʊɫ/",
+    "viespell": "HÂU-l_"
+  },
+  {
+    "id": 492,
+    "word": "deal",
+    "engspell": "/ˈdiɫ/",
+    "viespell": "ĐI-l_"
+  },
+  {
+    "id": 493,
+    "word": "girl",
+    "engspell": "/ˈɡɝɫ/",
+    "viespell": "GƠ-r_-l_"
+  },
+  {
+    "id": 494,
+    "word": "Mr",
+    "engspell": "/ˈmɪstɝ/",
+    "viespell": "MY-x_-thơ-r_"
+  },
+  {
+    "id": 495,
+    "word": "truth",
+    "engspell": "/ˈtɹuθ/",
+    "viespell": "TRU-th_"
+  },
+  {
+    "id": 496,
+    "word": "real",
+    "engspell": "/ˈɹiɫ/",
+    "viespell": "RI-l_"
+  },
+  {
+    "id": 497,
+    "word": "he",
+    "engspell": "/ˈhi/",
+    "viespell": "HY"
+  },
+  {
+    "id": 498,
+    "word": "exactly",
+    "engspell": "/ɪɡˈzæktɫi/",
+    "viespell": "ich-DECH-th_-ly"
+  },
+  {
+    "id": 499,
+    "word": "should",
+    "engspell": "/ˈʃʊd/",
+    "viespell": "SU-đ_"
+  },
+  {
+    "id": 500,
+    "word": "image",
+    "engspell": "/ˈɪmədʒ/, /ˈɪmɪdʒ/",
+    "viespell": "I-mơ-d_,I-my-d_"
+  },
+  {
+    "id": 501,
+    "word": "language",
+    "engspell": "/ˈɫæŋɡwədʒ/, /ˈɫæŋɡwɪdʒ/",
+    "viespell": "LENG-g_-uơ-d_,LENG-g_-uy-d_"
+  },
+  {
+    "id": 502,
+    "word": "condition",
+    "engspell": "/kənˈdɪʃən/",
+    "viespell": "kơn-ĐI-sơn"
+  },
+  {
+    "id": 503,
+    "word": "appear",
+    "engspell": "/əˈpɪɹ/",
+    "viespell": "ơ-PI-r_"
+  },
+  {
+    "id": 504,
+    "word": "give",
+    "engspell": "/ˈɡɪv/",
+    "viespell": "GHY-v_"
+  },
+  {
+    "id": 505,
+    "word": "this",
+    "engspell": "/ˈðɪs/, /ðɪs/",
+    "viespell": "ĐI-x_,đi-x_"
+  },
+  {
+    "id": 506,
+    "word": "race",
+    "engspell": "/ˈɹeɪs/",
+    "viespell": "RÂY-x_"
+  },
+  {
+    "id": 507,
+    "word": "environmental",
+    "engspell": "/ɪnˌvaɪɹənˈmɛnəɫ/, /ɪnˌvaɪɹənˈmɛntəɫ/",
+    "viespell": "in-vai-rơn-ME-nơ-l_,in-vai-rơn-MEN-thơ-l_"
+  },
+  {
+    "id": 508,
+    "word": "along",
+    "engspell": "/əˈɫɔŋ/",
+    "viespell": "ơ-LOONG"
+  },
+  {
+    "id": 509,
+    "word": "building",
+    "engspell": "/ˈbɪɫdɪŋ/",
+    "viespell": "BI-l_-đinh"
+  },
+  {
+    "id": 510,
+    "word": "save",
+    "engspell": "/ˈseɪv/",
+    "viespell": "XÂY-v_"
+  },
+  {
+    "id": 511,
+    "word": "six",
+    "engspell": "/ˈsɪks/",
+    "viespell": "XICH-x_"
+  },
+  {
+    "id": 512,
+    "word": "leg",
+    "engspell": "/ˈɫɛɡ/",
+    "viespell": "LEC"
+  },
+  {
+    "id": 513,
+    "word": "for",
+    "engspell": "/ˈfɔɹ/, /fɝ/, /fɹɝ/",
+    "viespell": "PHO-r_,phơ-r_,ph_-rơ-r_"
+  },
+  {
+    "id": 514,
+    "word": "article",
+    "engspell": "/ˈɑɹtəkəɫ/, /ˈɑɹtɪkəɫ/",
+    "viespell": "A-r_-thơ-kơ-l_,A-r_-thy-kơ-l_"
+  },
+  {
+    "id": 515,
+    "word": "event",
+    "engspell": "/iˈvɛnt/, /ɪˈvɛnt/",
+    "viespell": "i-VEN-th_,i-VEN-th_"
+  },
+  {
+    "id": 516,
+    "word": "kitchen",
+    "engspell": "/ˈkɪtʃən/",
+    "viespell": "KY-chơn"
+  },
+  {
+    "id": 517,
+    "word": "because",
+    "engspell": "/bɪˈkɑz/, /bɪˈkəz/, /bɪˈkɔz/, /bɪkəz/",
+    "viespell": "bi-KA-d_,bi-KƠ-d_,bi-KO-d_,bi-kơ-d_"
+  },
+  {
+    "id": 518,
+    "word": "data",
+    "engspell": "/ˈdætə/, /ˈdeɪtə/",
+    "viespell": "ĐE-thơ,ĐÂY-thơ"
+  },
+  {
+    "id": 519,
+    "word": "between",
+    "engspell": "/bitˈwin/, /bɪtˈwin/",
+    "viespell": "bit-UYN,bit-UYN"
+  },
+  {
+    "id": 520,
+    "word": "wind",
+    "engspell": "/ˈwaɪnd/, /ˈwɪnd/",
+    "viespell": "OAI-n_-đ_,UYN-đ_"
+  },
+  {
+    "id": 521,
+    "word": "mention",
+    "engspell": "/ˈmɛnʃən/",
+    "viespell": "MEN-sơn"
+  },
+  {
+    "id": 522,
+    "word": "price",
+    "engspell": "/ˈpɹaɪs/",
+    "viespell": "P_-rai-x_"
+  },
+  {
+    "id": 523,
+    "word": "challenge",
+    "engspell": "/ˈtʃæɫəndʒ/",
+    "viespell": "CHE-lơn-d_"
+  },
+  {
+    "id": 524,
+    "word": "not",
+    "engspell": "/ˈnɑt/",
+    "viespell": "NAT"
+  },
+  {
+    "id": 525,
+    "word": "first",
+    "engspell": "/ˈfɝst/",
+    "viespell": "PHƠ-r_-x_-th_"
+  },
+  {
+    "id": 526,
+    "word": "compare",
+    "engspell": "/kəmˈpɛɹ/",
+    "viespell": "kơm-PE-r_"
+  },
+  {
+    "id": 527,
+    "word": "claim",
+    "engspell": "/ˈkɫeɪm/",
+    "viespell": "K_-lây-m_"
+  },
+  {
+    "id": 528,
+    "word": "work",
+    "engspell": "/ˈwɝk/",
+    "viespell": "UƠ-r_-k_"
+  },
+  {
+    "id": 529,
+    "word": "wear",
+    "engspell": "/ˈwɛɹ/",
+    "viespell": "OE-r_"
+  },
+  {
+    "id": 530,
+    "word": "develop",
+    "engspell": "/dɪˈvɛɫəp/",
+    "viespell": "đi-VE-lơp"
+  },
+  {
+    "id": 531,
+    "word": "those",
+    "engspell": "/ˈðoʊz/",
+    "viespell": "ĐÂU-d_"
+  },
+  {
+    "id": 532,
+    "word": "us",
+    "engspell": "/ˈəs/, /ˌjuˈɛs/",
+    "viespell": "Ơ-x_,iu-E-x_"
+  },
+  {
+    "id": 533,
+    "word": "rest",
+    "engspell": "/ˈɹɛst/",
+    "viespell": "RE-x_-th_"
+  },
+  {
+    "id": 534,
+    "word": "example",
+    "engspell": "/ɪɡˈzæmpəɫ/",
+    "viespell": "ich-DEM-pơ-l_"
+  },
+  {
+    "id": 535,
+    "word": "activity",
+    "engspell": "/ækˈtɪvəti/, /ækˈtɪvɪti/",
+    "viespell": "ech-THY-vơ-thy,ech-THY-vi-thy"
+  },
+  {
+    "id": 536,
+    "word": "administration",
+    "engspell": "/ædˌmɪnɪˈstɹeɪʃən/",
+    "viespell": "e-đ_-my-ni-X_-trây-sơn"
+  },
+  {
+    "id": 537,
+    "word": "realize",
+    "engspell": "/ˈɹiəˌɫaɪz/",
+    "viespell": "RI-ơ-lai-d_"
+  },
+  {
+    "id": 538,
+    "word": "common",
+    "engspell": "/ˈkɑmən/",
+    "viespell": "KA-mơn"
+  },
+  {
+    "id": 539,
+    "word": "pay",
+    "engspell": "/ˈpeɪ/",
+    "viespell": "PÂY"
+  },
+  {
+    "id": 540,
+    "word": "mother",
+    "engspell": "/ˈməðɝ/",
+    "viespell": "MƠ-đơ-r_"
+  },
+  {
+    "id": 541,
+    "word": "understand",
+    "engspell": "/ˌəndɝˈstænd/",
+    "viespell": "ơn-đơ-R_-x_-then-đ_"
+  },
+  {
+    "id": 542,
+    "word": "heavy",
+    "engspell": "/ˈhɛvi/",
+    "viespell": "HE-vi"
+  },
+  {
+    "id": 543,
+    "word": "science",
+    "engspell": "/ˈsaɪəns/",
+    "viespell": "XAI-ơn-x_"
+  },
+  {
+    "id": 544,
+    "word": "wonder",
+    "engspell": "/ˈwəndɝ/",
+    "viespell": "UƠN-đơ-r_"
+  },
+  {
+    "id": 545,
+    "word": "democratic",
+    "engspell": "/ˌdɛməˈkɹætɪk/",
+    "viespell": "đe-mơ-K_-re-thich"
+  },
+  {
+    "id": 546,
+    "word": "budget",
+    "engspell": "/ˈbədʒɪt/",
+    "viespell": "BƠ-dit"
+  },
+  {
+    "id": 547,
+    "word": "meeting",
+    "engspell": "/ˈmitɪŋ/",
+    "viespell": "MY-thinh"
+  },
+  {
+    "id": 548,
+    "word": "always",
+    "engspell": "/ˈɔɫˌweɪz/, /ˈɔɫwiz/",
+    "viespell": "O-l_-uây-d_,O-l_-uy-d_"
+  },
+  {
+    "id": 549,
+    "word": "wide",
+    "engspell": "/ˈwaɪd/",
+    "viespell": "OAI-đ_"
+  },
+  {
+    "id": 550,
+    "word": "success",
+    "engspell": "/səkˈsɛs/",
+    "viespell": "xơc-XE-x_"
+  },
+  {
+    "id": 551,
+    "word": "soon",
+    "engspell": "/ˈsun/",
+    "viespell": "XUN"
+  },
+  {
+    "id": 552,
+    "word": "behind",
+    "engspell": "/bɪˈhaɪnd/",
+    "viespell": "bi-HAI-n_-đ_"
+  },
+  {
+    "id": 553,
+    "word": "yourself",
+    "engspell": "/ˈjɔɹsɛɫf/, /jɝˈsɛɫf/, /jʊɹˈsɛɫf/",
+    "viespell": "YO-r_-xe-l_-ph_,ơ-R_-xe-l_-ph_,iu-r_-XE-l_-ph_"
+  },
+  {
+    "id": 554,
+    "word": "ever",
+    "engspell": "/ˈɛvɝ/",
+    "viespell": "E-vơ-r_"
+  },
+  {
+    "id": 555,
+    "word": "economy",
+    "engspell": "/iˈkɑnəmi/, /ɪˈkɑnəmi/",
+    "viespell": "i-KA-nơ-my,i-KA-nơ-my"
+  },
+  {
+    "id": 556,
+    "word": "manager",
+    "engspell": "/ˈmænədʒɝ/, /ˈmænɪdʒɝ/",
+    "viespell": "ME-nơ-dơ-r_,ME-ni-dơ-r_"
+  },
+  {
+    "id": 557,
+    "word": "wife",
+    "engspell": "/ˈwaɪf/",
+    "viespell": "OAI-ph_"
+  },
+  {
+    "id": 558,
+    "word": "talk",
+    "engspell": "/ˈtɔk/",
+    "viespell": "THOOC"
+  },
+  {
+    "id": 559,
+    "word": "number",
+    "engspell": "/ˈnəmbɝ/",
+    "viespell": "NƠM-bơ-r_"
+  },
+  {
+    "id": 560,
+    "word": "seem",
+    "engspell": "/ˈsim/",
+    "viespell": "XIM"
+  },
+  {
+    "id": 561,
+    "word": "participant",
+    "engspell": "/pɑɹˈtɪsəpənt/",
+    "viespell": "pa-r_-THY-xơ-pơn-th_"
+  },
+  {
+    "id": 562,
+    "word": "loss",
+    "engspell": "/ˈɫɔs/",
+    "viespell": "LO-x_"
+  },
+  {
+    "id": 563,
+    "word": "week",
+    "engspell": "/ˈwik/",
+    "viespell": "UYCH"
+  },
+  {
+    "id": 564,
+    "word": "late",
+    "engspell": "/ˈɫeɪt/",
+    "viespell": "LÂY-th_"
+  },
+  {
+    "id": 565,
+    "word": "increase",
+    "engspell": "/ˈɪnˌkɹis/, /ˌɪnˈkɹis/",
+    "viespell": "IN-k_-ri-x_,in-K_-ri-x_"
+  },
+  {
+    "id": 566,
+    "word": "instead",
+    "engspell": "/ˌɪnˈstɛd/",
+    "viespell": "in-X_-the-đ_"
+  },
+  {
+    "id": 567,
+    "word": "close",
+    "engspell": "/ˈkɫoʊs/, /ˈkɫoʊz/",
+    "viespell": "K_-lâu-x_,K_-lâu-d_"
+  },
+  {
+    "id": 568,
+    "word": "do",
+    "engspell": "/ˈdu/",
+    "viespell": "ĐU"
+  },
+  {
+    "id": 569,
+    "word": "benefit",
+    "engspell": "/ˈbɛnəfɪt/",
+    "viespell": "BE-nơ-phit"
+  },
+  {
+    "id": 570,
+    "word": "form",
+    "engspell": "/ˈfɔɹm/",
+    "viespell": "PHO-r_-m_"
+  },
+  {
+    "id": 571,
+    "word": "require",
+    "engspell": "/ˌɹiˈkwaɪɝ/, /ɹiˈkwaɪɹ/, /ɹɪˈkwaɪɝ/",
+    "viespell": "ri-QUAI-ơ-r_,ri-QUAI-r_,ri-QUAI-ơ-r_"
+  },
+  {
+    "id": 572,
+    "word": "foreign",
+    "engspell": "/ˈfɑɹən/, /ˈfɔɹən/",
+    "viespell": "PHA-rơn,PHO-rơn"
+  },
+  {
+    "id": 573,
+    "word": "improve",
+    "engspell": "/ˌɪmˈpɹuv/",
+    "viespell": "im-P_-ru-v_"
+  },
+  {
+    "id": 574,
+    "word": "weapon",
+    "engspell": "/ˈwɛpən/",
+    "viespell": "OE-pơn"
+  },
+  {
+    "id": 575,
+    "word": "remain",
+    "engspell": "/ɹiˈmeɪn/, /ɹɪˈmeɪn/",
+    "viespell": "ri-MÂY-n_,ri-MÂY-n_"
+  },
+  {
+    "id": 576,
+    "word": "arm",
+    "engspell": "/ˈɑɹm/",
+    "viespell": "A-r_-m_"
+  },
+  {
+    "id": 577,
+    "word": "ready",
+    "engspell": "/ˈɹɛdi/",
+    "viespell": "RE-đi"
+  },
+  {
+    "id": 578,
+    "word": "far",
+    "engspell": "/ˈfɑɹ/",
+    "viespell": "PHA-r_"
+  },
+  {
+    "id": 579,
+    "word": "notice",
+    "engspell": "/ˈnoʊtəs/, /ˈnoʊtɪs/",
+    "viespell": "NÂU-thơ-x_,NÂU-thy-x_"
+  },
+  {
+    "id": 580,
+    "word": "by",
+    "engspell": "/ˈbaɪ/",
+    "viespell": "BAI"
+  },
+  {
+    "id": 581,
+    "word": "nearly",
+    "engspell": "/ˈnɪɹɫi/",
+    "viespell": "NI-r_-ly"
+  },
+  {
+    "id": 582,
+    "word": "analysis",
+    "engspell": "/əˈnæɫəsəs/, /əˈnæɫɪsɪs/",
+    "viespell": "ơ-NE-lơ-xơ-x_,ơ-NE-ly-xi-x_"
+  },
+  {
+    "id": 583,
+    "word": "society",
+    "engspell": "/səˈsaɪəti/",
+    "viespell": "xơ-XAI-ơ-thy"
+  },
+  {
+    "id": 584,
+    "word": "personal",
+    "engspell": "/ˈpɝsɪnəɫ/",
+    "viespell": "PƠ-r_-xi-nơ-l_"
+  },
+  {
+    "id": 585,
+    "word": "reality",
+    "engspell": "/ˌɹiˈæɫəˌti/",
+    "viespell": "ri-E-lơ-thy"
+  },
+  {
+    "id": 586,
+    "word": "evening",
+    "engspell": "/ˈivnɪŋ/",
+    "viespell": "I-v_-ninh"
+  },
+  {
+    "id": 587,
+    "word": "patient",
+    "engspell": "/ˈpeɪʃənt/",
+    "viespell": "PÂY-sơn-th_"
+  },
+  {
+    "id": 588,
+    "word": "military",
+    "engspell": "/ˈmɪɫəˌtɛɹi/, /ˈmɪɫɪˌtɛɹi/",
+    "viespell": "MY-lơ-the-ri,MY-ly-the-ri"
+  },
+  {
+    "id": 589,
+    "word": "involve",
+    "engspell": "/ˌɪnˈvɑɫv/",
+    "viespell": "in-VA-l_-v_"
+  },
+  {
+    "id": 590,
+    "word": "especially",
+    "engspell": "/əˈspɛʃəɫi/, /əˈspɛʃɫi/",
+    "viespell": "ơ-X_-pe-sơ-ly,ơ-X_-pe-s_-ly"
+  },
+  {
+    "id": 591,
+    "word": "international",
+    "engspell": "/ˌɪnɝˈnæʃənəɫ/, /ˌɪntɝˈnæʃənəɫ/",
+    "viespell": "i-nơ-R_-ne-sơ-nơ-l_,in-thơ-R_-ne-sơ-nơ-l_"
+  },
+  {
+    "id": 592,
+    "word": "why",
+    "engspell": "/ˈhwaɪ/, /ˈwaɪ/",
+    "viespell": "H_-oai,OAI"
+  },
+  {
+    "id": 593,
+    "word": "fall",
+    "engspell": "/ˈfɑɫ/, /ˈfɔɫ/",
+    "viespell": "PHA-l_,PHO-l_"
+  },
+  {
+    "id": 594,
+    "word": "stuff",
+    "engspell": "/ˈstəf/",
+    "viespell": "X_-thơ-ph_"
+  },
+  {
+    "id": 595,
+    "word": "line",
+    "engspell": "/ˈɫaɪn/",
+    "viespell": "LAI-n_"
+  },
+  {
+    "id": 596,
+    "word": "movie",
+    "engspell": "/ˈmuvi/",
+    "viespell": "MU-vi"
+  },
+  {
+    "id": 597,
+    "word": "natural",
+    "engspell": "/ˈnætʃɝəɫ/, /ˈnætʃɹəɫ/",
+    "viespell": "NE-chơ-rơ-l_,NE-ch_-rơ-l_"
+  },
+  {
+    "id": 598,
+    "word": "finger",
+    "engspell": "/ˈfɪŋɡɝ/",
+    "viespell": "PHINH-gơ-r_"
+  },
+  {
+    "id": 599,
+    "word": "foot",
+    "engspell": "/ˈfʊt/",
+    "viespell": "PHUT"
+  },
+  {
+    "id": 600,
+    "word": "important",
+    "engspell": "/ˌɪmˈpɔɹtənt/",
+    "viespell": "im-PO-r_-thơn-th_"
+  },
+  {
+    "id": 601,
+    "word": "size",
+    "engspell": "/ˈsaɪz/",
+    "viespell": "XAI-d_"
+  },
+  {
+    "id": 602,
+    "word": "mission",
+    "engspell": "/ˈmɪʃən/",
+    "viespell": "MY-sơn"
+  },
+  {
+    "id": 603,
+    "word": "reduce",
+    "engspell": "/ɹəˈdus/, /ɹiˈdus/, /ɹɪˈdus/",
+    "viespell": "rơ-ĐU-x_,ri-ĐU-x_,ri-ĐU-x_"
+  },
+  {
+    "id": 604,
+    "word": "once",
+    "engspell": "/ˈwəns/",
+    "viespell": "UƠN-x_"
+  },
+  {
+    "id": 605,
+    "word": "become",
+    "engspell": "/bɪˈkəm/",
+    "viespell": "bi-KƠM"
+  },
+  {
+    "id": 606,
+    "word": "responsibility",
+    "engspell": "/ɹiˌspɑnsəˈbɪɫəti/",
+    "viespell": "ri-x_-pan-xơ-BI-lơ-thy"
+  },
+  {
+    "id": 607,
+    "word": "rise",
+    "engspell": "/ˈɹaɪz/",
+    "viespell": "RAI-d_"
+  },
+  {
+    "id": 608,
+    "word": "doctor",
+    "engspell": "/ˈdɑktɝ/, /ˈdɔktɝ/",
+    "viespell": "ĐAC-thơ-r_,ĐOOC-thơ-r_"
+  },
+  {
+    "id": 609,
+    "word": "health",
+    "engspell": "/ˈhɛɫθ/",
+    "viespell": "HE-l_-th_"
+  },
+  {
+    "id": 610,
+    "word": "hold",
+    "engspell": "/ˈhoʊɫd/",
+    "viespell": "HÂU-l_-đ_"
+  },
+  {
+    "id": 611,
+    "word": "result",
+    "engspell": "/ɹiˈzəɫt/, /ɹɪˈzəɫt/",
+    "viespell": "ri-DƠ-l_-th_,ri-DƠ-l_-th_"
+  },
+  {
+    "id": 612,
+    "word": "campaign",
+    "engspell": "/kæmˈpeɪn/",
+    "viespell": "kem-PÂY-n_"
+  },
+  {
+    "id": 613,
+    "word": "fail",
+    "engspell": "/ˈfeɪɫ/",
+    "viespell": "PHÂY-l_"
+  },
+  {
+    "id": 614,
+    "word": "question",
+    "engspell": "/ˈkwɛstʃən/, /ˈkwɛʃən/",
+    "viespell": "QUE-x_-chơn,QUE-sơn"
+  },
+  {
+    "id": 615,
+    "word": "national",
+    "engspell": "/ˈnæʃənəɫ/, /ˈnæʃnəɫ/",
+    "viespell": "NE-sơ-nơ-l_,NE-s_-nơ-l_"
+  },
+  {
+    "id": 616,
+    "word": "news",
+    "engspell": "/ˈnjuz/, /ˈnuz/",
+    "viespell": "NIU-d_,NU-d_"
+  },
+  {
+    "id": 617,
+    "word": "full",
+    "engspell": "/ˈfʊɫ/",
+    "viespell": "PHU-l_"
+  },
+  {
+    "id": 618,
+    "word": "one",
+    "engspell": "/ˈwən/",
+    "viespell": "UƠN"
+  },
+  {
+    "id": 619,
+    "word": "from",
+    "engspell": "/ˈfɹəm/",
+    "viespell": "PH_-rơm"
+  },
+  {
+    "id": 620,
+    "word": "test",
+    "engspell": "/ˈtɛst/",
+    "viespell": "THE-x_-th_"
+  },
+  {
+    "id": 621,
+    "word": "together",
+    "engspell": "/təˈɡɛðɝ/",
+    "viespell": "thơ-GHE-đơ-r_"
+  },
+  {
+    "id": 622,
+    "word": "two",
+    "engspell": "/ˈtu/",
+    "viespell": "THU"
+  },
+  {
+    "id": 623,
+    "word": "true",
+    "engspell": "/ˈtɹu/",
+    "viespell": "TRU"
+  },
+  {
+    "id": 624,
+    "word": "red",
+    "engspell": "/ˈɹɛd/",
+    "viespell": "RE-đ_"
+  },
+  {
+    "id": 625,
+    "word": "suffer",
+    "engspell": "/ˈsəfɝ/",
+    "viespell": "XƠ-phơ-r_"
+  },
+  {
+    "id": 626,
+    "word": "check",
+    "engspell": "/ˈtʃɛk/",
+    "viespell": "CHÊCH"
+  },
+  {
+    "id": 627,
+    "word": "security",
+    "engspell": "/sɪkˈjʊɹəti/",
+    "viespell": "xich-IU-rơ-thy"
+  },
+  {
+    "id": 628,
+    "word": "above",
+    "engspell": "/əˈbəv/",
+    "viespell": "ơ-BƠ-v_"
+  },
+  {
+    "id": 629,
+    "word": "again",
+    "engspell": "/əˈɡeɪn/, /əˈɡɛn/",
+    "viespell": "ơ-GÂY-n_,ơ-GHEN"
+  },
+  {
+    "id": 630,
+    "word": "opportunity",
+    "engspell": "/ˌɑpɝˈtunəti/",
+    "viespell": "a-pơ-R_-thu-nơ-thy"
+  },
+  {
+    "id": 631,
+    "word": "hear",
+    "engspell": "/ˈhiɹ/",
+    "viespell": "HY-r_"
+  },
+  {
+    "id": 632,
+    "word": "source",
+    "engspell": "/ˈsɔɹs/",
+    "viespell": "XO-r_-x_"
+  },
+  {
+    "id": 633,
+    "word": "fly",
+    "engspell": "/ˈfɫaɪ/",
+    "viespell": "PH_-lai"
+  },
+  {
+    "id": 634,
+    "word": "still",
+    "engspell": "/ˈstɪɫ/",
+    "viespell": "X_-thy-l_"
+  },
+  {
+    "id": 635,
+    "word": "the",
+    "engspell": "/ˈðə/, /ðə/, /ði/",
+    "viespell": "ĐƠ,đơ,đi"
+  },
+  {
+    "id": 636,
+    "word": "scene",
+    "engspell": "/ˈsin/",
+    "viespell": "XIN"
+  },
+  {
+    "id": 637,
+    "word": "attack",
+    "engspell": "/əˈtæk/",
+    "viespell": "ơ-THECH"
+  },
+  {
+    "id": 638,
+    "word": "able",
+    "engspell": "/ˈeɪbəɫ/",
+    "viespell": "ÂY-bơ-l_"
+  },
+  {
+    "id": 639,
+    "word": "than",
+    "engspell": "/ˈðæn/, /ðən/",
+    "viespell": "ĐEN,đơn"
+  },
+  {
+    "id": 640,
+    "word": "measure",
+    "engspell": "/ˈmɛʒɝ/",
+    "viespell": "ME-dơ-r_"
+  },
+  {
+    "id": 641,
+    "word": "letter",
+    "engspell": "/ˈɫɛtɝ/",
+    "viespell": "LE-thơ-r_"
+  },
+  {
+    "id": 642,
+    "word": "firm",
+    "engspell": "/ˈfɝm/",
+    "viespell": "PHƠ-r_-m_"
+  },
+  {
+    "id": 643,
+    "word": "cost",
+    "engspell": "/ˈkɑst/, /ˈkɔst/",
+    "viespell": "KA-x_-th_,KO-x_-th_"
+  },
+  {
+    "id": 644,
+    "word": "theory",
+    "engspell": "/ˈθiɝi/, /ˈθɪɹi/",
+    "viespell": "THY-ơ-ri,THY-ri"
+  },
+  {
+    "id": 645,
+    "word": "person",
+    "engspell": "/ˈpɝsən/",
+    "viespell": "PƠ-r_-xơn"
+  },
+  {
+    "id": 646,
+    "word": "drop",
+    "engspell": "/ˈdɹɑp/, /ˈdɹɔp/",
+    "viespell": "Đ_-rap,Đ_-rop"
+  },
+  {
+    "id": 647,
+    "word": "little",
+    "engspell": "/ˈɫɪtəɫ/",
+    "viespell": "LY-thơ-l_"
+  },
+  {
+    "id": 648,
+    "word": "car",
+    "engspell": "/ˈkɑɹ/",
+    "viespell": "KA-r_"
+  },
+  {
+    "id": 649,
+    "word": "traditional",
+    "engspell": "/tɹəˈdɪʃənəɫ/",
+    "viespell": "trơ-ĐI-sơ-nơ-l_"
+  },
+  {
+    "id": 650,
+    "word": "read",
+    "engspell": "/ˈɹɛd/, /ˈɹid/",
+    "viespell": "RE-đ_,RI-đ_"
+  },
+  {
+    "id": 651,
+    "word": "upon",
+    "engspell": "/əˈpɑn/",
+    "viespell": "ơ-PAN"
+  },
+  {
+    "id": 652,
+    "word": "probably",
+    "engspell": "/ˈpɹɑbəˌbɫi/, /ˈpɹɑbɫi/",
+    "viespell": "P_-ra-bơp-ly,P_-rap-ly"
+  },
+  {
+    "id": 653,
+    "word": "direction",
+    "engspell": "/daɪˈɹɛkʃɪn/, /dɝˈɛkʃən/, /diˈɹɛkʃɪn/, /dɪˈɹɛkʃɪn/",
+    "viespell": "đai-RÊCH-sin,đơ-RÊCH-sơn,đi-RÊCH-sin,đi-RÊCH-sin"
+  },
+  {
+    "id": 654,
+    "word": "send",
+    "engspell": "/ˈsɛnd/",
+    "viespell": "XEN-đ_"
+  },
+  {
+    "id": 655,
+    "word": "key",
+    "engspell": "/ˈki/",
+    "viespell": "KY"
+  },
+  {
+    "id": 656,
+    "word": "bag",
+    "engspell": "/ˈbæɡ/",
+    "viespell": "BEC"
+  },
+  {
+    "id": 657,
+    "word": "treat",
+    "engspell": "/ˈtɹit/",
+    "viespell": "TRIT"
+  },
+  {
+    "id": 658,
+    "word": "something",
+    "engspell": "/ˈsəmθɪŋ/",
+    "viespell": "XƠM-thinh"
+  },
+  {
+    "id": 659,
+    "word": "experience",
+    "engspell": "/ɪkˈspɪɹiəns/",
+    "viespell": "ich-X_-pi-ri-ơn-x_"
+  },
+  {
+    "id": 660,
+    "word": "future",
+    "engspell": "/ˈfjutʃɝ/",
+    "viespell": "PHIU-chơ-r_"
+  },
+  {
+    "id": 661,
+    "word": "bill",
+    "engspell": "/ˈbɪɫ/",
+    "viespell": "BI-l_"
+  },
+  {
+    "id": 662,
+    "word": "difficult",
+    "engspell": "/ˈdɪfəkəɫt/",
+    "viespell": "ĐI-phơ-kơ-l_-th_"
+  },
+  {
+    "id": 663,
+    "word": "teacher",
+    "engspell": "/ˈtitʃɝ/",
+    "viespell": "THY-chơ-r_"
+  },
+  {
+    "id": 664,
+    "word": "discussion",
+    "engspell": "/dɪˈskəʃən/",
+    "viespell": "đi-X_-kơ-sơn"
+  },
+  {
+    "id": 665,
+    "word": "pattern",
+    "engspell": "/ˈpætɝn/",
+    "viespell": "PE-thơ-r_-n_"
+  },
+  {
+    "id": 666,
+    "word": "himself",
+    "engspell": "/hɪmˈsɛɫf/",
+    "viespell": "him-XE-l_-ph_"
+  },
+  {
+    "id": 667,
+    "word": "great",
+    "engspell": "/ˈɡɹeɪt/",
+    "viespell": "G_-rây-th_"
+  },
+  {
+    "id": 668,
+    "word": "heat",
+    "engspell": "/ˈhit/",
+    "viespell": "HIT"
+  },
+  {
+    "id": 669,
+    "word": "go",
+    "engspell": "/ˈɡoʊ/",
+    "viespell": "GÂU"
+  },
+  {
+    "id": 670,
+    "word": "she",
+    "engspell": "/ˈʃi/",
+    "viespell": "SY"
+  },
+  {
+    "id": 671,
+    "word": "both",
+    "engspell": "/ˈboʊθ/",
+    "viespell": "BÂU-th_"
+  },
+  {
+    "id": 672,
+    "word": "customer",
+    "engspell": "/ˈkəstəmɝ/",
+    "viespell": "KƠ-x_-thơ-mơ-r_"
+  },
+  {
+    "id": 673,
+    "word": "lie",
+    "engspell": "/ˈɫaɪ/",
+    "viespell": "LAI"
+  },
+  {
+    "id": 674,
+    "word": "such",
+    "engspell": "/ˈsətʃ/",
+    "viespell": "XƠ-ch_"
+  },
+  {
+    "id": 675,
+    "word": "quite",
+    "engspell": "/ˈkwaɪt/",
+    "viespell": "QUAI-th_"
+  },
+  {
+    "id": 676,
+    "word": "it",
+    "engspell": "/ˈɪt/, /ɪt/",
+    "viespell": "IT,it"
+  },
+  {
+    "id": 677,
+    "word": "until",
+    "engspell": "/ənˈtɪɫ/",
+    "viespell": "ơn-THY-l_"
+  },
+  {
+    "id": 678,
+    "word": "produce",
+    "engspell": "/ˈpɹoʊdus/, /pɹəˈdus/",
+    "viespell": "P_-râu-đu-x_,p_-rơ-ĐU-x_"
+  },
+  {
+    "id": 679,
+    "word": "worry",
+    "engspell": "/ˈwɝi/",
+    "viespell": "UƠ-ri"
+  },
+  {
+    "id": 680,
+    "word": "clear",
+    "engspell": "/ˈkɫɪɹ/",
+    "viespell": "K_-ly-r_"
+  },
+  {
+    "id": 681,
+    "word": "color",
+    "engspell": "/ˈkəɫɝ/, /ˈkɔɫɝ/",
+    "viespell": "KƠ-lơ-r_,KO-lơ-r_"
+  },
+  {
+    "id": 682,
+    "word": "school",
+    "engspell": "/ˈskuɫ/",
+    "viespell": "X_-ku-l_"
+  },
+  {
+    "id": 683,
+    "word": "really",
+    "engspell": "/ˈɹiɫi/, /ˈɹɪɫi/",
+    "viespell": "RI-ly,RI-ly"
+  },
+  {
+    "id": 684,
+    "word": "fine",
+    "engspell": "/ˈfaɪn/",
+    "viespell": "PHAI-n_"
+  },
+  {
+    "id": 685,
+    "word": "within",
+    "engspell": "/wɪˈðɪn/, /wɪˈθɪn/",
+    "viespell": "uy-ĐIN,uy-THIN"
+  },
+  {
+    "id": 686,
+    "word": "production",
+    "engspell": "/pɝˈdəkʃən/, /pɹəˈdəkʃən/, /pɹoʊˈdəkʃən/",
+    "viespell": "pơ-R_-đơc-sơn,p_-rơ-ĐƠC-sơn,p_-râu-ĐƠC-sơn"
+  },
+  {
+    "id": 687,
+    "word": "side",
+    "engspell": "/ˈsaɪd/",
+    "viespell": "XAI-đ_"
+  },
+  {
+    "id": 688,
+    "word": "since",
+    "engspell": "/ˈsɪns/",
+    "viespell": "XIN-x_"
+  },
+  {
+    "id": 689,
+    "word": "what",
+    "engspell": "/ˈhwət/, /ˈwət/",
+    "viespell": "H_-uơt,UƠT"
+  },
+  {
+    "id": 690,
+    "word": "else",
+    "engspell": "/ˈɛɫs/",
+    "viespell": "E-l_-x_"
+  },
+  {
+    "id": 691,
+    "word": "no",
+    "engspell": "/ˈnoʊ/",
+    "viespell": "NÂU"
+  },
+  {
+    "id": 692,
+    "word": "yes",
+    "engspell": "/ˈjɛs/",
+    "viespell": "IE-x_"
+  },
+  {
+    "id": 693,
+    "word": "legal",
+    "engspell": "/ˈɫiɡəɫ/",
+    "viespell": "LY-gơ-l_"
+  },
+  {
+    "id": 694,
+    "word": "anything",
+    "engspell": "/ˈɛniˌθɪŋ/",
+    "viespell": "E-ni-thinh"
+  },
+  {
+    "id": 695,
+    "word": "gas",
+    "engspell": "/ˈɡæs/",
+    "viespell": "GHE-x_"
+  },
+  {
+    "id": 696,
+    "word": "degree",
+    "engspell": "/dɪˈɡɹi/",
+    "viespell": "đi-G_-ri"
+  },
+  {
+    "id": 697,
+    "word": "study",
+    "engspell": "/ˈstədi/",
+    "viespell": "X_-thơ-đi"
+  },
+  {
+    "id": 698,
+    "word": "material",
+    "engspell": "/məˈtɪɹiəɫ/",
+    "viespell": "mơ-THY-ri-ơ-l_"
+  },
+  {
+    "id": 699,
+    "word": "chair",
+    "engspell": "/ˈtʃɛɹ/",
+    "viespell": "CHE-r_"
+  },
+  {
+    "id": 700,
+    "word": "book",
+    "engspell": "/ˈbʊk/",
+    "viespell": "BUC"
+  },
+  {
+    "id": 701,
+    "word": "store",
+    "engspell": "/ˈstɔɹ/",
+    "viespell": "X_-tho-r_"
+  },
+  {
+    "id": 702,
+    "word": "party",
+    "engspell": "/ˈpɑɹti/",
+    "viespell": "PA-r_-thy"
+  },
+  {
+    "id": 703,
+    "word": "total",
+    "engspell": "/ˈtoʊtəɫ/",
+    "viespell": "THÂU-thơ-l_"
+  },
+  {
+    "id": 704,
+    "word": "imagine",
+    "engspell": "/ˌɪˈmædʒən/",
+    "viespell": "i-ME-dơn"
+  },
+  {
+    "id": 705,
+    "word": "affect",
+    "engspell": "/əˈfɛkt/",
+    "viespell": "ơ-PHÊCH-th_"
+  },
+  {
+    "id": 706,
+    "word": "similar",
+    "engspell": "/ˈsɪməɫɝ/",
+    "viespell": "XI-mơ-lơ-r_"
+  },
+  {
+    "id": 707,
+    "word": "keep",
+    "engspell": "/ˈkip/",
+    "viespell": "KIP"
+  },
+  {
+    "id": 708,
+    "word": "although",
+    "engspell": "/ˌɔɫˈðoʊ/",
+    "viespell": "o-l_-ĐÂU"
+  },
+  {
+    "id": 709,
+    "word": "people",
+    "engspell": "/ˈpipəɫ/",
+    "viespell": "PI-pơ-l_"
+  },
+  {
+    "id": 710,
+    "word": "to",
+    "engspell": "/ˈtu/, /tə/, /tɪ/",
+    "viespell": "THU,thơ,thy"
+  },
+  {
+    "id": 711,
+    "word": "provide",
+    "engspell": "/pɹəˈvaɪd/",
+    "viespell": "p_-rơ-VAI-đ_"
+  },
+  {
+    "id": 712,
+    "word": "issue",
+    "engspell": "/ˈɪʃu/",
+    "viespell": "I-su"
+  },
+  {
+    "id": 713,
+    "word": "last",
+    "engspell": "/ˈɫæs/, /ˈɫæst/",
+    "viespell": "LE-x_,LE-x_-th_"
+  },
+  {
+    "id": 714,
+    "word": "statement",
+    "engspell": "/ˈsteɪtmənt/",
+    "viespell": "X_-thây-th_-mơn-th_"
+  },
+  {
+    "id": 715,
+    "word": "there",
+    "engspell": "/ˈðɛɹ/",
+    "viespell": "ĐE-r_"
+  },
+  {
+    "id": 716,
+    "word": "part",
+    "engspell": "/ˈpɑɹt/",
+    "viespell": "PA-r_-th_"
+  },
+  {
+    "id": 717,
+    "word": "television",
+    "engspell": "/ˈtɛɫəˌvɪʒən/",
+    "viespell": "THE-lơ-vi-dơn"
+  },
+  {
+    "id": 718,
+    "word": "expert",
+    "engspell": "/ˈɛkspɝt/",
+    "viespell": "ÊCH-x_-pơ-r_-th_"
+  },
+  {
+    "id": 719,
+    "word": "would",
+    "engspell": "/ˈwʊd/",
+    "viespell": "WU-đ_"
+  },
+  {
+    "id": 720,
+    "word": "apply",
+    "engspell": "/əˈpɫaɪ/",
+    "viespell": "ơ-P_-lai"
+  },
+  {
+    "id": 721,
+    "word": "necessary",
+    "engspell": "/ˈnɛsəˌsɛɹi/",
+    "viespell": "NE-xơ-xe-ri"
+  },
+  {
+    "id": 722,
+    "word": "might",
+    "engspell": "/ˈmaɪt/",
+    "viespell": "MAI-th_"
+  },
+  {
+    "id": 723,
+    "word": "team",
+    "engspell": "/ˈtim/",
+    "viespell": "THIM"
+  },
+  {
+    "id": 724,
+    "word": "trade",
+    "engspell": "/ˈtɹeɪd/",
+    "viespell": "TRÂY-đ_"
+  },
+  {
+    "id": 725,
+    "word": "investment",
+    "engspell": "/ˌɪnˈvɛsmənt/, /ˌɪnˈvɛstmənt/",
+    "viespell": "in-VE-x_-mơn-th_,in-VE-x_-th_-mơn-th_"
+  },
+  {
+    "id": 726,
+    "word": "likely",
+    "engspell": "/ˈɫaɪkɫi/",
+    "viespell": "LAI-k_-ly"
+  },
+  {
+    "id": 727,
+    "word": "floor",
+    "engspell": "/ˈfɫɔɹ/",
+    "viespell": "PH_-lo-r_"
+  },
+  {
+    "id": 728,
+    "word": "young",
+    "engspell": "/ˈjəŋ/",
+    "viespell": "Ơ-ng_"
+  },
+  {
+    "id": 729,
+    "word": "glass",
+    "engspell": "/ˈɡɫæs/",
+    "viespell": "G_-le-x_"
+  },
+  {
+    "id": 730,
+    "word": "mean",
+    "engspell": "/ˈmin/",
+    "viespell": "MIN"
+  },
+  {
+    "id": 731,
+    "word": "attorney",
+    "engspell": "/əˈtɝni/",
+    "viespell": "ơ-THƠ-r_-ni"
+  },
+  {
+    "id": 732,
+    "word": "environment",
+    "engspell": "/ɪnˈvaɪɹənmənt/",
+    "viespell": "in-VAI-rơn-mơn-th_"
+  },
+  {
+    "id": 733,
+    "word": "act",
+    "engspell": "/ˈækt/",
+    "viespell": "ECH-th_"
+  },
+  {
+    "id": 734,
+    "word": "though",
+    "engspell": "/ˈðoʊ/",
+    "viespell": "ĐÂU"
+  },
+  {
+    "id": 735,
+    "word": "word",
+    "engspell": "/ˈwɝd/",
+    "viespell": "UƠ-r_-đ_"
+  },
+  {
+    "id": 736,
+    "word": "crime",
+    "engspell": "/ˈkɹaɪm/",
+    "viespell": "K_-rai-m_"
+  },
+  {
+    "id": 737,
+    "word": "perhaps",
+    "engspell": "/pɝˈhæps/",
+    "viespell": "pơ-R_-hep-x_"
+  },
+  {
+    "id": 738,
+    "word": "capital",
+    "engspell": "/ˈkæpətəɫ/, /ˈkæpɪtəɫ/",
+    "viespell": "KE-pơ-thơ-l_,KE-pi-thơ-l_"
+  },
+  {
+    "id": 739,
+    "word": "window",
+    "engspell": "/ˈwɪndoʊ/",
+    "viespell": "UYN-đâu"
+  },
+  {
+    "id": 740,
+    "word": "research",
+    "engspell": "/ˈɹisɝtʃ/, /ɹiˈsɝtʃ/",
+    "viespell": "RI-xơ-r_-ch_,ri-XƠ-r_-ch_"
+  },
+  {
+    "id": 741,
+    "word": "yeah",
+    "engspell": "/ˈjæ/",
+    "viespell": "YE"
+  },
+  {
+    "id": 742,
+    "word": "financial",
+    "engspell": "/ˌfaɪˈnænʃəɫ/, /fəˈnænʃəɫ/, /fɪˈnænʃəɫ/",
+    "viespell": "phai-NEN-sơ-l_,phơ-NEN-sơ-l_,phy-NEN-sơ-l_"
+  },
+  {
+    "id": 743,
+    "word": "stop",
+    "engspell": "/ˈstɑp/",
+    "viespell": "X_-thap"
+  },
+  {
+    "id": 744,
+    "word": "protect",
+    "engspell": "/pɹəˈtɛkt/",
+    "viespell": "p_-rơ-THÊCH-th_"
+  },
+  {
+    "id": 745,
+    "word": "parent",
+    "engspell": "/ˈpɛɹənt/",
+    "viespell": "PE-rơn-th_"
+  },
+  {
+    "id": 746,
+    "word": "less",
+    "engspell": "/ˈɫɛs/",
+    "viespell": "LE-x_"
+  },
+  {
+    "id": 747,
+    "word": "method",
+    "engspell": "/ˈmɛθəd/",
+    "viespell": "ME-thơ-đ_"
+  },
+  {
+    "id": 748,
+    "word": "yet",
+    "engspell": "/ˈjɛt/",
+    "viespell": "IE-th_"
+  },
+  {
+    "id": 749,
+    "word": "lead",
+    "engspell": "/ˈɫɛd/, /ˈɫid/",
+    "viespell": "LE-đ_,LY-đ_"
+  },
+  {
+    "id": 750,
+    "word": "point",
+    "engspell": "/ˈpɔɪnt/",
+    "viespell": "PO-in-th_"
+  },
+  {
+    "id": 751,
+    "word": "laugh",
+    "engspell": "/ˈɫæf/",
+    "viespell": "LE-ph_"
+  },
+  {
+    "id": 752,
+    "word": "sexual",
+    "engspell": "/ˈsɛkʃuəɫ/",
+    "viespell": "XÊCH-su-ơ-l_"
+  },
+  {
+    "id": 753,
+    "word": "speech",
+    "engspell": "/ˈspitʃ/",
+    "viespell": "X_-pi-ch_"
+  },
+  {
+    "id": 754,
+    "word": "follow",
+    "engspell": "/ˈfɑɫoʊ/",
+    "viespell": "PHA-lâu"
+  },
+  {
+    "id": 755,
+    "word": "later",
+    "engspell": "/ˈɫeɪtɝ/",
+    "viespell": "LÂY-thơ-r_"
+  },
+  {
+    "id": 756,
+    "word": "live",
+    "engspell": "/ˈɫaɪv/, /ˈɫɪv/",
+    "viespell": "LAI-v_,LY-v_"
+  },
+  {
+    "id": 757,
+    "word": "report",
+    "engspell": "/ɹiˈpɔɹt/, /ɹɪˈpɔɹt/",
+    "viespell": "ri-PO-r_-th_,ri-PO-r_-th_"
+  },
+  {
+    "id": 758,
+    "word": "other",
+    "engspell": "/ˈəðɝ/",
+    "viespell": "Ơ-đơ-r_"
+  },
+  {
+    "id": 759,
+    "word": "visit",
+    "engspell": "/ˈvɪzɪt/",
+    "viespell": "VI-dit"
+  },
+  {
+    "id": 760,
+    "word": "door",
+    "engspell": "/ˈdɔɹ/",
+    "viespell": "ĐO-r_"
+  },
+  {
+    "id": 761,
+    "word": "across",
+    "engspell": "/əˈkɹɔs/",
+    "viespell": "ơ-K_-ro-x_"
+  },
+  {
+    "id": 762,
+    "word": "dream",
+    "engspell": "/ˈdɹim/",
+    "viespell": "Đ_-rim"
+  },
+  {
+    "id": 763,
+    "word": "project",
+    "engspell": "/ˈpɹɑdʒɛkt/, /pɹəˈdʒɛkt/",
+    "viespell": "P_-ra-dêch-th_,p_-rơ-DÊCH-th_"
+  },
+  {
+    "id": 764,
+    "word": "death",
+    "engspell": "/ˈdɛθ/",
+    "viespell": "ĐE-th_"
+  },
+  {
+    "id": 765,
+    "word": "watch",
+    "engspell": "/ˈwɑtʃ/, /ˈwɔtʃ/",
+    "viespell": "OA-ch_,WO-ch_"
+  },
+  {
+    "id": 766,
+    "word": "center",
+    "engspell": "/ˈsɛnɝ/, /ˈsɛntɝ/",
+    "viespell": "XE-nơ-r_,XEN-thơ-r_"
+  },
+  {
+    "id": 767,
+    "word": "course",
+    "engspell": "/ˈkɔɹs/",
+    "viespell": "KO-r_-x_"
+  },
+  {
+    "id": 768,
+    "word": "decade",
+    "engspell": "/ˈdɛkeɪd/, /dɛˈkeɪd/",
+    "viespell": "ĐE-kây-đ_,đe-KÂY-đ_"
+  },
+  {
+    "id": 769,
+    "word": "fear",
+    "engspell": "/ˈfɪɹ/",
+    "viespell": "PHY-r_"
+  },
+  {
+    "id": 770,
+    "word": "pressure",
+    "engspell": "/ˈpɹɛʃɝ/",
+    "viespell": "P_-re-sơ-r_"
+  },
+  {
+    "id": 771,
+    "word": "bar",
+    "engspell": "/ˈbɑɹ/",
+    "viespell": "BA-r_"
+  },
+  {
+    "id": 772,
+    "word": "kid",
+    "engspell": "/ˈkɪd/",
+    "viespell": "KY-đ_"
+  },
+  {
+    "id": 773,
+    "word": "hit",
+    "engspell": "/ˈhɪt/",
+    "viespell": "HIT"
+  },
+  {
+    "id": 774,
+    "word": "recent",
+    "engspell": "/ˈɹisənt/",
+    "viespell": "RI-xơn-th_"
+  },
+  {
+    "id": 775,
+    "word": "view",
+    "engspell": "/ˈvju/",
+    "viespell": "VIU"
+  },
+  {
+    "id": 776,
+    "word": "their",
+    "engspell": "/ˈðɛɹ/",
+    "viespell": "ĐE-r_"
+  },
+  {
+    "id": 777,
+    "word": "physical",
+    "engspell": "/ˈfɪzɪkəɫ/",
+    "viespell": "PHY-di-kơ-l_"
+  },
+  {
+    "id": 778,
+    "word": "camera",
+    "engspell": "/ˈkæmɝə/, /ˈkæmɹə/",
+    "viespell": "KE-mơ-rơ,KEM-rơ"
+  },
+  {
+    "id": 779,
+    "word": "record",
+    "engspell": "/ˈɹɛkɝd/, /ɹəˈkɔɹd/, /ɹɪˈkɔɹd/",
+    "viespell": "RE-kơ-r_-đ_,rơ-KO-r_-đ_,ri-KO-r_-đ_"
+  },
+  {
+    "id": 780,
+    "word": "then",
+    "engspell": "/ˈðɛn/",
+    "viespell": "ĐEN"
+  },
+  {
+    "id": 781,
+    "word": "discuss",
+    "engspell": "/dɪˈskəs/",
+    "viespell": "đi-X_-kơ-x_"
+  },
+  {
+    "id": 782,
+    "word": "that",
+    "engspell": "/ˈðæt/, /ðət/",
+    "viespell": "ĐET,đơt"
+  },
+  {
+    "id": 783,
+    "word": "take",
+    "engspell": "/ˈteɪk/",
+    "viespell": "THÂY-k_"
+  },
+  {
+    "id": 784,
+    "word": "kind",
+    "engspell": "/ˈkaɪnd/",
+    "viespell": "KAI-n_-đ_"
+  },
+  {
+    "id": 785,
+    "word": "green",
+    "engspell": "/ˈɡɹin/",
+    "viespell": "G_-rin"
+  },
+  {
+    "id": 786,
+    "word": "front",
+    "engspell": "/ˈfɹənt/",
+    "viespell": "PH_-rơn-th_"
+  },
+  {
+    "id": 787,
+    "word": "right",
+    "engspell": "/ˈɹaɪt/",
+    "viespell": "RAI-th_"
+  },
+  {
+    "id": 788,
+    "word": "idea",
+    "engspell": "/aɪˈdiə/",
+    "viespell": "ai-ĐI-ơ"
+  },
+  {
+    "id": 789,
+    "word": "special",
+    "engspell": "/ˈspɛʃəɫ/",
+    "viespell": "X_-pe-sơ-l_"
+  },
+  {
+    "id": 790,
+    "word": "accept",
+    "engspell": "/ækˈsɛpt/, /əkˈsɛpt/",
+    "viespell": "ech-XEP-th_,ơc-XEP-th_"
+  },
+  {
+    "id": 791,
+    "word": "run",
+    "engspell": "/ˈɹən/",
+    "viespell": "RƠN"
+  },
+  {
+    "id": 792,
+    "word": "machine",
+    "engspell": "/məˈʃin/",
+    "viespell": "mơ-SIN"
+  },
+  {
+    "id": 793,
+    "word": "learn",
+    "engspell": "/ˈɫɝn/",
+    "viespell": "LƠ-r_-n_"
+  },
+  {
+    "id": 794,
+    "word": "feeling",
+    "engspell": "/ˈfiɫɪŋ/",
+    "viespell": "PHY-linh"
+  },
+  {
+    "id": 795,
+    "word": "peace",
+    "engspell": "/ˈpis/",
+    "viespell": "PI-x_"
+  },
+  {
+    "id": 796,
+    "word": "north",
+    "engspell": "/ˈnɔɹθ/",
+    "viespell": "NO-r_-th_"
+  },
+  {
+    "id": 797,
+    "word": "ball",
+    "engspell": "/ˈbɔɫ/",
+    "viespell": "BO-l_"
+  },
+  {
+    "id": 798,
+    "word": "standard",
+    "engspell": "/ˈstændɝd/",
+    "viespell": "X_-then-đơ-r_-đ_"
+  },
+  {
+    "id": 799,
+    "word": "possible",
+    "engspell": "/ˈpɑsəbəɫ/",
+    "viespell": "PA-xơ-bơ-l_"
+  },
+  {
+    "id": 800,
+    "word": "where",
+    "engspell": "/ˈhwɛɹ/, /ˈwɛɹ/",
+    "viespell": "H_-oe-r_,OE-r_"
+  },
+  {
+    "id": 801,
+    "word": "born",
+    "engspell": "/ˈbɔɹn/",
+    "viespell": "BO-r_-n_"
+  },
+  {
+    "id": 802,
+    "word": "step",
+    "engspell": "/ˈstɛp/",
+    "viespell": "X_-thep"
+  },
+  {
+    "id": 803,
+    "word": "figure",
+    "engspell": "/ˈfɪɡjɝ/",
+    "viespell": "PHY-gơ-r_"
+  },
+  {
+    "id": 804,
+    "word": "high",
+    "engspell": "/ˈhaɪ/",
+    "viespell": "HAI"
+  },
+  {
+    "id": 805,
+    "word": "program",
+    "engspell": "/ˈpɹoʊˌɡɹæm/",
+    "viespell": "P_-râu-g_-rem"
+  },
+  {
+    "id": 806,
+    "word": "hotel",
+    "engspell": "/hoʊˈtɛɫ/",
+    "viespell": "hâu-THE-l_"
+  },
+  {
+    "id": 807,
+    "word": "shake",
+    "engspell": "/ˈʃeɪk/",
+    "viespell": "SÂY-k_"
+  },
+  {
+    "id": 808,
+    "word": "food",
+    "engspell": "/ˈfud/",
+    "viespell": "PHU-đ_"
+  },
+  {
+    "id": 809,
+    "word": "big",
+    "engspell": "/ˈbɪɡ/",
+    "viespell": "BICH"
+  },
+  {
+    "id": 810,
+    "word": "through",
+    "engspell": "/ˈθɹu/",
+    "viespell": "TH_-ru"
+  },
+  {
+    "id": 811,
+    "word": "weight",
+    "engspell": "/ˈweɪt/",
+    "viespell": "UÂY-th_"
+  },
+  {
+    "id": 812,
+    "word": "space",
+    "engspell": "/ˈspeɪs/",
+    "viespell": "X_-pây-x_"
+  },
+  {
+    "id": 813,
+    "word": "nothing",
+    "engspell": "/ˈnəθɪŋ/",
+    "viespell": "NƠ-thinh"
+  },
+  {
+    "id": 814,
+    "word": "boy",
+    "engspell": "/ˈbɔɪ/",
+    "viespell": "BO-i"
+  },
+  {
+    "id": 815,
+    "word": "bit",
+    "engspell": "/ˈbɪt/",
+    "viespell": "BIT"
+  },
+  {
+    "id": 816,
+    "word": "least",
+    "engspell": "/ˈɫist/",
+    "viespell": "LY-x_-th_"
+  },
+  {
+    "id": 817,
+    "word": "rule",
+    "engspell": "/ˈɹuɫ/",
+    "viespell": "RU-l_"
+  },
+  {
+    "id": 818,
+    "word": "stage",
+    "engspell": "/ˈsteɪdʒ/",
+    "viespell": "X_-thây-d_"
+  },
+  {
+    "id": 819,
+    "word": "spend",
+    "engspell": "/ˈspɛnd/",
+    "viespell": "X_-pen-đ_"
+  },
+  {
+    "id": 820,
+    "word": "during",
+    "engspell": "/ˈdɝɪŋ/, /ˈdjʊɹɪŋ/, /ˈdʊɹɪŋ/",
+    "viespell": "ĐƠ-rinh,ĐIU-rinh,ĐU-rinh"
+  },
+  {
+    "id": 821,
+    "word": "community",
+    "engspell": "/kəmˈjunəti/, /kəmˈjunɪti/",
+    "viespell": "kơm-IU-nơ-thy,kơm-IU-ni-thy"
+  },
+  {
+    "id": 822,
+    "word": "thus",
+    "engspell": "/ˈðəs/",
+    "viespell": "ĐƠ-x_"
+  },
+  {
+    "id": 823,
+    "word": "song",
+    "engspell": "/ˈsɔŋ/",
+    "viespell": "XOONG"
+  },
+  {
+    "id": 824,
+    "word": "plant",
+    "engspell": "/ˈpɫænt/",
+    "viespell": "P_-len-th_"
+  },
+  {
+    "id": 825,
+    "word": "lose",
+    "engspell": "/ˈɫuz/",
+    "viespell": "LU-d_"
+  },
+  {
+    "id": 826,
+    "word": "attention",
+    "engspell": "/əˈtɛnʃən/",
+    "viespell": "ơ-THEN-sơn"
+  },
+  {
+    "id": 827,
+    "word": "head",
+    "engspell": "/ˈhɛd/",
+    "viespell": "HE-đ_"
+  },
+  {
+    "id": 828,
+    "word": "build",
+    "engspell": "/ˈbɪɫd/",
+    "viespell": "BI-l_-đ_"
+  },
+  {
+    "id": 829,
+    "word": "safe",
+    "engspell": "/ˈseɪf/",
+    "viespell": "XÂY-ph_"
+  },
+  {
+    "id": 830,
+    "word": "never",
+    "engspell": "/ˈnɛvɝ/",
+    "viespell": "NE-vơ-r_"
+  },
+  {
+    "id": 831,
+    "word": "oh",
+    "engspell": "/ˈoʊ/",
+    "viespell": "ÂU"
+  },
+  {
+    "id": 832,
+    "word": "his",
+    "engspell": "/ˈhɪz/, /hɪz/",
+    "viespell": "HY-d_,hy-d_"
+  },
+  {
+    "id": 833,
+    "word": "style",
+    "engspell": "/ˈstaɪɫ/",
+    "viespell": "X_-thai-l_"
+  },
+  {
+    "id": 834,
+    "word": "individual",
+    "engspell": "/ˌɪndəˈvɪdʒəwəɫ/",
+    "viespell": "in-đơ-VI-dơ-uơ-l_"
+  },
+  {
+    "id": 835,
+    "word": "family",
+    "engspell": "/ˈfæməɫi/, /ˈfæmɫi/",
+    "viespell": "PHE-mơ-ly,PHEM-ly"
+  },
+  {
+    "id": 836,
+    "word": "me",
+    "engspell": "/ˈmi/",
+    "viespell": "MY"
+  },
+  {
+    "id": 837,
+    "word": "modern",
+    "engspell": "/ˈmɑdɝn/",
+    "viespell": "MA-đơ-r_-n_"
+  },
+  {
+    "id": 838,
+    "word": "bad",
+    "engspell": "/ˈbæd/",
+    "viespell": "BE-đ_"
+  },
+  {
+    "id": 839,
+    "word": "forward",
+    "engspell": "/ˈfɔɹwɝd/",
+    "viespell": "PHO-r_-uơ-r_-đ_"
+  },
+  {
+    "id": 840,
+    "word": "technology",
+    "engspell": "/tɛkˈnɑɫədʒi/",
+    "viespell": "thêch-NA-lơ-di"
+  },
+  {
+    "id": 841,
+    "word": "set",
+    "engspell": "/ˈsɛt/",
+    "viespell": "XET"
+  },
+  {
+    "id": 842,
+    "word": "player",
+    "engspell": "/ˈpɫeɪɝ/",
+    "viespell": "P_-lây-ơ-r_"
+  },
+  {
+    "id": 843,
+    "word": "under",
+    "engspell": "/ˈəndɝ/",
+    "viespell": "ƠN-đơ-r_"
+  },
+  {
+    "id": 844,
+    "word": "population",
+    "engspell": "/ˌpɑpjəˈɫeɪʃən/",
+    "viespell": "pa-pơ-LÂY-sơn"
+  },
+  {
+    "id": 845,
+    "word": "third",
+    "engspell": "/ˈθɝd/",
+    "viespell": "THƠ-r_-đ_"
+  },
+  {
+    "id": 846,
+    "word": "another",
+    "engspell": "/əˈnəðɝ/",
+    "viespell": "ơ-NƠ-đơ-r_"
+  },
+  {
+    "id": 847,
+    "word": "seat",
+    "engspell": "/ˈsit/",
+    "viespell": "XIT"
+  },
+  {
+    "id": 848,
+    "word": "happy",
+    "engspell": "/ˈhæpi/",
+    "viespell": "HE-pi"
+  },
+  {
+    "id": 849,
+    "word": "many",
+    "engspell": "/ˈmɛni/",
+    "viespell": "ME-ni"
+  },
+  {
+    "id": 850,
+    "word": "education",
+    "engspell": "/ˌɛdʒəˈkeɪʃən/, /ˌɛdʒjuˈkeɪʃən/",
+    "viespell": "e-dơ-KÂY-sơn,e-diu-KÂY-sơn"
+  },
+  {
+    "id": 851,
+    "word": "heart",
+    "engspell": "/ˈhɑɹt/",
+    "viespell": "HA-r_-th_"
+  },
+  {
+    "id": 852,
+    "word": "music",
+    "engspell": "/ˈmjuzɪk/",
+    "viespell": "MIU-dich"
+  },
+  {
+    "id": 853,
+    "word": "career",
+    "engspell": "/kɝˈɪɹ/",
+    "viespell": "kơ-RI-r_"
+  },
+  {
+    "id": 854,
+    "word": "quality",
+    "engspell": "/ˈkwɑɫəti/",
+    "viespell": "QUA-lơ-thy"
+  },
+  {
+    "id": 855,
+    "word": "wait",
+    "engspell": "/ˈweɪt/",
+    "viespell": "UÂY-th_"
+  },
+  {
+    "id": 856,
+    "word": "sign",
+    "engspell": "/ˈsaɪn/",
+    "viespell": "XAI-n_"
+  },
+  {
+    "id": 857,
+    "word": "bring",
+    "engspell": "/ˈbɹɪŋ/",
+    "viespell": "B_-rinh"
+  },
+  {
+    "id": 858,
+    "word": "score",
+    "engspell": "/ˈskɔɹ/",
+    "viespell": "X_-ko-r_"
+  },
+  {
+    "id": 859,
+    "word": "fact",
+    "engspell": "/ˈfækt/",
+    "viespell": "PHECH-th_"
+  },
+  {
+    "id": 860,
+    "word": "white",
+    "engspell": "/ˈhwaɪt/, /ˈwaɪt/",
+    "viespell": "H_-oai-th_,OAI-th_"
+  },
+  {
+    "id": 861,
+    "word": "hang",
+    "engspell": "/ˈhæŋ/",
+    "viespell": "HENG"
+  },
+  {
+    "id": 862,
+    "word": "media",
+    "engspell": "/ˈmidiə/",
+    "viespell": "MY-đi-ơ"
+  },
+  {
+    "id": 863,
+    "word": "somebody",
+    "engspell": "/ˈsəmˌbɑdi/, /ˈsəmbəˌdi/",
+    "viespell": "XƠM-ba-đi,XƠM-bơ-đi"
+  },
+  {
+    "id": 864,
+    "word": "summer",
+    "engspell": "/ˈsəmɝ/",
+    "viespell": "XƠ-mơ-r_"
+  },
+  {
+    "id": 865,
+    "word": "sport",
+    "engspell": "/ˈspɔɹt/",
+    "viespell": "X_-po-r_-th_"
+  },
+  {
+    "id": 866,
+    "word": "trouble",
+    "engspell": "/ˈtɹəbəɫ/",
+    "viespell": "TRƠ-bơ-l_"
+  },
+  {
+    "id": 867,
+    "word": "whom",
+    "engspell": "/ˈhum/",
+    "viespell": "HUM"
+  },
+  {
+    "id": 868,
+    "word": "scientist",
+    "engspell": "/ˈsaɪəntɪst/",
+    "viespell": "XAI-ơn-thy-x_-th_"
+  },
+  {
+    "id": 869,
+    "word": "thought",
+    "engspell": "/ˈθɔt/",
+    "viespell": "THOT"
+  },
+  {
+    "id": 870,
+    "word": "stand",
+    "engspell": "/ˈstænd/",
+    "viespell": "X_-then-đ_"
+  },
+  {
+    "id": 871,
+    "word": "better",
+    "engspell": "/ˈbɛtɝ/",
+    "viespell": "BE-thơ-r_"
+  },
+  {
+    "id": 872,
+    "word": "everyone",
+    "engspell": "/ˈɛvɹiˌwən/",
+    "viespell": "E-v_-ri-uơn"
+  },
+  {
+    "id": 873,
+    "word": "without",
+    "engspell": "/wɪˈðaʊt/, /wɪˈθaʊt/",
+    "viespell": "uy-ĐAO-th_,uy-THAO-th_"
+  },
+  {
+    "id": 874,
+    "word": "economic",
+    "engspell": "/ˌɛkəˈnɑmɪk/, /ˌikəˈnɑmɪk/",
+    "viespell": "e-kơ-NA-mich,i-kơ-NA-mich"
+  },
+  {
+    "id": 875,
+    "word": "now",
+    "engspell": "/ˈnaʊ/",
+    "viespell": "NAO"
+  },
+  {
+    "id": 876,
+    "word": "we",
+    "engspell": "/ˈwi/",
+    "viespell": "UY"
+  },
+  {
+    "id": 877,
+    "word": "myself",
+    "engspell": "/ˌmaɪˈsɛɫf/",
+    "viespell": "mai-XE-l_-ph_"
+  },
+  {
+    "id": 878,
+    "word": "also",
+    "engspell": "/ˈɔɫsoʊ/",
+    "viespell": "O-l_-xâu"
+  },
+  {
+    "id": 879,
+    "word": "believe",
+    "engspell": "/bɪˈɫiv/",
+    "viespell": "bi-LY-v_"
+  },
+  {
+    "id": 880,
+    "word": "want",
+    "engspell": "/ˈwɑnt/, /ˈwɔnt/",
+    "viespell": "OAN-th_,WON-th_"
+  },
+  {
+    "id": 881,
+    "word": "dog",
+    "engspell": "/ˈdɔɡ/",
+    "viespell": "ĐOOC"
+  },
+  {
+    "id": 882,
+    "word": "put",
+    "engspell": "/ˈpʊt/",
+    "viespell": "PUT"
+  },
+  {
+    "id": 883,
+    "word": "respond",
+    "engspell": "/ɹiˈspɑnd/, /ɹɪˈspɑnd/",
+    "viespell": "ri-X_-pan-đ_,ri-X_-pan-đ_"
+  },
+  {
+    "id": 884,
+    "word": "think",
+    "engspell": "/ˈθɪŋk/",
+    "viespell": "THINH-k_"
+  },
+  {
+    "id": 885,
+    "word": "win",
+    "engspell": "/ˈwɪn/",
+    "viespell": "UYN"
+  },
+  {
+    "id": 886,
+    "word": "effect",
+    "engspell": "/ˈifɛkt/, /əˈfɛkt/, /ɪˈfɛkt/",
+    "viespell": "I-phêch-th_,ơ-PHÊCH-th_,i-PHÊCH-th_"
+  },
+  {
+    "id": 887,
+    "word": "early",
+    "engspell": "/ˈɝɫi/",
+    "viespell": "Ơ-r_-ly"
+  },
+  {
+    "id": 888,
+    "word": "phone",
+    "engspell": "/ˈfoʊn/",
+    "viespell": "PHÂU-n_"
+  },
+  {
+    "id": 889,
+    "word": "prevent",
+    "engspell": "/pɹiˈvɛnt/, /pɹɪˈvɛnt/",
+    "viespell": "p_-ri-VEN-th_,p_-ri-VEN-th_"
+  },
+  {
+    "id": 890,
+    "word": "section",
+    "engspell": "/ˈsɛkʃən/",
+    "viespell": "XÊCH-sơn"
+  },
+  {
+    "id": 891,
+    "word": "minute",
+    "engspell": "/ˈmɪnət/, /maɪˈnut/, /maɪnˈjut/",
+    "viespell": "MY-nơt,mai-NUT,mai-n_-IU-th_"
+  },
+  {
+    "id": 892,
+    "word": "name",
+    "engspell": "/ˈneɪm/",
+    "viespell": "NÂY-m_"
+  },
+  {
+    "id": 893,
+    "word": "paper",
+    "engspell": "/ˈpeɪpɝ/",
+    "viespell": "PÂY-pơ-r_"
+  },
+  {
+    "id": 894,
+    "word": "ability",
+    "engspell": "/əˈbɪɫəˌti/",
+    "viespell": "ơ-BI-lơ-thy"
+  },
+  {
+    "id": 895,
+    "word": "onto",
+    "engspell": "/ˈɑntu/, /ˈɔntu/",
+    "viespell": "AN-thu,ON-thu"
+  },
+  {
+    "id": 896,
+    "word": "general",
+    "engspell": "/ˈdʒɛnɝəɫ/, /ˈdʒɛnɹəɫ/",
+    "viespell": "DE-nơ-rơ-l_,DEN-rơ-l_"
+  },
+  {
+    "id": 897,
+    "word": "entire",
+    "engspell": "/ɪnˈtaɪɝ/",
+    "viespell": "in-THAI-ơ-r_"
+  },
+  {
+    "id": 898,
+    "word": "cup",
+    "engspell": "/ˈkəp/",
+    "viespell": "KƠP"
+  },
+  {
+    "id": 899,
+    "word": "response",
+    "engspell": "/ɹiˈspɑns/, /ɹɪˈspɑns/",
+    "viespell": "ri-X_-pan-x_,ri-X_-pan-x_"
+  },
+  {
+    "id": 900,
+    "word": "remember",
+    "engspell": "/ɹiˈmɛmbɝ/, /ɹɪˈmɛmbɝ/",
+    "viespell": "ri-MEM-bơ-r_,ri-MEM-bơ-r_"
+  },
+  {
+    "id": 901,
+    "word": "hour",
+    "engspell": "/ˈaʊɝ/, /ˈaʊɹ/",
+    "viespell": "AO-ơ-r_,AO-r_"
+  },
+  {
+    "id": 902,
+    "word": "look",
+    "engspell": "/ˈɫʊk/",
+    "viespell": "LUC"
+  },
+  {
+    "id": 903,
+    "word": "establish",
+    "engspell": "/ɪˈstæbɫɪʃ/",
+    "viespell": "i-X_-thep-ly-s_"
+  },
+  {
+    "id": 904,
+    "word": "case",
+    "engspell": "/ˈkeɪs/",
+    "viespell": "KÂY-x_"
+  },
+  {
+    "id": 905,
+    "word": "cause",
+    "engspell": "/ˈkɑz/, /ˈkɔz/",
+    "viespell": "KA-d_,KO-d_"
+  },
+  {
+    "id": 906,
+    "word": "reach",
+    "engspell": "/ˈɹitʃ/",
+    "viespell": "RI-ch_"
+  },
+  {
+    "id": 907,
+    "word": "good",
+    "engspell": "/ˈɡʊd/, /ɡɪd/",
+    "viespell": "GU-đ_,ghy-đ_"
+  },
+  {
+    "id": 908,
+    "word": "skin",
+    "engspell": "/ˈskɪn/",
+    "viespell": "X_-kin"
+  },
+  {
+    "id": 909,
+    "word": "radio",
+    "engspell": "/ˈɹeɪdiˌoʊ/",
+    "viespell": "RÂY-đi-âu"
+  },
+  {
+    "id": 910,
+    "word": "street",
+    "engspell": "/ˈstɹit/",
+    "viespell": "X_-trit"
+  },
+  {
+    "id": 911,
+    "word": "generation",
+    "engspell": "/ˌdʒɛnɝˈeɪʃən/",
+    "viespell": "de-nơ-RÂY-sơn"
+  },
+  {
+    "id": 912,
+    "word": "stock",
+    "engspell": "/ˈstɑk/",
+    "viespell": "X_-thac"
+  },
+  {
+    "id": 913,
+    "word": "popular",
+    "engspell": "/ˈpɑpjəɫɝ/",
+    "viespell": "PA-pơ-lơ-r_"
+  },
+  {
+    "id": 914,
+    "word": "marriage",
+    "engspell": "/ˈmɛɹɪdʒ/",
+    "viespell": "ME-ri-d_"
+  },
+  {
+    "id": 915,
+    "word": "present",
+    "engspell": "/ˈpɹɛzənt/, /pɝˈzɛnt/, /pɹiˈzɛnt/",
+    "viespell": "P_-re-dơn-th_,pơ-R_-den-th_,p_-ri-DEN-th_"
+  },
+  {
+    "id": 916,
+    "word": "indicate",
+    "engspell": "/ˈɪndəˌkeɪt/",
+    "viespell": "IN-đơ-kây-th_"
+  },
+  {
+    "id": 917,
+    "word": "enjoy",
+    "engspell": "/ˌɛnˈdʒɔɪ/, /ɪnˈdʒɔɪ/",
+    "viespell": "en-DO-i,in-DO-i"
+  },
+  {
+    "id": 918,
+    "word": "pretty",
+    "engspell": "/ˈpɹɪti/",
+    "viespell": "P_-ri-thy"
+  },
+  {
+    "id": 919,
+    "word": "religious",
+    "engspell": "/ɹiˈɫɪdʒəs/, /ɹɪˈɫɪdʒəs/",
+    "viespell": "ri-LY-dơ-x_,ri-LY-dơ-x_"
+  },
+  {
+    "id": 920,
+    "word": "government",
+    "engspell": "/ˈɡəvɝmənt/, /ˈɡəvɝnmənt/",
+    "viespell": "GƠ-vơ-r_-mơn-th_,GƠ-vơ-r_-n_-mơn-th_"
+  },
+  {
+    "id": 921,
+    "word": "into",
+    "engspell": "/ˈɪntu/, /ɪnˈtu/, /ɪntə/",
+    "viespell": "IN-thu,in-THU,in-thơ"
+  },
+  {
+    "id": 922,
+    "word": "need",
+    "engspell": "/ˈnid/",
+    "viespell": "NI-đ_"
+  },
+  {
+    "id": 923,
+    "word": "consider",
+    "engspell": "/kənˈsɪdɝ/",
+    "viespell": "kơn-XI-đơ-r_"
+  },
+  {
+    "id": 924,
+    "word": "policy",
+    "engspell": "/ˈpɑɫəsi/",
+    "viespell": "PA-lơ-xi"
+  },
+  {
+    "id": 925,
+    "word": "listen",
+    "engspell": "/ˈɫɪsən/",
+    "viespell": "LY-xơn"
+  },
+  {
+    "id": 926,
+    "word": "medical",
+    "engspell": "/ˈmɛdəkəɫ/, /ˈmɛdɪkəɫ/",
+    "viespell": "ME-đơ-kơ-l_,ME-đi-kơ-l_"
+  },
+  {
+    "id": 927,
+    "word": "answer",
+    "engspell": "/ˈænsɝ/",
+    "viespell": "EN-xơ-r_"
+  },
+  {
+    "id": 928,
+    "word": "station",
+    "engspell": "/ˈsteɪʃən/",
+    "viespell": "X_-thây-sơn"
+  },
+  {
+    "id": 929,
+    "word": "public",
+    "engspell": "/ˈpəbɫɪk/",
+    "viespell": "PƠP-lich"
+  },
+  {
+    "id": 930,
+    "word": "nor",
+    "engspell": "/ˈnɔɹ/",
+    "viespell": "NO-r_"
+  },
+  {
+    "id": 931,
+    "word": "goal",
+    "engspell": "/ˈɡoʊɫ/",
+    "viespell": "GÂU-l_"
+  },
+  {
+    "id": 932,
+    "word": "move",
+    "engspell": "/ˈmuv/",
+    "viespell": "MU-v_"
+  },
+  {
+    "id": 933,
+    "word": "bed",
+    "engspell": "/ˈbɛd/",
+    "viespell": "BE-đ_"
+  },
+  {
+    "id": 934,
+    "word": "country",
+    "engspell": "/ˈkəntɹi/",
+    "viespell": "KƠN-tri"
+  },
+  {
+    "id": 935,
+    "word": "easy",
+    "engspell": "/ˈizi/",
+    "viespell": "I-di"
+  },
+  {
+    "id": 936,
+    "word": "president",
+    "engspell": "/ˈpɹɛzəˌdɛnt/, /ˈpɹɛzɪdənt/",
+    "viespell": "P_-re-dơ-đen-th_,P_-re-di-đơn-th_"
+  },
+  {
+    "id": 937,
+    "word": "Republican",
+    "engspell": "/ɹiˈpəbɫəkən/, /ɹiˈpəbɫɪkən/, /ɹɪˈpəbɫɪkən/",
+    "viespell": "ri-PƠP-lơ-kơn,ri-PƠP-ly-kơn,ri-PƠP-ly-kơn"
+  },
+  {
+    "id": 938,
+    "word": "interesting",
+    "engspell": "/ˈɪntɝəstɪŋ/, /ˈɪntɝɪstɪŋ/, /ˈɪntɹəstɪŋ/, /ˈɪntɹɪstɪŋ/",
+    "viespell": "IN-thơ-rơ-x_-thinh,IN-thơ-ri-x_-thinh,IN-trơ-x_-thinh,IN-tri-x_-thinh"
+  },
+  {
+    "id": 939,
+    "word": "know",
+    "engspell": "/ˈnoʊ/",
+    "viespell": "NÂU"
+  },
+  {
+    "id": 940,
+    "word": "sit",
+    "engspell": "/ˈsɪt/",
+    "viespell": "XIT"
+  },
+  {
+    "id": 941,
+    "word": "almost",
+    "engspell": "/ˈɔɫˌmoʊst/",
+    "viespell": "O-l_-mâu-x_-th_"
+  },
+  {
+    "id": 942,
+    "word": "range",
+    "engspell": "/ˈɹeɪndʒ/",
+    "viespell": "RÂY-n_-d_"
+  },
+  {
+    "id": 943,
+    "word": "out",
+    "engspell": "/ˈaʊt/",
+    "viespell": "AO-th_"
+  },
+  {
+    "id": 944,
+    "word": "draw",
+    "engspell": "/ˈdɹɔ/",
+    "viespell": "Đ_-ro"
+  },
+  {
+    "id": 945,
+    "word": "place",
+    "engspell": "/ˈpɫeɪs/",
+    "viespell": "P_-lây-x_"
+  },
+  {
+    "id": 946,
+    "word": "cold",
+    "engspell": "/ˈkoʊɫd/",
+    "viespell": "KÂU-l_-đ_"
+  },
+  {
+    "id": 947,
+    "word": "beat",
+    "engspell": "/ˈbit/",
+    "viespell": "BIT"
+  },
+  {
+    "id": 948,
+    "word": "manage",
+    "engspell": "/ˈmænədʒ/, /ˈmænɪdʒ/",
+    "viespell": "ME-nơ-d_,ME-ni-d_"
+  },
+  {
+    "id": 949,
+    "word": "nature",
+    "engspell": "/ˈneɪtʃɝ/",
+    "viespell": "NÂY-chơ-r_"
+  },
+  {
+    "id": 950,
+    "word": "management",
+    "engspell": "/ˈmænədʒmənt/, /ˈmænɪdʒmənt/",
+    "viespell": "ME-nơ-d_-mơn-th_,ME-ni-d_-mơn-th_"
+  },
+  {
+    "id": 951,
+    "word": "occur",
+    "engspell": "/əˈkɝ/",
+    "viespell": "ơ-KƠ-r_"
+  },
+  {
+    "id": 952,
+    "word": "father",
+    "engspell": "/ˈfɑðɝ/",
+    "viespell": "PHA-đơ-r_"
+  },
+  {
+    "id": 953,
+    "word": "seek",
+    "engspell": "/ˈsik/",
+    "viespell": "XICH"
+  },
+  {
+    "id": 954,
+    "word": "history",
+    "engspell": "/ˈhɪstɝi/, /ˈhɪstɹi/",
+    "viespell": "HY-x_-thơ-ri,HY-x_-tri"
+  },
+  {
+    "id": 955,
+    "word": "guy",
+    "engspell": "/ˈɡaɪ/",
+    "viespell": "GAI"
+  },
+  {
+    "id": 956,
+    "word": "these",
+    "engspell": "/ˈðiz/",
+    "viespell": "ĐI-d_"
+  },
+  {
+    "id": 957,
+    "word": "edge",
+    "engspell": "/ˈɛdʒ/",
+    "viespell": "E-d_"
+  },
+  {
+    "id": 958,
+    "word": "development",
+    "engspell": "/dɪˈvɛɫəpmənt/",
+    "viespell": "đi-VE-lơp-mơn-th_"
+  },
+  {
+    "id": 959,
+    "word": "explain",
+    "engspell": "/ɪksˈpɫeɪn/",
+    "viespell": "ich-x_-P_-lây-n_"
+  },
+  {
+    "id": 960,
+    "word": "argue",
+    "engspell": "/ˈɑɹɡju/",
+    "viespell": "A-r_-ghiu"
+  },
+  {
+    "id": 961,
+    "word": "must",
+    "engspell": "/ˈməst/",
+    "viespell": "MƠ-x_-th_"
+  },
+  {
+    "id": 962,
+    "word": "property",
+    "engspell": "/ˈpɹɑpɝti/",
+    "viespell": "P_-ra-pơ-r_-thy"
+  },
+  {
+    "id": 963,
+    "word": "design",
+    "engspell": "/dɪˈzaɪn/",
+    "viespell": "đi-DAI-n_"
+  },
+  {
+    "id": 964,
+    "word": "significant",
+    "engspell": "/səɡˈnɪfɪkənt/, /sɪɡˈnɪfɪkənt/",
+    "viespell": "xơc-NI-phy-kơn-th_,xich-NI-phy-kơn-th_"
+  },
+  {
+    "id": 965,
+    "word": "reflect",
+    "engspell": "/ɹɪˈfɫɛkt/",
+    "viespell": "ri-PH_-lêch-th_"
+  },
+  {
+    "id": 966,
+    "word": "director",
+    "engspell": "/daɪˈɹɛktɝ/, /dɝˈɛktɝ/, /diˈɹɛktɝ/, /dɪˈɹɛktɝ/",
+    "viespell": "đai-RÊCH-thơ-r_,đơ-RÊCH-thơ-r_,đi-RÊCH-thơ-r_,đi-RÊCH-thơ-r_"
+  },
+  {
+    "id": 967,
+    "word": "behavior",
+    "engspell": "/bɪˈheɪvjɝ/",
+    "viespell": "bi-HÂY-vơ-r_"
+  },
+  {
+    "id": 968,
+    "word": "action",
+    "engspell": "/ˈækʃən/",
+    "viespell": "ECH-sơn"
+  },
+  {
+    "id": 969,
+    "word": "help",
+    "engspell": "/ˈhɛɫp/",
+    "viespell": "HE-l_-p_"
+  },
+  {
+    "id": 970,
+    "word": "off",
+    "engspell": "/ˈɔf/",
+    "viespell": "O-ph_"
+  },
+  {
+    "id": 971,
+    "word": "position",
+    "engspell": "/pəˈzɪʃən/",
+    "viespell": "pơ-DI-sơn"
+  },
+  {
+    "id": 972,
+    "word": "commercial",
+    "engspell": "/kəˈmɝʃəɫ/",
+    "viespell": "kơ-MƠ-r_-sơ-l_"
+  },
+  {
+    "id": 973,
+    "word": "past",
+    "engspell": "/ˈpæst/",
+    "viespell": "PE-x_-th_"
+  },
+  {
+    "id": 974,
+    "word": "prove",
+    "engspell": "/ˈpɹuv/",
+    "viespell": "P_-ru-v_"
+  },
+  {
+    "id": 975,
+    "word": "get",
+    "engspell": "/ˈɡɛt/, /ˈɡɪt/",
+    "viespell": "GHET,GHIT"
+  },
+  {
+    "id": 976,
+    "word": "ten",
+    "engspell": "/ˈtɛn/",
+    "viespell": "THEN"
+  },
+  {
+    "id": 977,
+    "word": "strategy",
+    "engspell": "/ˈstɹætədʒi/",
+    "viespell": "X_-tre-thơ-di"
+  },
+  {
+    "id": 978,
+    "word": "century",
+    "engspell": "/ˈsɛntʃɝi/",
+    "viespell": "XEN-chơ-ri"
+  },
+  {
+    "id": 979,
+    "word": "order",
+    "engspell": "/ˈɔɹdɝ/",
+    "viespell": "O-r_-đơ-r_"
+  },
+  {
+    "id": 980,
+    "word": "citizen",
+    "engspell": "/ˈsɪtəzən/, /ˈsɪtɪzən/",
+    "viespell": "XI-thơ-dơn,XI-thy-dơn"
+  },
+  {
+    "id": 981,
+    "word": "office",
+    "engspell": "/ˈɔfɪs/",
+    "viespell": "O-phy-x_"
+  },
+  {
+    "id": 982,
+    "word": "whether",
+    "engspell": "/ˈhwɛðɝ/, /ˈwɛðɝ/",
+    "viespell": "H_-oe-đơ-r_,OE-đơ-r_"
+  },
+  {
+    "id": 983,
+    "word": "wrong",
+    "engspell": "/ˈɹɔŋ/",
+    "viespell": "ROONG"
+  },
+  {
+    "id": 984,
+    "word": "today",
+    "engspell": "/təˈdeɪ/, /tuˈdeɪ/",
+    "viespell": "thơ-ĐÂY,thu-ĐÂY"
+  },
+  {
+    "id": 985,
+    "word": "spring",
+    "engspell": "/ˈspɹɪŋ/, /spɝˈɪŋ/",
+    "viespell": "X_-p_-rinh,x_-pơ-RINH"
+  },
+  {
+    "id": 986,
+    "word": "leave",
+    "engspell": "/ˈɫiv/",
+    "viespell": "LY-v_"
+  },
+  {
+    "id": 987,
+    "word": "type",
+    "engspell": "/ˈtaɪp/",
+    "viespell": "THAI-p_"
+  },
+  {
+    "id": 988,
+    "word": "election",
+    "engspell": "/ɪˈɫɛkʃən/",
+    "viespell": "i-LÊCH-sơn"
+  },
+  {
+    "id": 989,
+    "word": "sound",
+    "engspell": "/ˈsaʊnd/",
+    "viespell": "XAO-n_-đ_"
+  },
+  {
+    "id": 990,
+    "word": "relate",
+    "engspell": "/ɹiˈɫeɪt/, /ɹɪˈɫeɪt/",
+    "viespell": "ri-LÂY-th_,ri-LÂY-th_"
+  },
+  {
+    "id": 991,
+    "word": "few",
+    "engspell": "/ˈfju/",
+    "viespell": "PHIU"
+  },
+  {
+    "id": 992,
+    "word": "serve",
+    "engspell": "/ˈsɝv/",
+    "viespell": "XƠ-r_-v_"
+  },
+  {
+    "id": 993,
+    "word": "long",
+    "engspell": "/ˈɫɔŋ/",
+    "viespell": "LOONG"
+  },
+  {
+    "id": 994,
+    "word": "outside",
+    "engspell": "/ˈaʊtˈsaɪd/",
+    "viespell": "AO-th_-XAI-đ_"
+  },
+  {
+    "id": 995,
+    "word": "carry",
+    "engspell": "/ˈkæɹi/, /ˈkɛɹi/",
+    "viespell": "KE-ri,KE-ri"
+  },
+  {
+    "id": 996,
+    "word": "middle",
+    "engspell": "/ˈmɪdəɫ/",
+    "viespell": "MY-đơ-l_"
+  },
+  {
+    "id": 997,
+    "word": "major",
+    "engspell": "/ˈmeɪdʒɝ/",
+    "viespell": "MÂY-dơ-r_"
+  },
+  {
+    "id": 998,
+    "word": "sea",
+    "engspell": "/ˈsi/",
+    "viespell": "XI"
+  },
+  {
+    "id": 999,
+    "word": "toward",
+    "engspell": "/ˈtɔɹd/, /təˈwɔɹd/",
+    "viespell": "THO-r_-đ_,thơ-WO-r_-đ_"
+  },
+  {
+    "id": 1000,
+    "word": "idea",
+    "engspell": "/aɪˈdiə/",
+    "viespell": "ai-ĐI-ơ"
+  }
+]

@@ -13,7 +13,7 @@ const Searchresult = (props: SceneProps) => {
     props;
 
   return (
-    <div className="text-black bg-[#EEEEEE] dark:bg-[#101729] dark:border-[1px] dark:border-[#364154] rounded-[10px] mt-1 absolute z-10 w-[720px]">
+    <div className="text-black bg-[#EEEEEE] dark:bg-[#101729] dark:border-[1px] dark:border-[#364154] rounded-[10px] mt-1 absolute z-10 w-[720px] max-h-[365px] overflow-auto">
       {results.map((result, id) => {
         return (
           <div
@@ -27,7 +27,7 @@ const Searchresult = (props: SceneProps) => {
             }}
           >
             <BsTranslate className="mr-3 text-[#B2B2B2]" />
-            {result.name}
+            {result.word}
           </div>
         );
       })}

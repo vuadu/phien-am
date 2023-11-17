@@ -1,5 +1,4 @@
 "use client";
-import { Data } from "../app/api/data.json";
 import React, { useEffect, useState } from "react";
 import { BiSearch } from "react-icons/bi";
 
@@ -34,14 +33,8 @@ const SearchBar = (props: SceneProps) => {
       const response = await fetch("/data.json")
         .then((response) => response.json())
         .then((json) => {
-          console.log(json);
           const results = json.filter((user: any) => {
-            return (
-              value &&
-              user &&
-              user.name &&
-              user.name.toLowerCase().includes(value)
-            );
+            return user && user.word && user.word.toLowerCase().includes(value);
           });
           setResults(results);
         });

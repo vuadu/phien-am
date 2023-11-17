@@ -1,4 +1,5 @@
 import _ from "lodash";
+import * as fs from 'fs';
 import { LIST_1000 } from "./1000";
 import { ENDING_VOWEL_MAPPING, LETTER_MAPPING, NULL_MAPPING } from "./constants";
 import { Syllable, parse } from "./parser.generated";
@@ -109,13 +110,66 @@ export const getEndingVowels = () =>
 
 // getEndingVowels();
 
+
+
+// Convert the new data to a JSON-formatted string
+
+const filePath = 'public/data.json';
+const emptyArray: any[] = [];
+const emptyJsonData = JSON.stringify(emptyArray, null, 2);
+
+try {
+  fs.writeFileSync(filePath, emptyJsonData);
+  console.log(`Data in ${filePath} has been cleared.`);
+} catch (error) {
+  console.error(`Error clearing data in ${filePath}: ${error}`);
+}
+// Initialize an empty array to store the data
+let existingData: any[] = [];
+
+// Parse the existing JSON file if it exists
+try {
+  const fileContent = fs.readFileSync(filePath, 'utf-8');
+  existingData = JSON.parse(fileContent);
+} catch (error) {
+  console.error(`Error reading ${filePath}: ${error}`);
+}
+
+// Iterate over the words
 _(LIST_1000)
-  .shuffle() // DevSkim: ignore DS148264
-  .take(100)
-  .concat([
-    "idea",
-  ])
-  .forEach((w) => {
+  .shuffle()
+  .take(1000)
+  .concat(["idea"])
+  .forEach((w, index) => {
+    console.log(_(map(w))
+    .map((p) => [p.ipa])
+    .value())
+    const newStringData = `{"id": ${existingData.length  + 1}, "word": "${w}", "engspell": "${_(map(w))
+      .map((p) => [p.ipa])
+      .value()}", "viespell": "${_(map(w))
+        .map((p) => [p.vi])
+        .value()}"}`;
+
+    let newData: any;
+
+    try {
+      newData = JSON.parse(newStringData);
+    } catch (error) {
+      console.error(`Error parsing new data: ${error}`);
+      return; // Skip to the next iteration if parsing fails
+    }
+
+    existingData.push(newData);
+
+    const updatedJsonData = JSON.stringify(existingData, null, 2);
+
+    try {
+      fs.writeFileSync(filePath, updatedJsonData);
+      console.log(`Data has been updated and written to ${filePath}`);
+    } catch (error) {
+      console.error(`Error writing updated data to ${filePath}: ${error}`);
+    }
+
     console.log(
       w,
       ..._(map(w))
@@ -159,3 +213,9 @@ _(LIST_1000)
 //         .join(" ")
 //     );
 //   });
+
+
+
+// Your new data as a string
+
+
