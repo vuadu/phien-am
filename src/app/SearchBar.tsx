@@ -47,9 +47,9 @@ const SearchBar = (props: SceneProps) => {
   // }, []);
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const value = (e.target as HTMLInputElement).value;
-    setInput(value);
-    fetchData(value);
+    // const value = (e.currentTarget as HTMLInputElement).value;
+    // setInput(value);
+    // fetchData(value);
   };
   return (
     <div className="w-full flex items-center mt-4 h-[50px] bg-[#EEEEEE] dark:bg-transparent dark:border-[1px] dark:border-[#364154] text-[#B2B2B2] text-[20px] font-regular py-2 px-4 rounded-[10px]">
