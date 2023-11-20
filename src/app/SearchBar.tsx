@@ -1,9 +1,9 @@
 "use client";
-import React, { useEffect, useState } from "react";
+import React, { useEffect, ChangeEvent, useState } from "react";
 import { BiSearch } from "react-icons/bi";
 
 export type SceneProps = {
-  setResults: React.Dispatch<React.SetStateAction<never[]>>;
+  setResults: React.Dispatch<React.SetStateAction<any[]>>;
   setSreachResultWindow: React.Dispatch<React.SetStateAction<string>>;
 };
 
@@ -32,7 +32,8 @@ const SearchBar = (props: SceneProps) => {
     try {
       const response = await fetch("/data.json")
         .then((response) => response.json())
-        .then((json) => {
+        .then((json: any) => {
+          console.log(json);
           const results = json.filter((user: any) => {
             return user && user.word && user.word.toLowerCase().includes(value);
           });
@@ -45,8 +46,8 @@ const SearchBar = (props: SceneProps) => {
 
   // }, []);
 
-  const handChange = (value: any) => {
-    console.log(value);
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const value = (e.target as HTMLInputElement).value;
     setInput(value);
     fetchData(value);
   };
@@ -60,10 +61,7 @@ const SearchBar = (props: SceneProps) => {
             title="Tìm kiếm"
             className=" px-2 w-full outline-none bg-transparent text-[#B2B2B2]"
             placeholder="Tìm kiếm từ khoá"
-            onChange={(e) => {
-              // console.log(e.target.value.toLowerCase());
-              handChange(e.target.value.toLowerCase());
-            }}
+            onChange={handleChange}
             onClick={() => {
               setSreachResultWindow("flex");
             }}

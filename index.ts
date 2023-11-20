@@ -4,6 +4,7 @@ import { LIST_1000 } from "./1000";
 import { ENDING_VOWEL_MAPPING, LETTER_MAPPING, NULL_MAPPING } from "./constants";
 import { Syllable, parse } from "./parser.generated";
 
+
 const ipaDict = _(await Bun.file("./en_US.txt").text())
   .split("\n") //Split a string into substrings when endline
   .filter(_.identity)

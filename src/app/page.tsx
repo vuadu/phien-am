@@ -9,39 +9,46 @@ import { BiSearch } from "react-icons/bi";
 import React, { useEffect, useState } from "react";
 import SearchBar from "./SearchBar";
 import Header from "./Header";
-import Searchresult from "./Searchresult";
 import SearchDisplay from "./SearchDisplay";
+import SearchResult from "./SearchResult";
+
+export type SceneProps = {
+  clickResult: {
+    word: string;
+    engspell: string;
+    viespell: string;
+  };
+};
 
 export default function Home() {
-  const [results, setResults] = useState([]);
-  const [sreachResultWindow, setSreachResultWindow] = useState("");
-  const [clickResult, setClickResult] = useState([]);
+  const [results, setResults] = useState<Array<any>>([]);
+  const [sreachResultWindow, setSreachResultWindow] = useState<string>("");
+  const [clickResult, setClickResult] = useState<any>(null);
 
   useEffect(() => {
-    const eventHandler = (event: { matches: any }) => {
-      event.matches
-        ? (document.documentElement.className = "dark")
-        : (document.documentElement.className = "light");
-    };
-
-    if (window.matchMedia("(prefers-color-scheme: dark)").matches === true) {
-      localStorage.theme = "dark";
-      document.documentElement.classList.add("dark");
-    } else {
-      localStorage.theme = "light";
-      document.documentElement.classList.remove("dark");
-    }
+    //   const eventHandler = (event: { matches: any }) => {
+    //     event.matches
+    //       ? (document.documentElement.className = "dark")
+    //       : (document.documentElement.className = "light");
+    //   };
+    //   if (window.matchMedia("(prefers-color-scheme: dark)").matches === true) {
+    //     localStorage.theme = "dark";
+    //     document.documentElement.classList.add("dark");
+    //   } else {
+    //     localStorage.theme = "light";
+    //     document.documentElement.classList.remove("dark");
+    //   }
   });
 
   const changeTheme = () => {
-    console.log(localStorage.theme);
-    if (localStorage.theme === "dark") {
-      localStorage.theme = "light";
-      document.documentElement.classList.remove("dark");
-    } else {
-      localStorage.theme = "dark";
-      document.documentElement.classList.add("dark");
-    }
+    // console.log(localStorage.theme);
+    // if (localStorage.theme === "dark") {
+    //   localStorage.theme = "light";
+    //   document.documentElement.classList.remove("dark");
+    // } else {
+    //   localStorage.theme = "dark";
+    //   document.documentElement.classList.add("dark");
+    // }
   };
 
   return (
@@ -54,7 +61,7 @@ export default function Home() {
             setResults={setResults}
             setSreachResultWindow={setSreachResultWindow}
           />
-          <Searchresult
+          <SearchResult
             results={results}
             setSreachResultWindow={setSreachResultWindow}
             sreachResultWindow={sreachResultWindow}

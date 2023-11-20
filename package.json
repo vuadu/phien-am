@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "burn": "^0.2.5",
     "next": "14.0.0",
     "react": "^18",
     "react-dom": "^18",
@@ -28,5 +29,10 @@
     "typescript": "^5"
   },
   "module": "index.ts",
-  "type": "commonjs"
+  "type": "commonjs",
+  "compilerOptions": {
+    "jsx": "react",
+    "dom": true
+
+  }
 }

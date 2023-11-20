@@ -2,13 +2,13 @@ import React, { useState } from "react";
 import { BsTranslate } from "react-icons/bs";
 
 export type SceneProps = {
-  results: Array<[]>;
+  results: any[];
   setSreachResultWindow: React.Dispatch<React.SetStateAction<string>>;
   sreachResultWindow: string;
-  setClickResult: React.Dispatch<React.SetStateAction<never[]>>;
+  setClickResult: React.Dispatch<any>;
 };
 
-const Searchresult = (props: SceneProps) => {
+const SearchResult = (props: SceneProps) => {
   const { results, sreachResultWindow, setSreachResultWindow, setClickResult } =
     props;
 
@@ -27,7 +27,7 @@ const Searchresult = (props: SceneProps) => {
             }}
           >
             <BsTranslate className="mr-3 text-[#B2B2B2]" />
-            {result.word}
+            {result.word.charAt(0).toUpperCase() + result.word.slice(1)}
           </div>
         );
       })}
@@ -35,4 +35,4 @@ const Searchresult = (props: SceneProps) => {
   );
 };
 
-export default Searchresult;
+export default SearchResult;
