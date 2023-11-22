@@ -5,6 +5,7 @@ import { BsFillSunFill } from "react-icons/bs";
 export type HeaderProps = {
   changeTheme: () => void;
 };
+
 export default function Header(props: HeaderProps) {
   const { changeTheme } = props;
   return (

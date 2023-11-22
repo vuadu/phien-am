@@ -142,9 +142,7 @@ _(LIST_1000)
   .take(1000)
   .concat(["idea"])
   .forEach((w, index) => {
-    console.log(_(map(w))
-    .map((p) => [p.ipa])
-    .value())
+    // Export data to public/data.json
     const newStringData = `{"id": ${existingData.length  + 1}, "word": "${w}", "engspell": "${_(map(w))
       .map((p) => [p.ipa])
       .value()}", "viespell": "${_(map(w))
@@ -216,7 +214,5 @@ _(LIST_1000)
 //   });
 
 
-
-// Your new data as a string
 
 
