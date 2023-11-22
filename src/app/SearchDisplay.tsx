@@ -11,9 +11,6 @@ export type SceneProps = {
 const SearchDisplay = (props: SceneProps) => {
   const { clickResult } = props;
 
-  console.log("clickResult", clickResult);
-
-  // Check if clickResult is not null before accessing its properties
   if (clickResult) {
     return (
       <div className="absolute top-1/3 px-4">
@@ -33,8 +30,7 @@ const SearchDisplay = (props: SceneProps) => {
       </div>
     );
   } else {
-    // Handle the case when clickResult is null (optional)
-    return <div className="absolute top-1/3 px-4"></div>;
+    return;
   }
 };
 

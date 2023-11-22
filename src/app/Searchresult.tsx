@@ -1,14 +1,14 @@
 import React, { useState } from "react";
 import { BsTranslate } from "react-icons/bs";
 
-export type SceneProps = {
+export type SearchResultProps = {
   results: any[];
   setSreachResultWindow: React.Dispatch<React.SetStateAction<string>>;
   sreachResultWindow: string;
   setClickResult: React.Dispatch<any>;
 };
 
-const SearchResult = (props: SceneProps) => {
+const SearchResult = (props: SearchResultProps) => {
   const { results, sreachResultWindow, setSreachResultWindow, setClickResult } =
     props;
 

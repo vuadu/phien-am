@@ -2,10 +2,10 @@ import React from "react";
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { BsFillSunFill } from "react-icons/bs";
 
-export type SceneProps = {
+export type HeaderProps = {
   changeTheme: () => void;
 };
-export default function Header(props: SceneProps) {
+export default function Header(props: HeaderProps) {
   const { changeTheme } = props;
   return (
     <header className="h-[100px] w-[1024px] flex mx-auto justify-between items-center  ">
