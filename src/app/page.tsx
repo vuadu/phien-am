@@ -1,9 +1,12 @@
 "use client";
+import _ from "lodash";
 import React, { useEffect, useState } from "react";
 import SearchBar from "./SearchBar";
 import Header from "./Header";
 import SearchDisplay from "./SearchDisplay";
 import SearchResult from "./SearchResult";
+// import { getVieTranslation } from "../..";
+import Redis from "ioredis";
 
 export type SceneProps = {
   clickResult: {
@@ -17,6 +20,8 @@ export default function Home() {
   const [results, setResults] = useState<Array<any>>([]);
   const [sreachResultWindow, setSreachResultWindow] = useState<string>("");
   const [clickResult, setClickResult] = useState<any>(null);
+
+  // console.log(getVieTranslation("about"));
 
   const changeTheme = () => {
     // console.log(localStorage.theme);
@@ -38,6 +43,7 @@ export default function Home() {
           <SearchBar
             setResults={setResults}
             setSreachResultWindow={setSreachResultWindow}
+            setClickResult={setClickResult}
           />
           <SearchResult
             results={results}

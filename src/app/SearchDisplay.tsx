@@ -10,12 +10,13 @@ export type SearchDisplayProps = {
 
 const SearchDisplay = (props: SearchDisplayProps) => {
   const { clickResult } = props;
+  console.log(clickResult);
 
   if (clickResult) {
     return (
       <div className="absolute top-1/3 px-4">
         <p className="text-[#1C2C39] dark:text-white text-[36px] font-medium">
-          {clickResult.word.charAt(0).toUpperCase() + clickResult.word.slice(1)}
+          {clickResult.word.toUpperCase()}
         </p>
         <p className="text-[16px] dark:text-[#8D98AB] text-[#B2B2B2] font-regular ml-1">
           {clickResult.engspell}
